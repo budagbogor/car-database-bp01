@@ -14,6 +14,7 @@ async function migrate() {
     '003_create_differential_table.sql', 
     '004_seed_differential_data.sql',
     '005_add_brake_columns.sql',
+    '007_fix_power_steering.sql',
     '006_add_aftermarket_recommendations.sql'
   ];
 
