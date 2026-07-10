@@ -561,6 +561,7 @@
       <div class="form-group full"><label>Fluida Power Steering</label><textarea id="fFluidaPowerSteering" placeholder="ATF Dexron III / Tidak menggunakan fluida, dsb."></textarea></div>
       <div class="form-group full"><label>Tipe Sistem Rem</label><input id="fTipeSistemRem" placeholder="Depan: Ventilated Disc, Belakang: Drum"></div>
       <div class="form-group"><label>Minyak Rem</label><input id="fMinyakRem" placeholder="DOT 3 / DOT 4"></div>
+      <div class="form-group full"><label>Rekomendasi Aftermarket</label><textarea id="fRekomendasiAftermarket" placeholder="Misal: <div class='rek-item'>Mesin: Motul</div>"></textarea></div>
     </form>
     <div class="admin-actions">
       <button class="btn" id="adminCancel">Batal</button>
@@ -869,6 +870,17 @@ async function openDetail(id) {
         </div>
       `;
     }
+
+    if (r.rekomendasi_aftermarket) {
+      document.getElementById('modalBody').innerHTML += `
+        <div class="modal-section" style="margin-top:24px;">
+          <div class="modal-section-title" style="color:#f59e0b;border-bottom-color:#b45309;">🛒 Rekomendasi Substitusi Aftermarket</div>
+          <div style="font-size:13px; line-height:1.6; color:var(--muted2); padding:10px; background:rgba(0,0,0,0.2); border-radius:6px; border:1px solid var(--border);">
+            ${r.rekomendasi_aftermarket}
+          </div>
+        </div>
+      `;
+    }
   } catch(e) {
     document.getElementById('modalBody').innerHTML = `<p style="color:var(--red);padding:20px;">Gagal memuat: ${e.message}</p>`;
   }
@@ -934,6 +946,7 @@ function openAdminForm(data=null) {
     document.getElementById('fFluidaPowerSteering').value = data.fluida_power_steering || '';
     document.getElementById('fTipeSistemRem').value = data.tipe_sistem_rem || '';
     document.getElementById('fMinyakRem').value = data.minyak_rem || '';
+    document.getElementById('fRekomendasiAftermarket').value = data.rekomendasi_aftermarket || '';
   }
   modal.classList.add('open');
 }
@@ -970,6 +983,7 @@ document.getElementById('adminSave').onclick = async () => {
     fluida_power_steering: document.getElementById('fFluidaPowerSteering').value,
     tipe_sistem_rem:     document.getElementById('fTipeSistemRem').value,
     minyak_rem:          document.getElementById('fMinyakRem').value,
+    rekomendasi_aftermarket: document.getElementById('fRekomendasiAftermarket').value,
   };
 
   if (!body.merek || !body.model) { toast('Merek dan Model wajib diisi.','error'); return; }

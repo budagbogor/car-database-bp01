@@ -214,14 +214,15 @@ app.get('/api/export/csv', async (req, res) => {
       'Merek','Model','Tahun','Kategori','Bahan Bakar','Kode Mesin',
       'Kapasitas CC','Tipe Transmisi','Detail Transmisi','Viskositas Oli',
       'Standar Oli','Kapasitas Oli','Oli Transmisi','Tipe Power Steering',
-      'Fluida Power Steering','Tipe Sistem Rem','Minyak Rem'
+      'Fluida Power Steering','Tipe Sistem Rem','Minyak Rem','Rekomendasi Aftermarket'
     ].join(',');
 
     const csvRows = rows.map(r => [
       r.merek, r.model, r.tahun, r.kategori, r.bahan_bakar, r.kode_mesin,
       r.kapasitas_cc, r.tipe_transmisi, r.detail_transmisi, r.viskositas_oli,
       r.standar_oli, r.kapasitas_oli, r.oli_transmisi, r.tipe_power_steering,
-      r.fluida_power_steering, r.tipe_sistem_rem, r.minyak_rem
+      r.fluida_power_steering, r.tipe_sistem_rem, r.minyak_rem,
+      r.rekomendasi_aftermarket
     ].map(v => `"${String(v || '').replace(/"/g, '""')}"`).join(','));
 
     const csv = [header, ...csvRows].join('\r\n');
@@ -245,7 +246,7 @@ app.post('/api/kendaraan', requireAdmin, async (req, res) => {
     kapasitas_cc, tipe_transmisi, detail_transmisi, viskositas_oli,
     standar_oli, kapasitas_oli, oli_transmisi,
     tipe_power_steering, fluida_power_steering,
-    tipe_sistem_rem, minyak_rem
+    tipe_sistem_rem, minyak_rem, rekomendasi_aftermarket
   } = req.body;
 
   if (!merek || !model) {
@@ -259,14 +260,14 @@ app.post('/api/kendaraan', requireAdmin, async (req, res) => {
           kapasitas_cc, tipe_transmisi, detail_transmisi, viskositas_oli,
           standar_oli, kapasitas_oli, oli_transmisi,
           tipe_power_steering, fluida_power_steering,
-          tipe_sistem_rem, minyak_rem)
-       VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15,$16,$17)
+          tipe_sistem_rem, minyak_rem, rekomendasi_aftermarket)
+       VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15,$16,$17,$18)
        RETURNING *`,
       [merek, model, tahun, kategori, bahan_bakar, kode_mesin,
        kapasitas_cc, tipe_transmisi, detail_transmisi, viskositas_oli,
        standar_oli, kapasitas_oli, oli_transmisi,
        tipe_power_steering, fluida_power_steering,
-       tipe_sistem_rem, minyak_rem]
+       tipe_sistem_rem, minyak_rem, rekomendasi_aftermarket]
     );
     res.status(201).json(rows[0]);
   } catch (e) {
@@ -284,7 +285,7 @@ app.put('/api/kendaraan/:id', requireAdmin, async (req, res) => {
     kapasitas_cc, tipe_transmisi, detail_transmisi, viskositas_oli,
     standar_oli, kapasitas_oli, oli_transmisi,
     tipe_power_steering, fluida_power_steering,
-    tipe_sistem_rem, minyak_rem
+    tipe_sistem_rem, minyak_rem, rekomendasi_aftermarket
   } = req.body;
 
   try {
@@ -295,15 +296,15 @@ app.put('/api/kendaraan/:id', requireAdmin, async (req, res) => {
          detail_transmisi=$9, viskositas_oli=$10, standar_oli=$11,
          kapasitas_oli=$12, oli_transmisi=$13,
          tipe_power_steering=$14, fluida_power_steering=$15,
-         tipe_sistem_rem=$16, minyak_rem=$17,
+         tipe_sistem_rem=$16, minyak_rem=$17, rekomendasi_aftermarket=$18,
          updated_at=NOW()
-       WHERE id=$18
+       WHERE id=$19
        RETURNING *`,
       [merek, model, tahun, kategori, bahan_bakar, kode_mesin,
        kapasitas_cc, tipe_transmisi, detail_transmisi, viskositas_oli,
        standar_oli, kapasitas_oli, oli_transmisi,
        tipe_power_steering, fluida_power_steering,
-       tipe_sistem_rem, minyak_rem,
+       tipe_sistem_rem, minyak_rem, rekomendasi_aftermarket,
        req.params.id]
     );
     if (!rows.length) return res.status(404).json({ error: 'Data tidak ditemukan.' });

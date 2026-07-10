@@ -13,7 +13,8 @@ async function migrate() {
     '002_seed_data.sql', 
     '003_create_differential_table.sql', 
     '004_seed_differential_data.sql',
-    '005_add_brake_columns.sql'
+    '005_add_brake_columns.sql',
+    '006_add_aftermarket_recommendations.sql'
   ];
 
   for (const file of files) {
