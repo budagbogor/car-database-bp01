@@ -23,7 +23,10 @@ async function migrate() {
     '012_add_suzuki_fronx.sql',
     '013_add_renault_models.sql',
     '014_add_mercedes_models.sql',
-    '015_update_mercedes_variants.sql'
+    '015_update_mercedes_variants.sql',
+    '016_add_and_update_bmw_variants.sql',
+    '017_add_and_update_mazda_variants.sql',
+    '018_split_avanza_veloz.sql'
   ];
 
   for (const file of files) {
