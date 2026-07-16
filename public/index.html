@@ -561,6 +561,9 @@
       <div class="form-group full"><label>Fluida Power Steering</label><textarea id="fFluidaPowerSteering" placeholder="ATF Dexron III / Tidak menggunakan fluida, dsb."></textarea></div>
       <div class="form-group full"><label>Tipe Sistem Rem</label><input id="fTipeSistemRem" placeholder="Depan: Ventilated Disc, Belakang: Drum"></div>
       <div class="form-group"><label>Minyak Rem</label><input id="fMinyakRem" placeholder="DOT 3 / DOT 4"></div>
+      <div class="form-group"><label>Ukuran Ban</label><input id="fUkuranBan" placeholder="185/65 R15"></div>
+      <div class="form-group"><label>Merek Ban OEM</label><input id="fMerekBanOem" placeholder="Bridgestone / Dunlop"></div>
+      <div class="form-group full"><label>Tekanan Ban</label><input id="fTekananBan" placeholder="Depan: 33 PSI, Belakang: 33 PSI"></div>
       <div class="form-group full"><label>Rekomendasi Aftermarket</label><textarea id="fRekomendasiAftermarket" placeholder="Misal: <div class='rek-item'>Mesin: Motul</div>"></textarea></div>
     </form>
     <div class="admin-actions">
@@ -838,6 +841,12 @@ async function openDetail(id) {
         <div class="modal-section-title">🛑 Sistem Pengereman</div>
         ${row('Minyak Rem', r.minyak_rem)}
         ${row('Tipe Sistem Rem', r.tipe_sistem_rem)}
+      </div>
+      <div class="modal-section">
+        <div class="modal-section-title">🛞 Spesifikasi Ban</div>
+        ${row('Ukuran Ban', r.ukuran_ban)}
+        ${row('Merek OEM', r.merek_ban_oem)}
+        ${row('Tekanan Angin', r.tekanan_ban)}
       </div>`;
 
     if (r.differentials && r.differentials.length > 0) {
@@ -946,6 +955,9 @@ function openAdminForm(data=null) {
     document.getElementById('fFluidaPowerSteering').value = data.fluida_power_steering || '';
     document.getElementById('fTipeSistemRem').value = data.tipe_sistem_rem || '';
     document.getElementById('fMinyakRem').value = data.minyak_rem || '';
+    document.getElementById('fUkuranBan').value = data.ukuran_ban || '';
+    document.getElementById('fMerekBanOem').value = data.merek_ban_oem || '';
+    document.getElementById('fTekananBan').value = data.tekanan_ban || '';
     document.getElementById('fRekomendasiAftermarket').value = data.rekomendasi_aftermarket || '';
   }
   modal.classList.add('open');
@@ -983,6 +995,9 @@ document.getElementById('adminSave').onclick = async () => {
     fluida_power_steering: document.getElementById('fFluidaPowerSteering').value,
     tipe_sistem_rem:     document.getElementById('fTipeSistemRem').value,
     minyak_rem:          document.getElementById('fMinyakRem').value,
+    ukuran_ban:          document.getElementById('fUkuranBan').value,
+    merek_ban_oem:       document.getElementById('fMerekBanOem').value,
+    tekanan_ban:         document.getElementById('fTekananBan').value,
     rekomendasi_aftermarket: document.getElementById('fRekomendasiAftermarket').value,
   };
 
