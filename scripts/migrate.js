@@ -15,7 +15,8 @@ async function migrate() {
     '004_seed_differential_data.sql',
     '005_add_brake_columns.sql',
     '007_fix_power_steering.sql',
-    '006_add_aftermarket_recommendations.sql'
+    '006_add_aftermarket_recommendations.sql',
+    '008_add_more_toyota_models.sql'
   ];
 
   for (const file of files) {
