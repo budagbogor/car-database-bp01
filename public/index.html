@@ -564,6 +564,8 @@
       <div class="form-group"><label>Ukuran Ban</label><input id="fUkuranBan" placeholder="185/65 R15"></div>
       <div class="form-group"><label>Merek Ban OEM</label><input id="fMerekBanOem" placeholder="Bridgestone / Dunlop"></div>
       <div class="form-group full"><label>Tekanan Ban</label><input id="fTekananBan" placeholder="Depan: 33 PSI, Belakang: 33 PSI"></div>
+      <div class="form-group"><label>Tipe Aki</label><input id="fTipeAki" placeholder="NS40ZL / 46B24L / DIN 55"></div>
+      <div class="form-group"><label>Merek Aki OEM</label><input id="fMerekAkiOem" placeholder="GS Astra / Varta"></div>
       <div class="form-group full"><label>Rekomendasi Aftermarket</label><textarea id="fRekomendasiAftermarket" placeholder="Misal: <div class='rek-item'>Mesin: Motul</div>"></textarea></div>
     </form>
     <div class="admin-actions">
@@ -833,6 +835,11 @@ async function openDetail(id) {
         ${row('Kapasitas', r.kapasitas_oli)}
       </div>
       <div class="modal-section">
+        <div class="modal-section-title">🔋 Kelistrikan & Aki</div>
+        ${row('Tipe Aki', r.tipe_aki)}
+        ${row('Merek Aki OEM', r.merek_aki_oem)}
+      </div>
+      <div class="modal-section">
         <div class="modal-section-title">🚗 Power Steering</div>
         ${row('Tipe', r.tipe_power_steering)}
         ${row('Fluida', r.fluida_power_steering)}
@@ -958,6 +965,8 @@ function openAdminForm(data=null) {
     document.getElementById('fUkuranBan').value = data.ukuran_ban || '';
     document.getElementById('fMerekBanOem').value = data.merek_ban_oem || '';
     document.getElementById('fTekananBan').value = data.tekanan_ban || '';
+    document.getElementById('fTipeAki').value = data.tipe_aki || '';
+    document.getElementById('fMerekAkiOem').value = data.merek_aki_oem || '';
     document.getElementById('fRekomendasiAftermarket').value = data.rekomendasi_aftermarket || '';
   }
   modal.classList.add('open');
@@ -998,6 +1007,8 @@ document.getElementById('adminSave').onclick = async () => {
     ukuran_ban:          document.getElementById('fUkuranBan').value,
     merek_ban_oem:       document.getElementById('fMerekBanOem').value,
     tekanan_ban:         document.getElementById('fTekananBan').value,
+    tipe_aki:            document.getElementById('fTipeAki').value,
+    merek_aki_oem:       document.getElementById('fMerekAkiOem').value,
     rekomendasi_aftermarket: document.getElementById('fRekomendasiAftermarket').value,
   };
 

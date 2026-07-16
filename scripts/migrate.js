@@ -27,7 +27,14 @@ async function migrate() {
     '016_add_and_update_bmw_variants.sql',
     '017_add_and_update_mazda_variants.sql',
     '018_split_avanza_veloz.sql',
-    '019_add_tire_columns.sql'
+    '019_add_tire_columns.sql',
+    '020_split_variants_for_tires.sql',
+    '021_split_variants_for_tires_part2.sql',
+    '022_update_aftermarket_recommendations.sql',
+    '023_add_mini_models.sql',
+    '024_add_camry_models.sql',
+    '025_add_battery_columns.sql',
+    '026_fix_battery_accuracy.sql'
   ];
 
   for (const file of files) {
