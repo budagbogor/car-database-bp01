@@ -16,7 +16,14 @@ async function migrate() {
     '005_add_brake_columns.sql',
     '007_fix_power_steering.sql',
     '006_add_aftermarket_recommendations.sql',
-    '008_add_more_toyota_models.sql'
+    '008_add_more_toyota_models.sql',
+    '009_add_latest_models.sql',
+    '010_add_mitsubishi_destinator.sql',
+    '011_add_nissan_generations.sql',
+    '012_add_suzuki_fronx.sql',
+    '013_add_renault_models.sql',
+    '014_add_mercedes_models.sql',
+    '015_update_mercedes_variants.sql'
   ];
 
   for (const file of files) {
