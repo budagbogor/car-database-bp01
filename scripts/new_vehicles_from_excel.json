@@ -1,0 +1,5756 @@
+[
+  {
+    "merek": "TOYOTA",
+    "model": "Agya GR Sport",
+    "segmen": "City Car / Hatchback",
+    "catatan": "City Car / Hatchback — Varian sporty dari Agya"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Soluna",
+    "segmen": "Sedan",
+    "catatan": "Sedan — Model lama Toyota"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Yaris Cross",
+    "segmen": "SUV Kompak",
+    "catatan": "SUV Kompak — -"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "C-HR Hybrid",
+    "segmen": "SUV Crossover",
+    "catatan": "SUV Crossover — Hybrid (HEV)"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Raize",
+    "segmen": "SUV Kompak",
+    "catatan": "SUV Kompak — -"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Raize GR Sport",
+    "segmen": "SUV Kompak",
+    "catatan": "SUV Kompak — Varian sporty dari Raize"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "RAV4",
+    "segmen": "SUV Medium",
+    "catatan": "SUV Medium — -"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "RAV4 GR Sport PHEV",
+    "segmen": "SUV Medium",
+    "catatan": "SUV Medium — Plug-in Hybrid (PHEV) varian sporty"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Harrier",
+    "segmen": "SUV Premium",
+    "catatan": "SUV Premium — -"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "bZ4X",
+    "segmen": "SUV Listrik",
+    "catatan": "SUV Listrik — BEV (Battery Electric Vehicle)"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "bZ4X Touring",
+    "segmen": "SUV Listrik",
+    "catatan": "SUV Listrik — Varian tertinggi bZ4X"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Land Cruiser FJ",
+    "segmen": "SUV Off-Road",
+    "catatan": "SUV Off-Road — Model klasik bergaya retro"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Fortuner Diesel",
+    "segmen": "SUV Off-Road",
+    "catatan": "SUV Off-Road — Mesin diesel"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Fortuner SRZ",
+    "segmen": "SUV Off-Road",
+    "catatan": "SUV Off-Road — Varian tertinggi Fortuner"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Land Cruiser",
+    "segmen": "Full-size SUV Off-Road",
+    "catatan": "Full-size SUV Off-Road — -"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Land Cruiser Diesel",
+    "segmen": "Full-size SUV Off-Road",
+    "catatan": "Full-size SUV Off-Road — Mesin diesel"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Land Cruiser Diesel LX 470",
+    "segmen": "Full-size SUV Off-Road",
+    "catatan": "Full-size SUV Off-Road — Mesin diesel, varian LX 470"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Land Cruiser Diesel LX 570",
+    "segmen": "Full-size SUV Off-Road",
+    "catatan": "Full-size SUV Off-Road — Mesin diesel, varian LX 570"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Land Cruiser LX 470",
+    "segmen": "Full-size SUV Off-Road",
+    "catatan": "Full-size SUV Off-Road — Varian LX 470"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Land Cruiser LX 570",
+    "segmen": "Full-size SUV Off-Road",
+    "catatan": "Full-size SUV Off-Road — Varian LX 570"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Land Cruiser Prado",
+    "segmen": "Mid-size SUV Off-Road",
+    "catatan": "Mid-size SUV Off-Road — -"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Land Cruiser Prado Diesel",
+    "segmen": "Mid-size SUV Off-Road",
+    "catatan": "Mid-size SUV Off-Road — Mesin diesel"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "All New Avanza",
+    "segmen": "MPV",
+    "catatan": "MPV — Generasi terbaru Avanza"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Avanza Veloz",
+    "segmen": "MPV",
+    "catatan": "MPV — Varian sporty Avanza"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Grand New Avanza",
+    "segmen": "MPV",
+    "catatan": "MPV — -"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Grand Innova",
+    "segmen": "MPV",
+    "catatan": "MPV — -"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Innova",
+    "segmen": "MPV",
+    "catatan": "MPV — -"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Innova Diesel",
+    "segmen": "MPV",
+    "catatan": "MPV — Mesin diesel"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Innova Reborn",
+    "segmen": "MPV",
+    "catatan": "MPV — -"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "New Kijang Innova",
+    "segmen": "MPV",
+    "catatan": "MPV — -"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Kijang",
+    "segmen": "MPV",
+    "catatan": "MPV — Model legendaris Toyota"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Kijang Jantan",
+    "segmen": "MPV",
+    "catatan": "MPV — Model klasik Kijang"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Kijang Kencana",
+    "segmen": "MPV",
+    "catatan": "MPV — Model klasik Kijang"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Kijang Krista",
+    "segmen": "MPV",
+    "catatan": "MPV — Model klasik Kijang"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Kijang Krista Diesel",
+    "segmen": "MPV",
+    "catatan": "MPV — Mesin diesel"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Kijang LGX",
+    "segmen": "MPV",
+    "catatan": "MPV — Model klasik Kijang"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Kijang LGX Diesel",
+    "segmen": "MPV",
+    "catatan": "MPV — Mesin diesel"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Kijang LX",
+    "segmen": "MPV",
+    "catatan": "MPV — Model klasik Kijang"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Kijang LX Diesel",
+    "segmen": "MPV",
+    "catatan": "MPV — Mesin diesel"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Kijang Rover",
+    "segmen": "MPV",
+    "catatan": "MPV — Model klasik Kijang"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Kijang SSX",
+    "segmen": "MPV",
+    "catatan": "MPV — Model klasik Kijang"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Kijang SSX Diesel",
+    "segmen": "MPV",
+    "catatan": "MPV — Mesin diesel"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Kijang SX",
+    "segmen": "MPV",
+    "catatan": "MPV — Model klasik Kijang"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Kijang SX Diesel",
+    "segmen": "MPV",
+    "catatan": "MPV — Mesin diesel"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Noah",
+    "segmen": "MPV",
+    "catatan": "MPV — -"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Veloz",
+    "segmen": "MPV",
+    "catatan": "MPV — -"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Voxy",
+    "segmen": "MPV",
+    "catatan": "MPV — -"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Odyssey",
+    "segmen": "MPV",
+    "catatan": "MPV — -"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Hi Ace",
+    "segmen": "Minibus / Van",
+    "catatan": "Minibus / Van — Kendaraan komersial"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "All New Yaris H (Yaris Hatchback)",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — -"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Camry",
+    "segmen": "Sedan Medium",
+    "catatan": "Sedan Medium — -"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Camry Hybrid",
+    "segmen": "Sedan Medium",
+    "catatan": "Sedan Medium — Hybrid (HEV)"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Corolla Altis Hybrid",
+    "segmen": "Sedan",
+    "catatan": "Sedan — Hybrid (HEV)"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Great Corolla",
+    "segmen": "Sedan",
+    "catatan": "Sedan — -"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Great Corolla (duplikat)",
+    "segmen": "Sedan",
+    "catatan": "Sedan — -"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "IST",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — Model kompak"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "GR 86 / Toyota 86",
+    "segmen": "Sports Coupe",
+    "catatan": "Sports Coupe — -"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "GR Supra",
+    "segmen": "Sports Coupe",
+    "catatan": "Sports Coupe — -"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Hilux Rangga EV",
+    "segmen": "Pickup Listrik",
+    "catatan": "Pickup Listrik — BEV (Battery Electric Vehicle)"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Nav 1",
+    "segmen": "Pickup / Komersial",
+    "catatan": "Pickup / Komersial — -"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Alphard",
+    "segmen": "MPV Mewah",
+    "catatan": "MPV Mewah — -"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Vellfire",
+    "segmen": "MPV Mewah",
+    "catatan": "MPV Mewah — -"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "All New Rush",
+    "segmen": "SUV Kompak",
+    "catatan": "SUV Kompak — -"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "TOYOTA",
+    "model": "TOTAL",
+    "segmen": "76 model",
+    "catatan": "76 model"
+  },
+  {
+    "merek": "DAIHATSU",
+    "model": "Ceria",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — Model klasik Daihatsu"
+  },
+  {
+    "merek": "DAIHATSU",
+    "model": "Charade",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — Model klasik Daihatsu"
+  },
+  {
+    "merek": "DAIHATSU",
+    "model": "Copen",
+    "segmen": "Sports Convertible",
+    "catatan": "Sports Convertible — Model roadster klasik"
+  },
+  {
+    "merek": "DAIHATSU",
+    "model": "YRV",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — Model klasik Daihatsu"
+  },
+  {
+    "merek": "DAIHATSU",
+    "model": "All New Terios",
+    "segmen": "SUV Kompak",
+    "catatan": "SUV Kompak — Model terbaru Terios"
+  },
+  {
+    "merek": "DAIHATSU",
+    "model": "All New Xenia",
+    "segmen": "MPV",
+    "catatan": "MPV — Model terbaru Xenia"
+  },
+  {
+    "merek": "DAIHATSU",
+    "model": "Grand New Xenia",
+    "segmen": "MPV",
+    "catatan": "MPV — -"
+  },
+  {
+    "merek": "DAIHATSU",
+    "model": "Great New Xenia",
+    "segmen": "MPV",
+    "catatan": "MPV — -"
+  },
+  {
+    "merek": "DAIHATSU",
+    "model": "Luxio",
+    "segmen": "MPV / Minibus",
+    "catatan": "MPV / Minibus — Model MPV komersial"
+  },
+  {
+    "merek": "DAIHATSU",
+    "model": "Rocky Hybrid",
+    "segmen": "SUV Kompak",
+    "catatan": "SUV Kompak — Hybrid (HEV)"
+  },
+  {
+    "merek": "DAIHATSU",
+    "model": "Taft",
+    "segmen": "SUV Off-Road Klasik",
+    "catatan": "SUV Off-Road Klasik — Model ikonik Daihatsu"
+  },
+  {
+    "merek": "DAIHATSU",
+    "model": "Hi-Max",
+    "segmen": "Pickup",
+    "catatan": "Pickup — Kendaraan niaga"
+  },
+  {
+    "merek": "DAIHATSU",
+    "model": "Zebra Espass",
+    "segmen": "Minibus / Van",
+    "catatan": "Minibus / Van — Kendaraan komersial"
+  },
+  {
+    "merek": "DAIHATSU",
+    "model": "Zebra Hi-Jet",
+    "segmen": "Minibus / Van",
+    "catatan": "Minibus / Van — Kendaraan komersial"
+  },
+  {
+    "merek": "DAIHATSU",
+    "model": "Zebra Pick Up",
+    "segmen": "Pickup",
+    "catatan": "Pickup — Kendaraan niaga"
+  },
+  {
+    "merek": "DAIHATSU",
+    "model": "Delta",
+    "segmen": "Pickup Klasik",
+    "catatan": "Pickup Klasik — Model niaga legendaris"
+  },
+  {
+    "merek": "DAIHATSU",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "DAIHATSU",
+    "model": "TOTAL",
+    "segmen": "26 model",
+    "catatan": "26 model"
+  },
+  {
+    "merek": "HONDA",
+    "model": "Brio",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — Model entry-level Honda"
+  },
+  {
+    "merek": "HONDA",
+    "model": "City",
+    "segmen": "Sedan",
+    "catatan": "Sedan — -"
+  },
+  {
+    "merek": "HONDA",
+    "model": "City Type Z",
+    "segmen": "Sedan",
+    "catatan": "Sedan — Varian khusus City"
+  },
+  {
+    "merek": "HONDA",
+    "model": "Civic",
+    "segmen": "Sedan",
+    "catatan": "Sedan — -"
+  },
+  {
+    "merek": "HONDA",
+    "model": "Civic Hatchback",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — -"
+  },
+  {
+    "merek": "HONDA",
+    "model": "Civic RS",
+    "segmen": "Sedan",
+    "catatan": "Sedan — Varian sporty Civic"
+  },
+  {
+    "merek": "HONDA",
+    "model": "Civic Type R",
+    "segmen": "Hatchback Performa",
+    "catatan": "Hatchback Performa — High-performance hatchback"
+  },
+  {
+    "merek": "HONDA",
+    "model": "Jazz",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — -"
+  },
+  {
+    "merek": "HONDA",
+    "model": "Prelude",
+    "segmen": "Sports Coupe",
+    "catatan": "Sports Coupe — Model klasik Honda"
+  },
+  {
+    "merek": "HONDA",
+    "model": "BR-V",
+    "segmen": "SUV Kompak 7-Seater",
+    "catatan": "SUV Kompak 7-Seater — -"
+  },
+  {
+    "merek": "HONDA",
+    "model": "Honda e:N1",
+    "segmen": "SUV Listrik",
+    "catatan": "SUV Listrik — BEV (Battery Electric Vehicle)"
+  },
+  {
+    "merek": "HONDA",
+    "model": "Stepwgn",
+    "segmen": "Minibus / MPV",
+    "catatan": "Minibus / MPV — Model klasik"
+  },
+  {
+    "merek": "HONDA",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "HONDA",
+    "model": "TOTAL",
+    "segmen": "22 model",
+    "catatan": "22 model"
+  },
+  {
+    "merek": "MITSUBISHI",
+    "model": "Galant",
+    "segmen": "Sedan Medium",
+    "catatan": "Sedan Medium — Model klasik Mitsubishi"
+  },
+  {
+    "merek": "MITSUBISHI",
+    "model": "Galant ST (HIU)",
+    "segmen": "Sedan Medium",
+    "catatan": "Sedan Medium — Varian khusus Galant"
+  },
+  {
+    "merek": "MITSUBISHI",
+    "model": "Galant VR",
+    "segmen": "Sedan Medium",
+    "catatan": "Sedan Medium — Varian performa Galant"
+  },
+  {
+    "merek": "MITSUBISHI",
+    "model": "Lancer Cedia",
+    "segmen": "Sedan",
+    "catatan": "Sedan — -"
+  },
+  {
+    "merek": "MITSUBISHI",
+    "model": "Lancer EX",
+    "segmen": "Sedan",
+    "catatan": "Sedan — -"
+  },
+  {
+    "merek": "MITSUBISHI",
+    "model": "Lancer Dan Gan",
+    "segmen": "Sedan",
+    "catatan": "Sedan — -"
+  },
+  {
+    "merek": "MITSUBISHI",
+    "model": "Lancer Evo I",
+    "segmen": "Sports Sedan",
+    "catatan": "Sports Sedan — Generasi pertama"
+  },
+  {
+    "merek": "MITSUBISHI",
+    "model": "Lancer Evo II",
+    "segmen": "Sports Sedan",
+    "catatan": "Sports Sedan — Generasi kedua"
+  },
+  {
+    "merek": "MITSUBISHI",
+    "model": "Lancer Evo III",
+    "segmen": "Sports Sedan",
+    "catatan": "Sports Sedan — Generasi ketiga"
+  },
+  {
+    "merek": "MITSUBISHI",
+    "model": "Lancer Evo IV",
+    "segmen": "Sports Sedan",
+    "catatan": "Sports Sedan — Generasi keempat"
+  },
+  {
+    "merek": "MITSUBISHI",
+    "model": "Lancer Evo V",
+    "segmen": "Sports Sedan",
+    "catatan": "Sports Sedan — Generasi kelima"
+  },
+  {
+    "merek": "MITSUBISHI",
+    "model": "Lancer Evo VI",
+    "segmen": "Sports Sedan",
+    "catatan": "Sports Sedan — Generasi keenam"
+  },
+  {
+    "merek": "MITSUBISHI",
+    "model": "Lancer Evo VII",
+    "segmen": "Sports Sedan",
+    "catatan": "Sports Sedan — Generasi ketujuh"
+  },
+  {
+    "merek": "MITSUBISHI",
+    "model": "Lancer Evo VIII",
+    "segmen": "Sports Sedan",
+    "catatan": "Sports Sedan — Generasi kedelapan"
+  },
+  {
+    "merek": "MITSUBISHI",
+    "model": "Lancer Evo IX",
+    "segmen": "Sports Sedan",
+    "catatan": "Sports Sedan — Generasi kesembilan"
+  },
+  {
+    "merek": "MITSUBISHI",
+    "model": "Lancer Evo X",
+    "segmen": "Sports Sedan",
+    "catatan": "Sports Sedan — Generasi kesepuluh (terakhir)"
+  },
+  {
+    "merek": "MITSUBISHI",
+    "model": "All New Pajero",
+    "segmen": "SUV Off-Road",
+    "catatan": "SUV Off-Road — -"
+  },
+  {
+    "merek": "MITSUBISHI",
+    "model": "Eterna",
+    "segmen": "SUV",
+    "catatan": "SUV — Model klasik Mitsubishi"
+  },
+  {
+    "merek": "MITSUBISHI",
+    "model": "Outlander",
+    "segmen": "SUV Medium",
+    "catatan": "SUV Medium — -"
+  },
+  {
+    "merek": "MITSUBISHI",
+    "model": "Outlander Sport",
+    "segmen": "SUV Kompak",
+    "catatan": "SUV Kompak — -"
+  },
+  {
+    "merek": "MITSUBISHI",
+    "model": "Pajero (Non-Sport)",
+    "segmen": "Full-size SUV Off-Road",
+    "catatan": "Full-size SUV Off-Road — Model SUV legendaris"
+  },
+  {
+    "merek": "MITSUBISHI",
+    "model": "Xpander Cross",
+    "segmen": "MPV / SUV Crossover",
+    "catatan": "MPV / SUV Crossover — Varian petualang Xpander"
+  },
+  {
+    "merek": "MITSUBISHI",
+    "model": "Canter",
+    "segmen": "Light Truck / Komersial",
+    "catatan": "Light Truck / Komersial — -"
+  },
+  {
+    "merek": "MITSUBISHI",
+    "model": "Colt Diesel",
+    "segmen": "Pickup / Komersial",
+    "catatan": "Pickup / Komersial — -"
+  },
+  {
+    "merek": "MITSUBISHI",
+    "model": "Colt L300",
+    "segmen": "Pickup / Komersial",
+    "catatan": "Pickup / Komersial — -"
+  },
+  {
+    "merek": "MITSUBISHI",
+    "model": "Colt T120",
+    "segmen": "Pickup / Komersial",
+    "catatan": "Pickup / Komersial — -"
+  },
+  {
+    "merek": "MITSUBISHI",
+    "model": "Colt T120SS",
+    "segmen": "Pickup / Komersial",
+    "catatan": "Pickup / Komersial — -"
+  },
+  {
+    "merek": "MITSUBISHI",
+    "model": "Delica Diesel",
+    "segmen": "Minibus / Van",
+    "catatan": "Minibus / Van — Mesin diesel"
+  },
+  {
+    "merek": "MITSUBISHI",
+    "model": "Fusho FM 517 HL",
+    "segmen": "Medium Truck",
+    "catatan": "Medium Truck — Kendaraan komersial berat"
+  },
+  {
+    "merek": "MITSUBISHI",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "MITSUBISHI",
+    "model": "TOTAL",
+    "segmen": "36 model",
+    "catatan": "36 model"
+  },
+  {
+    "merek": "NISSAN",
+    "model": "Almera",
+    "segmen": "Sedan",
+    "catatan": "Sedan — -"
+  },
+  {
+    "merek": "NISSAN",
+    "model": "Cefiro",
+    "segmen": "Sedan Medium",
+    "catatan": "Sedan Medium — Model klasik Nissan"
+  },
+  {
+    "merek": "NISSAN",
+    "model": "Latio",
+    "segmen": "Sedan / Hatchback",
+    "catatan": "Sedan / Hatchback — -"
+  },
+  {
+    "merek": "NISSAN",
+    "model": "Sentra",
+    "segmen": "Sedan",
+    "catatan": "Sedan — -"
+  },
+  {
+    "merek": "NISSAN",
+    "model": "Sunny",
+    "segmen": "Sedan",
+    "catatan": "Sedan — Model klasik Nissan"
+  },
+  {
+    "merek": "NISSAN",
+    "model": "GT-R",
+    "segmen": "Sports Car",
+    "catatan": "Sports Car — Supercar ikonik Nissan"
+  },
+  {
+    "merek": "NISSAN",
+    "model": "Nissan Silvia",
+    "segmen": "Sports Coupe",
+    "catatan": "Sports Coupe — Model klasik legendaris"
+  },
+  {
+    "merek": "NISSAN",
+    "model": "Cross",
+    "segmen": "SUV Kompak",
+    "catatan": "SUV Kompak — -"
+  },
+  {
+    "merek": "NISSAN",
+    "model": "Livina X-Gear",
+    "segmen": "MPV / Crossover",
+    "catatan": "MPV / Crossover — Varian petualang Livina"
+  },
+  {
+    "merek": "NISSAN",
+    "model": "Terrano",
+    "segmen": "SUV Off-Road",
+    "catatan": "SUV Off-Road — Model klasik Nissan"
+  },
+  {
+    "merek": "NISSAN",
+    "model": "Elgrand (E51)",
+    "segmen": "MPV Mewah",
+    "catatan": "MPV Mewah — Generasi E51"
+  },
+  {
+    "merek": "NISSAN",
+    "model": "Go",
+    "segmen": "MPV / Minivan",
+    "catatan": "MPV / Minivan — -"
+  },
+  {
+    "merek": "NISSAN",
+    "model": "Go+",
+    "segmen": "MPV / Minivan",
+    "catatan": "MPV / Minivan — Varian 7-penumpang"
+  },
+  {
+    "merek": "NISSAN",
+    "model": "Livina",
+    "segmen": "MPV",
+    "catatan": "MPV — -"
+  },
+  {
+    "merek": "NISSAN",
+    "model": "NV350",
+    "segmen": "Minibus / Van",
+    "catatan": "Minibus / Van — Kendaraan komersial"
+  },
+  {
+    "merek": "NISSAN",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "NISSAN",
+    "model": "TOTAL",
+    "segmen": "27 model",
+    "catatan": "27 model"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "Baleno Hatchback",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — -"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "Baleno Next G",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — -"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "Celerio",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — -"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "Karimun",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — Model klasik Suzuki"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "Karimun Estilo",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — -"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "Karimun Wagon R",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — -"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "Neo Baleno",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — -"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "Ciaz",
+    "segmen": "Sedan",
+    "catatan": "Sedan — -"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "Esteem",
+    "segmen": "Sedan",
+    "catatan": "Sedan — Model klasik Suzuki"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "Aerio",
+    "segmen": "SUV / Crossover",
+    "catatan": "SUV / Crossover — -"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "Fronx",
+    "segmen": "SUV Kompak",
+    "catatan": "SUV Kompak — Model terbaru Suzuki"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "Jimny 5-Door",
+    "segmen": "SUV Off-Road",
+    "catatan": "SUV Off-Road — Varian 5-pintu"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "Jimny JB30",
+    "segmen": "SUV Off-Road",
+    "catatan": "SUV Off-Road — -"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "Jimny JB43 (Wide)",
+    "segmen": "SUV Off-Road",
+    "catatan": "SUV Off-Road — -"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "Jimny JB74",
+    "segmen": "SUV Off-Road",
+    "catatan": "SUV Off-Road — -"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "Jimny LJ80 (Jangkrik)",
+    "segmen": "SUV Off-Road",
+    "catatan": "SUV Off-Road — Model klasik legendaris"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "Jimny SJ413 (Samurai)",
+    "segmen": "SUV Off-Road",
+    "catatan": "SUV Off-Road — Model klasik legendaris"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "Jimny (Sierra)",
+    "segmen": "SUV Off-Road",
+    "catatan": "SUV Off-Road — -"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "New Grand Vitara",
+    "segmen": "SUV Medium",
+    "catatan": "SUV Medium — -"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "SX4 S-Cross",
+    "segmen": "SUV Crossover",
+    "catatan": "SUV Crossover — -"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "Vitara",
+    "segmen": "SUV Kompak",
+    "catatan": "SUV Kompak — -"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "Amenity",
+    "segmen": "MPV",
+    "catatan": "MPV — -"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "APV",
+    "segmen": "MPV",
+    "catatan": "MPV — -"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "APV Arena",
+    "segmen": "MPV",
+    "catatan": "MPV — -"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "APV Arena Luxury",
+    "segmen": "MPV",
+    "catatan": "MPV — -"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "New APV Arena Luxury",
+    "segmen": "MPV",
+    "catatan": "MPV — -"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "Ertiga Diesel",
+    "segmen": "MPV",
+    "catatan": "MPV — Mesin diesel"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "Ertiga Facelift Hybrid",
+    "segmen": "MPV",
+    "catatan": "MPV — Hybrid (HEV)"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "Ertiga Sport",
+    "segmen": "MPV",
+    "catatan": "MPV — Varian sporty Ertiga"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "All New Carry Pick Up",
+    "segmen": "Pickup",
+    "catatan": "Pickup — -"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "Carry Futura",
+    "segmen": "Pickup / Minibus",
+    "catatan": "Pickup / Minibus — -"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "Carry Pick Up",
+    "segmen": "Pickup",
+    "catatan": "Pickup — -"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "Carry ST20",
+    "segmen": "Pickup",
+    "catatan": "Pickup — -"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "Mega Carry Pick Up",
+    "segmen": "Pickup",
+    "catatan": "Pickup — -"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "Super Carry",
+    "segmen": "Pickup",
+    "catatan": "Pickup — -"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "Katana",
+    "segmen": "Pickup / Komersial",
+    "catatan": "Pickup / Komersial — -"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "RINGKASAN STATISTIK",
+    "segmen": "",
+    "catatan": ""
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "SUZUKI",
+    "model": "TOTAL",
+    "segmen": "45 model",
+    "catatan": "45 model"
+  },
+  {
+    "merek": "HYUNDAI",
+    "model": "Accent",
+    "segmen": "Sedan",
+    "catatan": "Sedan — -"
+  },
+  {
+    "merek": "HYUNDAI",
+    "model": "Atoz",
+    "segmen": "Hatchback / City Car",
+    "catatan": "Hatchback / City Car — -"
+  },
+  {
+    "merek": "HYUNDAI",
+    "model": "Elantra",
+    "segmen": "Sedan",
+    "catatan": "Sedan — -"
+  },
+  {
+    "merek": "HYUNDAI",
+    "model": "Getz",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — -"
+  },
+  {
+    "merek": "HYUNDAI",
+    "model": "Grand Avega",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — -"
+  },
+  {
+    "merek": "HYUNDAI",
+    "model": "i10",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — -"
+  },
+  {
+    "merek": "HYUNDAI",
+    "model": "i20",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — -"
+  },
+  {
+    "merek": "HYUNDAI",
+    "model": "i20 Diesel",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — Mesin diesel"
+  },
+  {
+    "merek": "HYUNDAI",
+    "model": "Ioniq",
+    "segmen": "Hatchback / Hybrid",
+    "catatan": "Hatchback / Hybrid — HEV / PHEV / EV"
+  },
+  {
+    "merek": "HYUNDAI",
+    "model": "Sonata",
+    "segmen": "Sedan Premium",
+    "catatan": "Sedan Premium — -"
+  },
+  {
+    "merek": "HYUNDAI",
+    "model": "Trajet",
+    "segmen": "MPV",
+    "catatan": "MPV — -"
+  },
+  {
+    "merek": "HYUNDAI",
+    "model": "Verna",
+    "segmen": "Sedan",
+    "catatan": "Sedan — -"
+  },
+  {
+    "merek": "HYUNDAI",
+    "model": "All New KONA Electric",
+    "segmen": "SUV Kompak",
+    "catatan": "SUV Kompak — BEV (Battery Electric Vehicle)"
+  },
+  {
+    "merek": "HYUNDAI",
+    "model": "All New SantaFe",
+    "segmen": "SUV Medium",
+    "catatan": "SUV Medium — -"
+  },
+  {
+    "merek": "HYUNDAI",
+    "model": "All New SantaFe Diesel",
+    "segmen": "SUV Medium",
+    "catatan": "SUV Medium — Mesin diesel"
+  },
+  {
+    "merek": "HYUNDAI",
+    "model": "Ioniq 5",
+    "segmen": "SUV Medium",
+    "catatan": "SUV Medium — BEV"
+  },
+  {
+    "merek": "HYUNDAI",
+    "model": "Kona",
+    "segmen": "SUV Kompak",
+    "catatan": "SUV Kompak — -"
+  },
+  {
+    "merek": "HYUNDAI",
+    "model": "SantaFe",
+    "segmen": "SUV Medium",
+    "catatan": "SUV Medium — -"
+  },
+  {
+    "merek": "HYUNDAI",
+    "model": "SantaFe Diesel",
+    "segmen": "SUV Medium",
+    "catatan": "SUV Medium — Mesin diesel"
+  },
+  {
+    "merek": "HYUNDAI",
+    "model": "H-1",
+    "segmen": "Minibus / Van",
+    "catatan": "Minibus / Van — -"
+  },
+  {
+    "merek": "HYUNDAI",
+    "model": "H-1 Diesel",
+    "segmen": "Minibus / Van",
+    "catatan": "Minibus / Van — Mesin diesel"
+  },
+  {
+    "merek": "HYUNDAI",
+    "model": "Matrix",
+    "segmen": "MPV",
+    "catatan": "MPV — -"
+  },
+  {
+    "merek": "HYUNDAI",
+    "model": "Staria",
+    "segmen": "MPV Premium",
+    "catatan": "MPV Premium — -"
+  },
+  {
+    "merek": "HYUNDAI",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "HYUNDAI",
+    "model": "TOTAL",
+    "segmen": "30 model",
+    "catatan": "30 model"
+  },
+  {
+    "merek": "KIA",
+    "model": "Optima",
+    "segmen": "Sedan Premium",
+    "catatan": "Sedan Premium — -"
+  },
+  {
+    "merek": "KIA",
+    "model": "Pride",
+    "segmen": "Sedan",
+    "catatan": "Sedan — Model klasik KIA"
+  },
+  {
+    "merek": "KIA",
+    "model": "Shuma",
+    "segmen": "Sedan / Hatchback",
+    "catatan": "Sedan / Hatchback — -"
+  },
+  {
+    "merek": "KIA",
+    "model": "Spectra",
+    "segmen": "Sedan",
+    "catatan": "Sedan — -"
+  },
+  {
+    "merek": "KIA",
+    "model": "Visto",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — -"
+  },
+  {
+    "merek": "KIA",
+    "model": "Sorento",
+    "segmen": "SUV Medium",
+    "catatan": "SUV Medium — -"
+  },
+  {
+    "merek": "KIA",
+    "model": "Sportage Diesel",
+    "segmen": "SUV Kompak",
+    "catatan": "SUV Kompak — Mesin diesel"
+  },
+  {
+    "merek": "KIA",
+    "model": "Carnival Diesel",
+    "segmen": "MPV Premium",
+    "catatan": "MPV Premium — Mesin diesel"
+  },
+  {
+    "merek": "KIA",
+    "model": "Grand Carnival",
+    "segmen": "MPV Premium",
+    "catatan": "MPV Premium — -"
+  },
+  {
+    "merek": "KIA",
+    "model": "Grand Sedona",
+    "segmen": "MPV Premium",
+    "catatan": "MPV Premium — -"
+  },
+  {
+    "merek": "KIA",
+    "model": "Grand Sedona Diesel",
+    "segmen": "MPV Premium",
+    "catatan": "MPV Premium — Mesin diesel"
+  },
+  {
+    "merek": "KIA",
+    "model": "Pregio",
+    "segmen": "Minibus / Van",
+    "catatan": "Minibus / Van — -"
+  },
+  {
+    "merek": "KIA",
+    "model": "Pregio Diesel",
+    "segmen": "Minibus / Van",
+    "catatan": "Minibus / Van — Mesin diesel"
+  },
+  {
+    "merek": "KIA",
+    "model": "Sedona",
+    "segmen": "MPV",
+    "catatan": "MPV — -"
+  },
+  {
+    "merek": "KIA",
+    "model": "Sedona Diesel",
+    "segmen": "MPV",
+    "catatan": "MPV — Mesin diesel"
+  },
+  {
+    "merek": "KIA",
+    "model": "Travello",
+    "segmen": "Minibus",
+    "catatan": "Minibus — Kendaraan komersial"
+  },
+  {
+    "merek": "KIA",
+    "model": "Big-Up (K2700)",
+    "segmen": "Pickup",
+    "catatan": "Pickup — Kendaraan komersial"
+  },
+  {
+    "merek": "KIA",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "KIA",
+    "model": "TOTAL",
+    "segmen": "26 model",
+    "catatan": "26 model"
+  },
+  {
+    "merek": "MAZDA",
+    "model": "Lantis",
+    "segmen": "Sedan / Hatchback",
+    "catatan": "Sedan / Hatchback — Model klasik Mazda"
+  },
+  {
+    "merek": "MAZDA",
+    "model": "Mazda 2",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — -"
+  },
+  {
+    "merek": "MAZDA",
+    "model": "Mazda 2 Sedan",
+    "segmen": "Sedan",
+    "catatan": "Sedan — -"
+  },
+  {
+    "merek": "MAZDA",
+    "model": "Mazda 3",
+    "segmen": "Hatchback / Sedan",
+    "catatan": "Hatchback / Sedan — -"
+  },
+  {
+    "merek": "MAZDA",
+    "model": "Mazda 3 Hatchback",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — -"
+  },
+  {
+    "merek": "MAZDA",
+    "model": "Mazda 3 Sedan",
+    "segmen": "Sedan",
+    "catatan": "Sedan — -"
+  },
+  {
+    "merek": "MAZDA",
+    "model": "Mazda 6",
+    "segmen": "Sedan",
+    "catatan": "Sedan — -"
+  },
+  {
+    "merek": "MAZDA",
+    "model": "Mazda 6 Elite Estate 2.5L AT",
+    "segmen": "Station Wagon",
+    "catatan": "Station Wagon — Varian estate / touring"
+  },
+  {
+    "merek": "MAZDA",
+    "model": "Mazda Astina",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — Model klasik Mazda"
+  },
+  {
+    "merek": "MAZDA",
+    "model": "Mazda Cronos",
+    "segmen": "Sedan",
+    "catatan": "Sedan — Model klasik Mazda"
+  },
+  {
+    "merek": "MAZDA",
+    "model": "Mazda Interplay",
+    "segmen": "Sedan",
+    "catatan": "Sedan — Model klasik Mazda"
+  },
+  {
+    "merek": "MAZDA",
+    "model": "Mazda VX1",
+    "segmen": "Sedan",
+    "catatan": "Sedan — -"
+  },
+  {
+    "merek": "MAZDA",
+    "model": "CX-6",
+    "segmen": "SUV",
+    "catatan": "SUV — -"
+  },
+  {
+    "merek": "MAZDA",
+    "model": "Mazda CX-3",
+    "segmen": "SUV Kompak",
+    "catatan": "SUV Kompak — -"
+  },
+  {
+    "merek": "MAZDA",
+    "model": "Mazda CX-5",
+    "segmen": "SUV Medium",
+    "catatan": "SUV Medium — -"
+  },
+  {
+    "merek": "MAZDA",
+    "model": "Mazda CX-7",
+    "segmen": "SUV Medium",
+    "catatan": "SUV Medium — -"
+  },
+  {
+    "merek": "MAZDA",
+    "model": "Mazda CX-8",
+    "segmen": "SUV Premium 7-Seater",
+    "catatan": "SUV Premium 7-Seater — -"
+  },
+  {
+    "merek": "MAZDA",
+    "model": "Mazda CX-9",
+    "segmen": "SUV Premium",
+    "catatan": "SUV Premium — -"
+  },
+  {
+    "merek": "MAZDA",
+    "model": "Mazda CX-30",
+    "segmen": "SUV Kompak",
+    "catatan": "SUV Kompak — -"
+  },
+  {
+    "merek": "MAZDA",
+    "model": "Mazda CX-60",
+    "segmen": "SUV Premium",
+    "catatan": "SUV Premium — -"
+  },
+  {
+    "merek": "MAZDA",
+    "model": "Mazda CX-90",
+    "segmen": "SUV Premium",
+    "catatan": "SUV Premium — -"
+  },
+  {
+    "merek": "MAZDA",
+    "model": "Mazda 5",
+    "segmen": "MPV",
+    "catatan": "MPV — -"
+  },
+  {
+    "merek": "MAZDA",
+    "model": "Mazda 8",
+    "segmen": "MPV",
+    "catatan": "MPV — -"
+  },
+  {
+    "merek": "MAZDA",
+    "model": "Mazda Biante",
+    "segmen": "MPV",
+    "catatan": "MPV — -"
+  },
+  {
+    "merek": "MAZDA",
+    "model": "Mazda MX-5 RF",
+    "segmen": "Sports Car / Roadster",
+    "catatan": "Sports Car / Roadster — Hardtop convertible"
+  },
+  {
+    "merek": "MAZDA",
+    "model": "Mazda RX-5",
+    "segmen": "Sports Car",
+    "catatan": "Sports Car — Model rotary klasik"
+  },
+  {
+    "merek": "MAZDA",
+    "model": "Mazda RX-7",
+    "segmen": "Sports Car",
+    "catatan": "Sports Car — Model rotary legendaris"
+  },
+  {
+    "merek": "MAZDA",
+    "model": "RX-7",
+    "segmen": "Sports Car",
+    "catatan": "Sports Car — -"
+  },
+  {
+    "merek": "MAZDA",
+    "model": "Mazda RX-8",
+    "segmen": "Sports Car",
+    "catatan": "Sports Car — Model rotary terakhir"
+  },
+  {
+    "merek": "MAZDA",
+    "model": "Mazda BT-50",
+    "segmen": "Double Cabin Pickup",
+    "catatan": "Double Cabin Pickup — -"
+  },
+  {
+    "merek": "MAZDA",
+    "model": "Mazda New BT-50",
+    "segmen": "Double Cabin Pickup",
+    "catatan": "Double Cabin Pickup — Model terbaru BT-50"
+  },
+  {
+    "merek": "MAZDA",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "MAZDA",
+    "model": "TOTAL",
+    "segmen": "31 model",
+    "catatan": "31 model"
+  },
+  {
+    "merek": "CHEVROLET",
+    "model": "Aveo",
+    "segmen": "Sedan / Hatchback",
+    "catatan": "Sedan / Hatchback — -"
+  },
+  {
+    "merek": "CHEVROLET",
+    "model": "Kalos",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — -"
+  },
+  {
+    "merek": "CHEVROLET",
+    "model": "Optra / Optra Magnum",
+    "segmen": "Sedan",
+    "catatan": "Sedan — -"
+  },
+  {
+    "merek": "CHEVROLET",
+    "model": "Spark",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — -"
+  },
+  {
+    "merek": "CHEVROLET",
+    "model": "Blazer",
+    "segmen": "SUV",
+    "catatan": "SUV — Model klasik Chevrolet"
+  },
+  {
+    "merek": "CHEVROLET",
+    "model": "Captiva Diesel",
+    "segmen": "SUV Medium",
+    "catatan": "SUV Medium — Mesin diesel"
+  },
+  {
+    "merek": "CHEVROLET",
+    "model": "Trailblazer",
+    "segmen": "SUV Off-Road",
+    "catatan": "SUV Off-Road — -"
+  },
+  {
+    "merek": "CHEVROLET",
+    "model": "Trax",
+    "segmen": "SUV Kompak",
+    "catatan": "SUV Kompak — -"
+  },
+  {
+    "merek": "CHEVROLET",
+    "model": "Trooper",
+    "segmen": "SUV Off-Road",
+    "catatan": "SUV Off-Road — Model klasik (Isuzu rebadge)"
+  },
+  {
+    "merek": "CHEVROLET",
+    "model": "Orlando Diesel",
+    "segmen": "MPV",
+    "catatan": "MPV — Mesin diesel"
+  },
+  {
+    "merek": "CHEVROLET",
+    "model": "Spin Activ",
+    "segmen": "MPV",
+    "catatan": "MPV — Varian petualang Spin"
+  },
+  {
+    "merek": "CHEVROLET",
+    "model": "Spin Diesel",
+    "segmen": "MPV",
+    "catatan": "MPV — Mesin diesel"
+  },
+  {
+    "merek": "CHEVROLET",
+    "model": "Tavera",
+    "segmen": "MPV / Minibus",
+    "catatan": "MPV / Minibus — -"
+  },
+  {
+    "merek": "CHEVROLET",
+    "model": "Zafira",
+    "segmen": "MPV",
+    "catatan": "MPV — -"
+  },
+  {
+    "merek": "CHEVROLET",
+    "model": "Colorado",
+    "segmen": "Double Cabin Pickup",
+    "catatan": "Double Cabin Pickup — -"
+  },
+  {
+    "merek": "CHEVROLET",
+    "model": "LUV",
+    "segmen": "Pickup",
+    "catatan": "Pickup — Model komersial"
+  },
+  {
+    "merek": "CHEVROLET",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "CHEVROLET",
+    "model": "TOTAL",
+    "segmen": "20 model",
+    "catatan": "20 model"
+  },
+  {
+    "merek": "BMW",
+    "model": "218i Gran Coupe",
+    "segmen": "1.5L, AT",
+    "catatan": "1.5L, AT"
+  },
+  {
+    "merek": "BMW",
+    "model": "220i Coupe",
+    "segmen": "-",
+    "catatan": "-"
+  },
+  {
+    "merek": "BMW",
+    "model": "318i (E36, E46, E90, F30)",
+    "segmen": "Sedan",
+    "catatan": "Sedan"
+  },
+  {
+    "merek": "BMW",
+    "model": "320i Dynamic",
+    "segmen": "2.0L, AT",
+    "catatan": "2.0L, AT"
+  },
+  {
+    "merek": "BMW",
+    "model": "320i Luxury",
+    "segmen": "2.0L, AT",
+    "catatan": "2.0L, AT"
+  },
+  {
+    "merek": "BMW",
+    "model": "320i Sport",
+    "segmen": "2.0L, AT",
+    "catatan": "2.0L, AT"
+  },
+  {
+    "merek": "BMW",
+    "model": "320i M Sport Pro",
+    "segmen": "Sedan",
+    "catatan": "Sedan"
+  },
+  {
+    "merek": "BMW",
+    "model": "320i Touring M Sport",
+    "segmen": "Station Wagon",
+    "catatan": "Station Wagon"
+  },
+  {
+    "merek": "BMW",
+    "model": "323i (E36, E46, E90, F30)",
+    "segmen": "Sedan",
+    "catatan": "Sedan"
+  },
+  {
+    "merek": "BMW",
+    "model": "328i (E36, E46, E90, F30)",
+    "segmen": "Sedan",
+    "catatan": "Sedan"
+  },
+  {
+    "merek": "BMW",
+    "model": "330i M Sport",
+    "segmen": "AT",
+    "catatan": "AT"
+  },
+  {
+    "merek": "BMW",
+    "model": "330i M Sport Pro",
+    "segmen": "Sedan",
+    "catatan": "Sedan"
+  },
+  {
+    "merek": "BMW",
+    "model": "330i Touring M Sport",
+    "segmen": "Station Wagon",
+    "catatan": "Station Wagon"
+  },
+  {
+    "merek": "BMW",
+    "model": "335i (E36, E46, E90, F30)",
+    "segmen": "Sedan",
+    "catatan": "Sedan"
+  },
+  {
+    "merek": "BMW",
+    "model": "430i Convertible Sport",
+    "segmen": "2.0L, AT",
+    "catatan": "2.0L, AT"
+  },
+  {
+    "merek": "BMW",
+    "model": "430i M Sport Coupe",
+    "segmen": "Coupe",
+    "catatan": "Coupe"
+  },
+  {
+    "merek": "BMW",
+    "model": "430i M Sport Pro Coupe",
+    "segmen": "Coupe",
+    "catatan": "Coupe"
+  },
+  {
+    "merek": "BMW",
+    "model": "440i Coupe M Sport",
+    "segmen": "3.0L, AT",
+    "catatan": "3.0L, AT"
+  },
+  {
+    "merek": "BMW",
+    "model": "520i Luxury",
+    "segmen": "-",
+    "catatan": "-"
+  },
+  {
+    "merek": "BMW",
+    "model": "520i M Sport / Modern Line",
+    "segmen": "-",
+    "catatan": "-"
+  },
+  {
+    "merek": "BMW",
+    "model": "528i",
+    "segmen": "-",
+    "catatan": "-"
+  },
+  {
+    "merek": "BMW",
+    "model": "530i Luxury",
+    "segmen": "-",
+    "catatan": "-"
+  },
+  {
+    "merek": "BMW",
+    "model": "530i M Sport",
+    "segmen": "-",
+    "catatan": "-"
+  },
+  {
+    "merek": "BMW",
+    "model": "530i Touring M Sport",
+    "segmen": "-",
+    "catatan": "-"
+  },
+  {
+    "merek": "BMW",
+    "model": "530e M Sport",
+    "segmen": "Plug-in Hybrid",
+    "catatan": "Plug-in Hybrid"
+  },
+  {
+    "merek": "BMW",
+    "model": "630i GT Luxury",
+    "segmen": "-",
+    "catatan": "-"
+  },
+  {
+    "merek": "BMW",
+    "model": "730Li M Sport",
+    "segmen": "-",
+    "catatan": "-"
+  },
+  {
+    "merek": "BMW",
+    "model": "730Li Twin Turbo",
+    "segmen": "2.0L, AT",
+    "catatan": "2.0L, AT"
+  },
+  {
+    "merek": "BMW",
+    "model": "735i Sedan",
+    "segmen": "-",
+    "catatan": "-"
+  },
+  {
+    "merek": "BMW",
+    "model": "740Li M Sport / Opulence",
+    "segmen": "-",
+    "catatan": "-"
+  },
+  {
+    "merek": "BMW",
+    "model": "740Li Twin Turbo",
+    "segmen": "3.0L, AT",
+    "catatan": "3.0L, AT"
+  },
+  {
+    "merek": "BMW",
+    "model": "840i Coupe",
+    "segmen": "Coupe",
+    "catatan": "Coupe"
+  },
+  {
+    "merek": "BMW",
+    "model": "840i Gran Coupe",
+    "segmen": "4-Door Gran Coupe",
+    "catatan": "4-Door Gran Coupe"
+  },
+  {
+    "merek": "BMW",
+    "model": "840i Gran Coupe M Sport",
+    "segmen": "4-Door Gran Coupe",
+    "catatan": "4-Door Gran Coupe"
+  },
+  {
+    "merek": "BMW",
+    "model": "850i xDrive M Car",
+    "segmen": "-",
+    "catatan": "-"
+  },
+  {
+    "merek": "BMW",
+    "model": "E12",
+    "segmen": "Klasik Sedan",
+    "catatan": "Klasik Sedan"
+  },
+  {
+    "merek": "BMW",
+    "model": "E21",
+    "segmen": "Klasik Sedan",
+    "catatan": "Klasik Sedan"
+  },
+  {
+    "merek": "BMW",
+    "model": "E23",
+    "segmen": "Klasik Sedan",
+    "catatan": "Klasik Sedan"
+  },
+  {
+    "merek": "BMW",
+    "model": "E24",
+    "segmen": "Klasik Coupe",
+    "catatan": "Klasik Coupe"
+  },
+  {
+    "merek": "BMW",
+    "model": "E28",
+    "segmen": "Klasik Sedan",
+    "catatan": "Klasik Sedan"
+  },
+  {
+    "merek": "BMW",
+    "model": "E30",
+    "segmen": "AT / MT",
+    "catatan": "AT / MT"
+  },
+  {
+    "merek": "BMW",
+    "model": "E31 (840i / 850i lama)",
+    "segmen": "Klasik Coupe",
+    "catatan": "Klasik Coupe"
+  },
+  {
+    "merek": "BMW",
+    "model": "E32",
+    "segmen": "Klasik Sedan",
+    "catatan": "Klasik Sedan"
+  },
+  {
+    "merek": "BMW",
+    "model": "E34",
+    "segmen": "AT / MT",
+    "catatan": "AT / MT"
+  },
+  {
+    "merek": "BMW",
+    "model": "E36",
+    "segmen": "AT / MT",
+    "catatan": "AT / MT"
+  },
+  {
+    "merek": "BMW",
+    "model": "E38",
+    "segmen": "Klasik Sedan",
+    "catatan": "Klasik Sedan"
+  },
+  {
+    "merek": "BMW",
+    "model": "E39",
+    "segmen": "AT",
+    "catatan": "AT"
+  },
+  {
+    "merek": "BMW",
+    "model": "E46",
+    "segmen": "AT / MT",
+    "catatan": "AT / MT"
+  },
+  {
+    "merek": "BMW",
+    "model": "E60",
+    "segmen": "AT / MT",
+    "catatan": "AT / MT"
+  },
+  {
+    "merek": "BMW",
+    "model": "E90",
+    "segmen": "AT / MT",
+    "catatan": "AT / MT"
+  },
+  {
+    "merek": "BMW",
+    "model": "M2 Competition (F87)",
+    "segmen": "Compact Sports Coupe",
+    "catatan": "Compact Sports Coupe"
+  },
+  {
+    "merek": "BMW",
+    "model": "M2 Coupe (G87)",
+    "segmen": "Compact Sports Coupe",
+    "catatan": "Compact Sports Coupe"
+  },
+  {
+    "merek": "BMW",
+    "model": "M2 Coupe",
+    "segmen": "DCT / MT",
+    "catatan": "DCT / MT"
+  },
+  {
+    "merek": "BMW",
+    "model": "M3 CS",
+    "segmen": "Sedan",
+    "catatan": "Sedan"
+  },
+  {
+    "merek": "BMW",
+    "model": "M3 Competition",
+    "segmen": "-",
+    "catatan": "-"
+  },
+  {
+    "merek": "BMW",
+    "model": "M3 Competition Individual",
+    "segmen": "-",
+    "catatan": "-"
+  },
+  {
+    "merek": "BMW",
+    "model": "M3 Competition Touring M xDrive",
+    "segmen": "Station Wagon",
+    "catatan": "Station Wagon"
+  },
+  {
+    "merek": "BMW",
+    "model": "M3 Sedan (E36, E46, E90, F80)",
+    "segmen": "Sports Sedan",
+    "catatan": "Sports Sedan"
+  },
+  {
+    "merek": "BMW",
+    "model": "M4 Competition Convertible M xDrive",
+    "segmen": "Convertible",
+    "catatan": "Convertible"
+  },
+  {
+    "merek": "BMW",
+    "model": "M4 Coupe",
+    "segmen": "AT",
+    "catatan": "AT"
+  },
+  {
+    "merek": "BMW",
+    "model": "M4 Coupe Competition",
+    "segmen": "AT",
+    "catatan": "AT"
+  },
+  {
+    "merek": "BMW",
+    "model": "M4 CS / CSL",
+    "segmen": "Coupe",
+    "catatan": "Coupe"
+  },
+  {
+    "merek": "BMW",
+    "model": "M5 (E34, E39, E60, F10, F90)",
+    "segmen": "4.4L, AT",
+    "catatan": "4.4L, AT"
+  },
+  {
+    "merek": "BMW",
+    "model": "M8 Coupe / Gran Coupe / Competition",
+    "segmen": "Sports Coupe & Gran Coupe",
+    "catatan": "Sports Coupe & Gran Coupe"
+  },
+  {
+    "merek": "BMW",
+    "model": "X1 sDrive 18i",
+    "segmen": "1.5L, AT",
+    "catatan": "1.5L, AT"
+  },
+  {
+    "merek": "BMW",
+    "model": "X1 sDrive 18i xLine",
+    "segmen": "1.5L, AT",
+    "catatan": "1.5L, AT"
+  },
+  {
+    "merek": "BMW",
+    "model": "X1 sDrive18i Dynamic / Executive",
+    "segmen": "-",
+    "catatan": "-"
+  },
+  {
+    "merek": "BMW",
+    "model": "X2 sDrive18i M Sport X",
+    "segmen": "1.5L",
+    "catatan": "1.5L"
+  },
+  {
+    "merek": "BMW",
+    "model": "X3 M / M Competition",
+    "segmen": "-",
+    "catatan": "-"
+  },
+  {
+    "merek": "BMW",
+    "model": "X3 sDrive20i",
+    "segmen": "-",
+    "catatan": "-"
+  },
+  {
+    "merek": "BMW",
+    "model": "X3 xDrive 20i",
+    "segmen": "AT",
+    "catatan": "AT"
+  },
+  {
+    "merek": "BMW",
+    "model": "X3 xDrive 20i Luxury",
+    "segmen": "AT",
+    "catatan": "AT"
+  },
+  {
+    "merek": "BMW",
+    "model": "X3 xDrive 30i M Sport",
+    "segmen": "-",
+    "catatan": "-"
+  },
+  {
+    "merek": "BMW",
+    "model": "X4 M / M Competition",
+    "segmen": "-",
+    "catatan": "-"
+  },
+  {
+    "merek": "BMW",
+    "model": "X4 xDrive 28i M Sport",
+    "segmen": "AT",
+    "catatan": "AT"
+  },
+  {
+    "merek": "BMW",
+    "model": "X4 xDrive30i M Sport",
+    "segmen": "-",
+    "catatan": "-"
+  },
+  {
+    "merek": "BMW",
+    "model": "X5 M",
+    "segmen": "4.4L Exclusive, AT",
+    "catatan": "4.4L Exclusive, AT"
+  },
+  {
+    "merek": "BMW",
+    "model": "X5 xDrive 25d",
+    "segmen": "AT",
+    "catatan": "AT"
+  },
+  {
+    "merek": "BMW",
+    "model": "X5 xDrive35i / Limited",
+    "segmen": "-",
+    "catatan": "-"
+  },
+  {
+    "merek": "BMW",
+    "model": "X5 xDrive40i xLine / M Sport",
+    "segmen": "-",
+    "catatan": "-"
+  },
+  {
+    "merek": "BMW",
+    "model": "X6 xDrive 35i M Sport Edition",
+    "segmen": "AT",
+    "catatan": "AT"
+  },
+  {
+    "merek": "BMW",
+    "model": "X6 xDrive40i M Sport",
+    "segmen": "-",
+    "catatan": "-"
+  },
+  {
+    "merek": "BMW",
+    "model": "X7 xDrive 40i Opulence",
+    "segmen": "AT",
+    "catatan": "AT"
+  },
+  {
+    "merek": "BMW",
+    "model": "X7 xDrive40i M Sport",
+    "segmen": "-",
+    "catatan": "-"
+  },
+  {
+    "merek": "BMW",
+    "model": "XM 50e",
+    "segmen": "PHEV",
+    "catatan": "PHEV"
+  },
+  {
+    "merek": "BMW",
+    "model": "XM 4.4L V8 PHEV",
+    "segmen": "-",
+    "catatan": "-"
+  },
+  {
+    "merek": "BMW",
+    "model": "XM Label Red",
+    "segmen": "-",
+    "catatan": "-"
+  },
+  {
+    "merek": "BMW",
+    "model": "i4 eDrive 40 M Sport",
+    "segmen": "Electric Gran Coupe",
+    "catatan": "Electric Gran Coupe"
+  },
+  {
+    "merek": "BMW",
+    "model": "i5 eDrive40 M Sport",
+    "segmen": "Electric Sedan",
+    "catatan": "Electric Sedan"
+  },
+  {
+    "merek": "BMW",
+    "model": "i5 M60 xDrive",
+    "segmen": "Electric Sedan",
+    "catatan": "Electric Sedan"
+  },
+  {
+    "merek": "BMW",
+    "model": "i5 Touring",
+    "segmen": "Electric Station Wagon",
+    "catatan": "Electric Station Wagon"
+  },
+  {
+    "merek": "BMW",
+    "model": "i7 xDrive60 Gran Lusso",
+    "segmen": "Electric Luxury Sedan",
+    "catatan": "Electric Luxury Sedan"
+  },
+  {
+    "merek": "BMW",
+    "model": "i8 Coupe Hybrid",
+    "segmen": "1.5L Turbocharger",
+    "catatan": "1.5L Turbocharger"
+  },
+  {
+    "merek": "BMW",
+    "model": "i8 Roadster",
+    "segmen": "2.0L Turbocharger",
+    "catatan": "2.0L Turbocharger"
+  },
+  {
+    "merek": "BMW",
+    "model": "iX xDrive 40 Sport",
+    "segmen": "AT",
+    "catatan": "AT"
+  },
+  {
+    "merek": "BMW",
+    "model": "iX xDrive40 / xDrive50 / M60",
+    "segmen": "Electric SUV",
+    "catatan": "Electric SUV"
+  },
+  {
+    "merek": "BMW",
+    "model": "iX1 eDrive20 / xDrive30",
+    "segmen": "Compact Electric SUV",
+    "catatan": "Compact Electric SUV"
+  },
+  {
+    "merek": "BMW",
+    "model": "iX3 M Sport",
+    "segmen": "Electric SUV",
+    "catatan": "Electric SUV"
+  },
+  {
+    "merek": "BMW",
+    "model": "Z3 Roadster",
+    "segmen": "Klasik Roadster",
+    "catatan": "Klasik Roadster"
+  },
+  {
+    "merek": "BMW",
+    "model": "Z4 sDrive 20i (G29)",
+    "segmen": "Roadster",
+    "catatan": "Roadster"
+  },
+  {
+    "merek": "BMW",
+    "model": "Z4 sDrive 30i",
+    "segmen": "-",
+    "catatan": "-"
+  },
+  {
+    "merek": "BMW",
+    "model": "Z4 M40i (G29)",
+    "segmen": "Roadster",
+    "catatan": "Roadster"
+  },
+  {
+    "merek": "BMW",
+    "model": "Z8",
+    "segmen": "Klasik Roadster",
+    "catatan": "Klasik Roadster"
+  },
+  {
+    "merek": "BYD",
+    "model": "BYD Atto 1",
+    "segmen": "City Car / Hatchback",
+    "catatan": "City Car / Hatchback — BEV. Model termurah BYD. Baterai 30,08 kWh, jarak tempuh 300 km (NEDC)."
+  },
+  {
+    "merek": "BYD",
+    "model": "BYD Dolphin",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — BEV. Baterai Blade (LFP), jarak tempuh 410-490 km (NEDC). Tersedia varian Dynamic & Premium."
+  },
+  {
+    "merek": "BYD",
+    "model": "BYD M6",
+    "segmen": "MPV Listrik",
+    "catatan": "MPV Listrik — BEV. MPV 6/7-seater. Baterai 55,4 kWh, jarak tempuh 420 km (NEDC). Tersedia varian Standard, Super, & Superior Captain Seat. Sudah dirakit lokal (CKD)."
+  },
+  {
+    "merek": "BYD",
+    "model": "BYD M6 DM",
+    "segmen": "MPV Plug-in Hybrid",
+    "catatan": "MPV Plug-in Hybrid — PHEV pertama BYD di Indonesia. Jarak tempuh listrik murni 45 km (NEDC). Tersedia pilihan 6 & 7 penumpang. Harga Rp298-390 juta."
+  },
+  {
+    "merek": "BYD",
+    "model": "BYD Atto 3",
+    "segmen": "SUV Kompak",
+    "catatan": "SUV Kompak — BEV. Baterai 49,92 kWh, jarak tempuh 410 km. Tersedia varian Advanced Plus."
+  },
+  {
+    "merek": "BYD",
+    "model": "BYD Sealion 7",
+    "segmen": "SUV Premium",
+    "catatan": "SUV Premium — BEV. Baterai 82,56 kWh, jarak tempuh hingga 567 km (NEDC). Tersedia varian Premium & Performance."
+  },
+  {
+    "merek": "BYD",
+    "model": "BYD Seal",
+    "segmen": "Sedan Sport",
+    "catatan": "Sedan Sport — BEV. Baterai 82,56 kWh, jarak tempuh hingga 650 km (NEDC). Tersedia varian Premium (RWD) & Performance (AWD)."
+  },
+  {
+    "merek": "BYD",
+    "model": "Denza D9",
+    "segmen": "MPV Listrik Premium",
+    "catatan": "MPV Listrik Premium — BEV. Model premium dari sub-merek Denza. Harga sekitar Rp950 juta."
+  },
+  {
+    "merek": "BYD",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "BYD",
+    "model": "Seri City Car / Hatchback",
+    "segmen": "2",
+    "catatan": "2"
+  },
+  {
+    "merek": "BYD",
+    "model": "Seri MPV",
+    "segmen": "2",
+    "catatan": "2"
+  },
+  {
+    "merek": "BYD",
+    "model": "Seri SUV",
+    "segmen": "2",
+    "catatan": "2"
+  },
+  {
+    "merek": "BYD",
+    "model": "Seri Sedan",
+    "segmen": "1",
+    "catatan": "1"
+  },
+  {
+    "merek": "BYD",
+    "model": "Sub-merek Denza",
+    "segmen": "1",
+    "catatan": "1"
+  },
+  {
+    "merek": "BYD",
+    "model": "TOTAL",
+    "segmen": "8 model",
+    "catatan": "8 model"
+  },
+  {
+    "merek": "CHERY",
+    "model": "Omoda 5 / C5",
+    "segmen": "Crossover / Compact SUV",
+    "catatan": "Crossover / Compact SUV — Model andalan Omoda"
+  },
+  {
+    "merek": "CHERY",
+    "model": "Omoda 5 GT",
+    "segmen": "Crossover / Compact SUV",
+    "catatan": "Crossover / Compact SUV — Tersedia FWD / AWD, performa lebih tinggi"
+  },
+  {
+    "merek": "CHERY",
+    "model": "Omoda E5 / C5 EV",
+    "segmen": "Compact SUV Listrik",
+    "catatan": "Compact SUV Listrik — BEV (Battery Electric Vehicle)"
+  },
+  {
+    "merek": "CHERY",
+    "model": "Tiggo Cross / Tiggo Cross Sport",
+    "segmen": "Subcompact Crossover / SUV",
+    "catatan": "Subcompact Crossover / SUV — -"
+  },
+  {
+    "merek": "CHERY",
+    "model": "Tiggo 4 Pro",
+    "segmen": "Compact SUV",
+    "catatan": "Compact SUV — -"
+  },
+  {
+    "merek": "CHERY",
+    "model": "Tiggo 8",
+    "segmen": "7-Seater Mid-size SUV",
+    "catatan": "7-Seater Mid-size SUV — -"
+  },
+  {
+    "merek": "CHERY",
+    "model": "Tiggo 8 Pro Max",
+    "segmen": "7-Seater Large SUV / Flagship",
+    "catatan": "7-Seater Large SUV / Flagship — Model tertinggi di lini Tiggo"
+  },
+  {
+    "merek": "CHERY",
+    "model": "Tiggo 9 / Tiggo 9 CSH",
+    "segmen": "Full-size Luxury SUV",
+    "catatan": "Full-size Luxury SUV — Tersedia varian Hybrid"
+  },
+  {
+    "merek": "CHERY",
+    "model": "Chery J6 / J6T",
+    "segmen": "Off-road Boxy SUV",
+    "catatan": "Off-road Boxy SUV — BEV (Listrik Murni)"
+  },
+  {
+    "merek": "CHERY",
+    "model": "Jaecoo J5 / J5 EV",
+    "segmen": "Compact SUV",
+    "catatan": "Compact SUV — BEV (Listrik Murni)"
+  },
+  {
+    "merek": "CHERY",
+    "model": "Jaecoo J7 / J7 SHS-P",
+    "segmen": "Premium Off-Road SUV",
+    "catatan": "Premium Off-Road SUV — PHEV (Plug-in Hybrid)"
+  },
+  {
+    "merek": "CHERY",
+    "model": "Jaecoo J8 / J8 SHS-P",
+    "segmen": "3-Row Large Luxury SUV",
+    "catatan": "3-Row Large Luxury SUV — PHEV (Plug-in Hybrid)"
+  },
+  {
+    "merek": "CHERY",
+    "model": "Chery Q / QQ3 (Generasi Baru)",
+    "segmen": "Compact Hatchback / City Car",
+    "catatan": "Compact Hatchback / City Car — Listrik (BEV)"
+  },
+  {
+    "merek": "CHERY",
+    "model": "Chery Himla",
+    "segmen": "Double Cabin Pickup Truck",
+    "catatan": "Double Cabin Pickup Truck — Kendaraan niaga / pikap"
+  },
+  {
+    "merek": "CHERY",
+    "model": "A1",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — Model lama Chery"
+  },
+  {
+    "merek": "CHERY",
+    "model": "A3",
+    "segmen": "Sedan",
+    "catatan": "Sedan — Model lama Chery"
+  },
+  {
+    "merek": "CHERY",
+    "model": "A5",
+    "segmen": "Sedan",
+    "catatan": "Sedan — Model lama Chery"
+  },
+  {
+    "merek": "CHERY",
+    "model": "Eastar",
+    "segmen": "MPV / Station Wagon",
+    "catatan": "MPV / Station Wagon — Model lama Chery"
+  },
+  {
+    "merek": "CHERY",
+    "model": "QQ3",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — Model city car klasik Chery"
+  },
+  {
+    "merek": "CHERY",
+    "model": "QQ6",
+    "segmen": "Sedan Kecil",
+    "catatan": "Sedan Kecil — Model lama Chery"
+  },
+  {
+    "merek": "CHERY",
+    "model": "Tiggo (Generasi Awal)",
+    "segmen": "SUV",
+    "catatan": "SUV — Model SUV pertama Chery"
+  },
+  {
+    "merek": "CHERY",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "CHERY",
+    "model": "Seri Omoda / C-Series",
+    "segmen": "3",
+    "catatan": "3"
+  },
+  {
+    "merek": "CHERY",
+    "model": "Seri Tiggo",
+    "segmen": "6",
+    "catatan": "6"
+  },
+  {
+    "merek": "CHERY",
+    "model": "Seri J / Jaecoo",
+    "segmen": "4",
+    "catatan": "4"
+  },
+  {
+    "merek": "CHERY",
+    "model": "Seri Q & Komersial",
+    "segmen": "2",
+    "catatan": "2"
+  },
+  {
+    "merek": "CHERY",
+    "model": "Model Legacy / Klasik",
+    "segmen": "7",
+    "catatan": "7"
+  },
+  {
+    "merek": "CHERY",
+    "model": "TOTAL",
+    "segmen": "22 model",
+    "catatan": "22 model"
+  },
+  {
+    "merek": "DFSK",
+    "model": "Glory i-Auto",
+    "segmen": "Medium SUV / Crossover",
+    "catatan": "Medium SUV / Crossover — Model unggulan DFSK di segmen SUV"
+  },
+  {
+    "merek": "DFSK",
+    "model": "Glory E3",
+    "segmen": "Compact SUV Listrik",
+    "catatan": "Compact SUV Listrik — BEV (Battery Electric Vehicle)"
+  },
+  {
+    "merek": "DFSK",
+    "model": "DFSK E5 Plus",
+    "segmen": "7-Seater Medium SUV",
+    "catatan": "7-Seater Medium SUV — PHEV (Plug-in Hybrid)"
+  },
+  {
+    "merek": "DFSK",
+    "model": "Seres E1 (Type B & Type L)",
+    "segmen": "City Car / Micro Hatchback EV",
+    "catatan": "City Car / Micro Hatchback EV — BEV. Tersedia dua tipe (B dan L)"
+  },
+  {
+    "merek": "DFSK",
+    "model": "Seres 3",
+    "segmen": "Compact SUV Listrik",
+    "catatan": "Compact SUV Listrik — BEV"
+  },
+  {
+    "merek": "DFSK",
+    "model": "Seres 7",
+    "segmen": "Full-size Premium SUV",
+    "catatan": "Full-size Premium SUV — EREV (Extended Range Electric Vehicle)"
+  },
+  {
+    "merek": "DFSK",
+    "model": "DFSK Mini EV",
+    "segmen": "City Car / Hatchback EV",
+    "catatan": "City Car / Hatchback EV — BEV. Model listrik perkotaan"
+  },
+  {
+    "merek": "DFSK",
+    "model": "Gelora (Blind Van / Minibus)",
+    "segmen": "Commercial Van / MPV",
+    "catatan": "Commercial Van / MPV — Bensin (ICE)"
+  },
+  {
+    "merek": "DFSK",
+    "model": "Gelora E (Blind Van)",
+    "segmen": "Commercial Electric Van",
+    "catatan": "Commercial Electric Van — BEV"
+  },
+  {
+    "merek": "DFSK",
+    "model": "Super Cab",
+    "segmen": "Ambulans / Kendaraan Khusus",
+    "catatan": "Ambulans / Kendaraan Khusus — Tersedia varian MT"
+  },
+  {
+    "merek": "DFSK",
+    "model": "Super Cab Ambulans",
+    "segmen": "Kendaraan Khusus / Ambulans",
+    "catatan": "Kendaraan Khusus / Ambulans — Model khusus untuk ambulans"
+  },
+  {
+    "merek": "DFSK",
+    "model": "Glory 560",
+    "segmen": "SUV",
+    "catatan": "SUV — Model lama DFSK"
+  },
+  {
+    "merek": "DFSK",
+    "model": "Glory 580",
+    "segmen": "SUV",
+    "catatan": "SUV — Model lama DFSK"
+  },
+  {
+    "merek": "DFSK",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "DFSK",
+    "model": "Seri Passenger Cars (SUV / Crossover)",
+    "segmen": "3",
+    "catatan": "3"
+  },
+  {
+    "merek": "DFSK",
+    "model": "Model Legacy / Klasik",
+    "segmen": "2",
+    "catatan": "2"
+  },
+  {
+    "merek": "DFSK",
+    "model": "TOTAL",
+    "segmen": "13 model",
+    "catatan": "13 model"
+  },
+  {
+    "merek": "FORD",
+    "model": "Ford Mustang",
+    "segmen": "Sports Coupe / Convertible",
+    "catatan": "Sports Coupe / Convertible — Tersedia varian Fastback, Convertible, & Dark Horse"
+  },
+  {
+    "merek": "FORD",
+    "model": "Ford Focus Sedan",
+    "segmen": "Sedan",
+    "catatan": "Sedan — -"
+  },
+  {
+    "merek": "FORD",
+    "model": "Ford Focus Hatchback",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — -"
+  },
+  {
+    "merek": "FORD",
+    "model": "Ford Fiesta EcoBoost / Fiesta ST",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — Varian performa tinggi (ST)"
+  },
+  {
+    "merek": "FORD",
+    "model": "Ford Fiesta Sedan",
+    "segmen": "Sedan",
+    "catatan": "Sedan — -"
+  },
+  {
+    "merek": "FORD",
+    "model": "Ford Telstar",
+    "segmen": "Sedan Mid-size",
+    "catatan": "Sedan Mid-size — Model klasik Ford"
+  },
+  {
+    "merek": "FORD",
+    "model": "Ford Laser Lynx / Sonic",
+    "segmen": "Sedan / Hatchback",
+    "catatan": "Sedan / Hatchback — Model klasik Ford"
+  },
+  {
+    "merek": "FORD",
+    "model": "Ford Cortina",
+    "segmen": "Sedan Klasik",
+    "catatan": "Sedan Klasik — Model klasik Ford"
+  },
+  {
+    "merek": "FORD",
+    "model": "Ford Everest Sport",
+    "segmen": "7-Seater Ladder Frame SUV",
+    "catatan": "7-Seater Ladder Frame SUV — SUV tangguh dengan sasis tangga"
+  },
+  {
+    "merek": "FORD",
+    "model": "Ford Everest XLT",
+    "segmen": "7-Seater Ladder Frame SUV",
+    "catatan": "7-Seater Ladder Frame SUV — -"
+  },
+  {
+    "merek": "FORD",
+    "model": "Ford Everest Platinum",
+    "segmen": "7-Seater Luxury SUV",
+    "catatan": "7-Seater Luxury SUV — Varian tertinggi dengan mesin V6"
+  },
+  {
+    "merek": "FORD",
+    "model": "Ford Everest Tremor",
+    "segmen": "7-Seater Off-Road SUV",
+    "catatan": "7-Seater Off-Road SUV — Varian dengan kemampuan off-road lebih tinggi"
+  },
+  {
+    "merek": "FORD",
+    "model": "Ford Everest Titanium",
+    "segmen": "7-Seater SUV",
+    "catatan": "7-Seater SUV — -"
+  },
+  {
+    "merek": "FORD",
+    "model": "Ford Escape XLT / Limited",
+    "segmen": "Compact SUV / Crossover",
+    "catatan": "Compact SUV / Crossover — -"
+  },
+  {
+    "merek": "FORD",
+    "model": "Ford Escape Sporty",
+    "segmen": "Compact SUV / Crossover",
+    "catatan": "Compact SUV / Crossover — -"
+  },
+  {
+    "merek": "FORD",
+    "model": "Ford EcoSport Trend",
+    "segmen": "Compact SUV",
+    "catatan": "Compact SUV — -"
+  },
+  {
+    "merek": "FORD",
+    "model": "Ford EcoSport Titanium",
+    "segmen": "Compact SUV",
+    "catatan": "Compact SUV — Varian tertinggi EcoSport"
+  },
+  {
+    "merek": "FORD",
+    "model": "Ford Explorer",
+    "segmen": "Full-size SUV",
+    "catatan": "Full-size SUV — SUV premium berukuran besar"
+  },
+  {
+    "merek": "FORD",
+    "model": "Ford Ranger XL",
+    "segmen": "Double Cabin / Single Cabin Pickup",
+    "catatan": "Double Cabin / Single Cabin Pickup — Varian dasar / komersial"
+  },
+  {
+    "merek": "FORD",
+    "model": "Ford Ranger XLT",
+    "segmen": "Double Cabin Pickup",
+    "catatan": "Double Cabin Pickup — -"
+  },
+  {
+    "merek": "FORD",
+    "model": "Ford Ranger Sport",
+    "segmen": "Double Cabin Pickup",
+    "catatan": "Double Cabin Pickup — Varian sporty"
+  },
+  {
+    "merek": "FORD",
+    "model": "Ford Ranger Platinum",
+    "segmen": "Luxury Double Cabin Pickup",
+    "catatan": "Luxury Double Cabin Pickup — Varian tertinggi Ranger"
+  },
+  {
+    "merek": "FORD",
+    "model": "Ford Ranger Raptor",
+    "segmen": "High-Performance Pickup",
+    "catatan": "High-Performance Pickup — Varian performa tinggi untuk off-road ekstrem"
+  },
+  {
+    "merek": "FORD",
+    "model": "Ford Ranger Wildtrak",
+    "segmen": "Double Cabin Pickup",
+    "catatan": "Double Cabin Pickup — Varian premium petualang"
+  },
+  {
+    "merek": "FORD",
+    "model": "Ford Ranger Single Cab / Base",
+    "segmen": "Commercial Pickup",
+    "catatan": "Commercial Pickup — Varian kabin tunggal untuk komersial"
+  },
+  {
+    "merek": "FORD",
+    "model": "Ford Transit",
+    "segmen": "Commercial Van / Minibus",
+    "catatan": "Commercial Van / Minibus — Kendaraan komersial / niaga"
+  },
+  {
+    "merek": "FORD",
+    "model": "Ford Spectron",
+    "segmen": "Minibus Klasik",
+    "catatan": "Minibus Klasik — Model klasik Ford"
+  },
+  {
+    "merek": "FORD",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "FORD",
+    "model": "TOTAL",
+    "segmen": "27 model",
+    "catatan": "27 model"
+  },
+  {
+    "merek": "HINO",
+    "model": "Dutro 115 SD / SDL / SDR",
+    "segmen": "Light Truck",
+    "catatan": "Light Truck — 4 Roda / Engkel Cargo"
+  },
+  {
+    "merek": "HINO",
+    "model": "Dutro 115 HD",
+    "segmen": "Light Dump Truck",
+    "catatan": "Light Dump Truck — 6 Roda"
+  },
+  {
+    "merek": "HINO",
+    "model": "Dutro 136 MD / MDL",
+    "segmen": "Light Medium Truck",
+    "catatan": "Light Medium Truck — 6 Roda Cargo"
+  },
+  {
+    "merek": "HINO",
+    "model": "Dutro 136 HD / HDX",
+    "segmen": "Light Heavy Duty Dump Truck",
+    "catatan": "Light Heavy Duty Dump Truck — 6 Roda"
+  },
+  {
+    "merek": "HINO",
+    "model": "Dutro 136 HDX LSD",
+    "segmen": "Light Dump Truck",
+    "catatan": "Light Dump Truck — Off-Road / Off-Road Track"
+  },
+  {
+    "merek": "HINO",
+    "model": "Dutro 136 HDX Mixer",
+    "segmen": "Light Mixer Truck",
+    "catatan": "Light Mixer Truck — Molen Kecil"
+  },
+  {
+    "merek": "HINO",
+    "model": "FG 260 JJ / JK / JL / JP / JS / JU",
+    "segmen": "Medium Duty Truck",
+    "catatan": "Medium Duty Truck — 4x2 Cargo & Dump"
+  },
+  {
+    "merek": "HINO",
+    "model": "FG 260 TH",
+    "segmen": "Tractor Head",
+    "catatan": "Tractor Head — Head Trailer 4x2"
+  },
+  {
+    "merek": "HINO",
+    "model": "SG 280 TH / TH ABS",
+    "segmen": "Tractor Head",
+    "catatan": "Tractor Head — Head Trailer 4x2 Heavy Duty"
+  },
+  {
+    "merek": "HINO",
+    "model": "FL 260 JN / JW",
+    "segmen": "Medium Duty Truck",
+    "catatan": "Medium Duty Truck — 6x2 Rigid Cargo"
+  },
+  {
+    "merek": "HINO",
+    "model": "FL 280 JT / JW",
+    "segmen": "Medium Duty Truck",
+    "catatan": "Medium Duty Truck — 6x2 Long Cargo"
+  },
+  {
+    "merek": "HINO",
+    "model": "FLX 280 JW",
+    "segmen": "Heavy Duty Truck",
+    "catatan": "Heavy Duty Truck — 8x2 Extra Long Cargo"
+  },
+  {
+    "merek": "HINO",
+    "model": "FM 280 JD / JD Mining",
+    "segmen": "Heavy Duty Dump Truck",
+    "catatan": "Heavy Duty Dump Truck — 6x4 Mining Spec"
+  },
+  {
+    "merek": "HINO",
+    "model": "FM 280 JM",
+    "segmen": "Heavy Duty Mixer Truck",
+    "catatan": "Heavy Duty Mixer Truck — 6x4"
+  },
+  {
+    "merek": "HINO",
+    "model": "FM 280 JW",
+    "segmen": "Heavy Duty Rigid Truck",
+    "catatan": "Heavy Duty Rigid Truck — 6x4 Long Cargo"
+  },
+  {
+    "merek": "HINO",
+    "model": "FM 280 TH / FM 340 TH",
+    "segmen": "Tractor Head",
+    "catatan": "Tractor Head — Head Trailer 6x4 High Power"
+  },
+  {
+    "merek": "HINO",
+    "model": "FM 340 PD / PL Mining",
+    "segmen": "Heavy Duty Dump Truck",
+    "catatan": "Heavy Duty Dump Truck — 6x4 Mining Spec Heavy Power"
+  },
+  {
+    "merek": "HINO",
+    "model": "Profia ZY 5041",
+    "segmen": "Ultra Heavy Duty Mining Dump Truck",
+    "catatan": "Ultra Heavy Duty Mining Dump Truck — 8x4"
+  },
+  {
+    "merek": "HINO",
+    "model": "Profia ZS 4141",
+    "segmen": "Ultra Heavy Duty Dump Truck",
+    "catatan": "Ultra Heavy Duty Dump Truck — 6x4"
+  },
+  {
+    "merek": "HINO",
+    "model": "Profia SS 3544 / SS 4141",
+    "segmen": "Heavy Tractor Head",
+    "catatan": "Heavy Tractor Head — Heavy Transport"
+  },
+  {
+    "merek": "HINO",
+    "model": "Dutro 115 SDB / SDBL",
+    "segmen": "Microbus Chassis",
+    "catatan": "Microbus Chassis — -"
+  },
+  {
+    "merek": "HINO",
+    "model": "Dutro 136 MDBL",
+    "segmen": "Long Microbus Chassis",
+    "catatan": "Long Microbus Chassis — -"
+  },
+  {
+    "merek": "HINO",
+    "model": "GB 150 / GB 150 L / GB 150 AT",
+    "segmen": "Medium Bus Chassis",
+    "catatan": "Medium Bus Chassis — Mesin Depan"
+  },
+  {
+    "merek": "HINO",
+    "model": "AK 240 STD",
+    "segmen": "Big Bus Chassis",
+    "catatan": "Big Bus Chassis — Mesin Depan"
+  },
+  {
+    "merek": "HINO",
+    "model": "RK 280 STD / ABS",
+    "segmen": "Big Bus Chassis",
+    "catatan": "Big Bus Chassis — Mesin Belakang"
+  },
+  {
+    "merek": "HINO",
+    "model": "RM 280 STD / ABS",
+    "segmen": "Big Bus Chassis",
+    "catatan": "Big Bus Chassis — Space Frame / Mesin Belakang"
+  },
+  {
+    "merek": "HINO",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "HINO",
+    "model": "Hino 300 Series (Dutro)",
+    "segmen": "6",
+    "catatan": "6"
+  },
+  {
+    "merek": "HINO",
+    "model": "Hino 500 Series (Ranger)",
+    "segmen": "11",
+    "catatan": "11"
+  },
+  {
+    "merek": "HINO",
+    "model": "Hino 700 Series (Profia)",
+    "segmen": "3",
+    "catatan": "3"
+  },
+  {
+    "merek": "HINO",
+    "model": "Hino Bus Series",
+    "segmen": "6",
+    "catatan": "6"
+  },
+  {
+    "merek": "HINO",
+    "model": "TOTAL",
+    "segmen": "26 model",
+    "catatan": "26 model"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "MU-7",
+    "segmen": "SUV / Medium SUV",
+    "catatan": "SUV / Medium SUV — Generasi pendahulu MU-X"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Trooper",
+    "segmen": "SUV 4x4 Klasik",
+    "catatan": "SUV 4x4 Klasik — -"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Panther Grand Deluxe",
+    "segmen": "MPV / SUV Ringan",
+    "catatan": "MPV / SUV Ringan — -"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Panther Hi Grade",
+    "segmen": "MPV / SUV Ringan",
+    "catatan": "MPV / SUV Ringan — -"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Panther Hi Sporty",
+    "segmen": "MPV / SUV Ringan",
+    "catatan": "MPV / SUV Ringan — Berbasis Panther Kotak"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Panther LM",
+    "segmen": "MPV / SUV Ringan",
+    "catatan": "MPV / SUV Ringan — -"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Panther LS",
+    "segmen": "MPV / SUV Ringan",
+    "catatan": "MPV / SUV Ringan — -"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Panther LS Hi Grade",
+    "segmen": "MPV / SUV Ringan",
+    "catatan": "MPV / SUV Ringan — -"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Panther LS Hi Grade Turbo",
+    "segmen": "MPV / SUV Ringan",
+    "catatan": "MPV / SUV Ringan — Mesin turbo"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Panther LV",
+    "segmen": "MPV / SUV Ringan",
+    "catatan": "MPV / SUV Ringan — -"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Panther LV Adventure",
+    "segmen": "MPV / SUV Ringan",
+    "catatan": "MPV / SUV Ringan — -"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Panther LV Turbo",
+    "segmen": "MPV / SUV Ringan",
+    "catatan": "MPV / SUV Ringan — Mesin turbo"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Panther Miyabi",
+    "segmen": "MPV",
+    "catatan": "MPV — Karoseri klasik"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Panther New Royale",
+    "segmen": "MPV",
+    "catatan": "MPV — -"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Panther Pick Up",
+    "segmen": "Pickup",
+    "catatan": "Pickup — -"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Panther Royale",
+    "segmen": "MPV",
+    "catatan": "MPV — -"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Panther Smart Turbo",
+    "segmen": "MPV / SUV Ringan",
+    "catatan": "MPV / SUV Ringan — Mesin turbo"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Panther Total Assy (TA)",
+    "segmen": "MPV",
+    "catatan": "MPV — Generasi pertama klasik"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Panther Touring",
+    "segmen": "MPV / SUV Ringan",
+    "catatan": "MPV / SUV Ringan — -"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Panther Turbo Grand Touring",
+    "segmen": "MPV / SUV Ringan",
+    "catatan": "MPV / SUV Ringan — Mesin turbo"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Panther Turbo Touring",
+    "segmen": "MPV / SUV Ringan",
+    "catatan": "MPV / SUV Ringan — Mesin turbo"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Aska",
+    "segmen": "Sedan Mid-Size Klasik",
+    "catatan": "Sedan Mid-Size Klasik — -"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Gemini",
+    "segmen": "Sedan Klasik",
+    "catatan": "Sedan Klasik — Armada Taksi"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Traga",
+    "segmen": "Pick-up / Medium Pick-up / Blind Van",
+    "catatan": "Pick-up / Medium Pick-up / Blind Van — -"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Bison",
+    "segmen": "Pick-up / Minibus",
+    "catatan": "Pick-up / Minibus — Hasil kerja sama berbasis Mitsubishi L300"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Elf NLR",
+    "segmen": "Truk Ringan Engkel",
+    "catatan": "Truk Ringan Engkel — 4 Roda"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Elf NMR",
+    "segmen": "Truk Ringan",
+    "catatan": "Truk Ringan — 6 Roda"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Elf NPS 4x4",
+    "segmen": "Truk Ringan",
+    "catatan": "Truk Ringan — Penggerak 4x4 (Medan Berat / Pertambangan)"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Elf Microbus",
+    "segmen": "Microbus / Minibus",
+    "catatan": "Microbus / Minibus — Penumpang"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Elf NQR",
+    "segmen": "Chassis Bus",
+    "catatan": "Chassis Bus — Bus Sedang (Medium Bus)"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Giga FRR",
+    "segmen": "Truk Sedang",
+    "catatan": "Truk Sedang — Medium Duty Truck 4x2"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Giga FTR",
+    "segmen": "Truk Sedang",
+    "catatan": "Truk Sedang — Medium Duty Truck 4x2"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Giga FVR",
+    "segmen": "Truk Sedang Kargo / Dump Truck",
+    "catatan": "Truk Sedang Kargo / Dump Truck — 4x2"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Giga FVZ",
+    "segmen": "Truk Berat",
+    "catatan": "Truk Berat — Heavy Duty Truck 6x4"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Giga GVR",
+    "segmen": "Tractor Head",
+    "catatan": "Tractor Head — Head Trailer 4x2"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Giga GVZ",
+    "segmen": "Tractor Head",
+    "catatan": "Tractor Head — Head Trailer 6x4"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Giga GXZ",
+    "segmen": "Tractor Head",
+    "catatan": "Tractor Head — Head Trailer Heavy Duty 6x4"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Giga FVM 34",
+    "segmen": "Truk Berat",
+    "catatan": "Truk Berat — -"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Kendaraan Niaga Ringan & Pickup",
+    "segmen": "2",
+    "catatan": "2"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Truk Ringan & Bus (Elf Series)",
+    "segmen": "5",
+    "catatan": "5"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "Truk Sedang, Berat & Tractor Head (Giga Series)",
+    "segmen": "8",
+    "catatan": "8"
+  },
+  {
+    "merek": "ISUZU",
+    "model": "TOTAL",
+    "segmen": "40 model",
+    "catatan": "40 model"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "A140",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "A160",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "A180 BlueEfficiency",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "A180 Progressive",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "A190",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "A200",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "AMG A35",
+    "segmen": "Hatchback Performa",
+    "catatan": "Hatchback Performa — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "B200 Progressive Line",
+    "segmen": "MPV / Hatchback",
+    "catatan": "MPV / Hatchback — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "C-Class 205",
+    "segmen": "Sedan",
+    "catatan": "Sedan — Generasi W205"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "C180",
+    "segmen": "Compact Executive Sedan",
+    "catatan": "Compact Executive Sedan — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "C200",
+    "segmen": "Sedan",
+    "catatan": "Sedan — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "C250",
+    "segmen": "Compact Executive Sedan",
+    "catatan": "Compact Executive Sedan — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "C300",
+    "segmen": "Sedan",
+    "catatan": "Sedan — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "C32 AMG",
+    "segmen": "Sedan Performa",
+    "catatan": "Sedan Performa — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "C320",
+    "segmen": "Sedan",
+    "catatan": "Sedan — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "C219 CLS",
+    "segmen": "4-Door Coupe",
+    "catatan": "4-Door Coupe — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "E200 Coupe",
+    "segmen": "2-Door Luxury Coupe",
+    "catatan": "2-Door Luxury Coupe — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "E200 Elegance",
+    "segmen": "Sedan",
+    "catatan": "Sedan — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "E220",
+    "segmen": "Sedan",
+    "catatan": "Sedan — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "E230 CGI",
+    "segmen": "Sedan",
+    "catatan": "Sedan — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "E250 Sport",
+    "segmen": "Sedan",
+    "catatan": "Sedan — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "E300 AMG",
+    "segmen": "Sedan Performa",
+    "catatan": "Sedan Performa — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "E300 Coupe",
+    "segmen": "2-Door Luxury Coupe",
+    "catatan": "2-Door Luxury Coupe — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "E320",
+    "segmen": "Sedan",
+    "catatan": "Sedan — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "E500 AT",
+    "segmen": "Sedan",
+    "catatan": "Sedan — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "E53 AMG",
+    "segmen": "Sedan Performa",
+    "catatan": "Sedan Performa — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "S400",
+    "segmen": "Full-Size Luxury Sedan",
+    "catatan": "Full-Size Luxury Sedan — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "S450 L",
+    "segmen": "Full-Size Luxury Sedan",
+    "catatan": "Full-Size Luxury Sedan — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "S500",
+    "segmen": "Full-Size Luxury Sedan",
+    "catatan": "Full-Size Luxury Sedan — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "S580",
+    "segmen": "Full-Size Luxury Sedan",
+    "catatan": "Full-Size Luxury Sedan — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "S-Class 450 L",
+    "segmen": "Full-Size Luxury Sedan",
+    "catatan": "Full-Size Luxury Sedan — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "G-Class AMG G63",
+    "segmen": "Off-Road SUV",
+    "catatan": "Off-Road SUV — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "G 300 CDI",
+    "segmen": "Off-Road SUV",
+    "catatan": "Off-Road SUV — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "G 500",
+    "segmen": "Off-Road SUV",
+    "catatan": "Off-Road SUV — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "GLA 180",
+    "segmen": "Compact SUV",
+    "catatan": "Compact SUV — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "GLA 200",
+    "segmen": "Compact SUV",
+    "catatan": "Compact SUV — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "GLA 35",
+    "segmen": "Compact SUV",
+    "catatan": "Compact SUV — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "GLA AMG",
+    "segmen": "Compact SUV Performa",
+    "catatan": "Compact SUV Performa — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "GLA Class",
+    "segmen": "Compact SUV",
+    "catatan": "Compact SUV — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "GLB 200",
+    "segmen": "Compact 7-Seater SUV",
+    "catatan": "Compact 7-Seater SUV — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "GLC 250",
+    "segmen": "Mid-Size SUV",
+    "catatan": "Mid-Size SUV — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "GLC 300 Coupe",
+    "segmen": "Mid-Size Coupe SUV",
+    "catatan": "Mid-Size Coupe SUV — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "GLC Class 200 AMG",
+    "segmen": "Mid-Size SUV",
+    "catatan": "Mid-Size SUV — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "GLC 43 AMG",
+    "segmen": "Mid-Size SUV Performa",
+    "catatan": "Mid-Size SUV Performa — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "GLE 400",
+    "segmen": "Mid-Size Luxury SUV",
+    "catatan": "Mid-Size Luxury SUV — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "GLE 450",
+    "segmen": "Mid-Size Luxury SUV",
+    "catatan": "Mid-Size Luxury SUV — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "GLE 53 AMG",
+    "segmen": "Mid-Size Luxury SUV Performa",
+    "catatan": "Mid-Size Luxury SUV Performa — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "GLS 400 4MATIC",
+    "segmen": "Full-Size Luxury SUV",
+    "catatan": "Full-Size Luxury SUV — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "GLS 450",
+    "segmen": "Full-Size Luxury 7-Seater SUV",
+    "catatan": "Full-Size Luxury 7-Seater SUV — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "CLA 200",
+    "segmen": "4-Door Compact Coupe",
+    "catatan": "4-Door Compact Coupe — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "AMG CLA 45",
+    "segmen": "4-Door Compact Coupe Performa",
+    "catatan": "4-Door Compact Coupe Performa — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "CLE 300",
+    "segmen": "Luxury Coupe / Convertible",
+    "catatan": "Luxury Coupe / Convertible — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "AMG CLE 53 Cabriolet",
+    "segmen": "Luxury Convertible",
+    "catatan": "Luxury Convertible — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "CLS 350",
+    "segmen": "4-Door Luxury Coupe",
+    "catatan": "4-Door Luxury Coupe — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "CLS 400",
+    "segmen": "4-Door Luxury Coupe",
+    "catatan": "4-Door Luxury Coupe — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "CLS 53 AMG",
+    "segmen": "4-Door Luxury Coupe Performa",
+    "catatan": "4-Door Luxury Coupe Performa — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "AMG GT 53",
+    "segmen": "Sports Car",
+    "catatan": "Sports Car — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "AMG GT 63",
+    "segmen": "Sports Car",
+    "catatan": "Sports Car — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "AMG GT R",
+    "segmen": "Supercar",
+    "catatan": "Supercar — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "SLK 200",
+    "segmen": "Roadster / Convertible",
+    "catatan": "Roadster / Convertible — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "SLC 200",
+    "segmen": "Roadster / Convertible",
+    "catatan": "Roadster / Convertible — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "AMG SL 43",
+    "segmen": "Roadster / Convertible",
+    "catatan": "Roadster / Convertible — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "EQA 250",
+    "segmen": "Compact SUV Listrik",
+    "catatan": "Compact SUV Listrik — BEV"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "EQB 250",
+    "segmen": "Compact 7-Seater SUV Listrik",
+    "catatan": "Compact 7-Seater SUV Listrik — BEV"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "EQE 350 / EQE Saloon",
+    "segmen": "Sedan Listrik",
+    "catatan": "Sedan Listrik — BEV"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "EQE SUV",
+    "segmen": "Mid-Size SUV Listrik",
+    "catatan": "Mid-Size SUV Listrik — BEV"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "EQS 450+ / EQS Saloon",
+    "segmen": "Luxury Sedan Listrik",
+    "catatan": "Luxury Sedan Listrik — BEV"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "EQS SUV",
+    "segmen": "Luxury SUV Listrik",
+    "catatan": "Luxury SUV Listrik — BEV"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "G 580",
+    "segmen": "Off-Road SUV Listrik",
+    "catatan": "Off-Road SUV Listrik — BEV (G-Class Electric)"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "Mercedes-Maybach EQS SUV",
+    "segmen": "Ultra Luxury SUV Listrik",
+    "catatan": "Ultra Luxury SUV Listrik — BEV"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "V-Class 260 LWB",
+    "segmen": "Luxury MPV / Minivan",
+    "catatan": "Luxury MPV / Minivan — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "V 250",
+    "segmen": "Luxury MPV / Minivan",
+    "catatan": "Luxury MPV / Minivan — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "V 220d",
+    "segmen": "Luxury MPV / Minivan",
+    "catatan": "Luxury MPV / Minivan — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "Vito Tourer",
+    "segmen": "Commercial Van / Minibus",
+    "catatan": "Commercial Van / Minibus — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "Vito Select",
+    "segmen": "Commercial Van / Minibus",
+    "catatan": "Commercial Van / Minibus — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "Sprinter 315 CDI",
+    "segmen": "Large Commercial Van / Microbus",
+    "catatan": "Large Commercial Van / Microbus — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "Sprinter 415 CDI",
+    "segmen": "Large Commercial Van / Microbus",
+    "catatan": "Large Commercial Van / Microbus — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "W123 (Mercy Tiger)",
+    "segmen": "Sedan Klasik",
+    "catatan": "Sedan Klasik — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "W124 (Mercy Boxer)",
+    "segmen": "Sedan Klasik",
+    "catatan": "Sedan Klasik — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "W140",
+    "segmen": "Sedan Klasik",
+    "catatan": "Sedan Klasik — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "W201",
+    "segmen": "Sedan Klasik",
+    "catatan": "Sedan Klasik — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "W202",
+    "segmen": "Sedan Klasik",
+    "catatan": "Sedan Klasik — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "W203",
+    "segmen": "Sedan Klasik",
+    "catatan": "Sedan Klasik — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "W204 AT",
+    "segmen": "Sedan Klasik",
+    "catatan": "Sedan Klasik — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "W205 AT",
+    "segmen": "Sedan Klasik",
+    "catatan": "Sedan Klasik — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "W206 AT",
+    "segmen": "Sedan Klasik",
+    "catatan": "Sedan Klasik — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "W220",
+    "segmen": "Sedan Klasik",
+    "catatan": "Sedan Klasik — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "W221",
+    "segmen": "Sedan Klasik",
+    "catatan": "Sedan Klasik — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "Mercedes-Maybach S 500",
+    "segmen": "Ultra Luxury Sedan",
+    "catatan": "Ultra Luxury Sedan — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "Mercedes-Maybach S 580",
+    "segmen": "Ultra Luxury Sedan",
+    "catatan": "Ultra Luxury Sedan — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "Mercedes-Maybach S 680",
+    "segmen": "Ultra Luxury Sedan",
+    "catatan": "Ultra Luxury Sedan — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "Mercedes-Maybach GLS 600",
+    "segmen": "Ultra Luxury SUV",
+    "catatan": "Ultra Luxury SUV — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "Chassis Bus OH 1526",
+    "segmen": "Sasis Bus Besar",
+    "catatan": "Sasis Bus Besar — Bus Antarkota"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "Chassis Bus OH 1626",
+    "segmen": "Sasis Bus Besar",
+    "catatan": "Sasis Bus Besar — Bus Antarkota"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "Chassis Bus OF 1623",
+    "segmen": "Sasis Bus Besar",
+    "catatan": "Sasis Bus Besar — Mesin Depan"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "Chassis Bus O 500 RS 1836",
+    "segmen": "Sasis Bus Premium",
+    "catatan": "Sasis Bus Premium — Maxi Bus"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "Axor 1623",
+    "segmen": "Medium Duty Truck",
+    "catatan": "Medium Duty Truck — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "Axor 2528",
+    "segmen": "Medium / Heavy Duty Truck",
+    "catatan": "Medium / Heavy Duty Truck — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "Axor 4028",
+    "segmen": "Heavy Duty Truck",
+    "catatan": "Heavy Duty Truck — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "Actros 2640",
+    "segmen": "Heavy Duty Tractor Head",
+    "catatan": "Heavy Duty Tractor Head — -"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "Actros 4043",
+    "segmen": "Heavy Duty Tractor Head",
+    "catatan": "Heavy Duty Tractor Head — Mining Truck"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "Sasis Bus & Truk Niaga (DCSA)",
+    "segmen": "9",
+    "catatan": "9"
+  },
+  {
+    "merek": "MERCEDES",
+    "model": "TOTAL",
+    "segmen": "101 model",
+    "catatan": "101 model"
+  },
+  {
+    "merek": "LEXUS",
+    "model": "ES 250",
+    "segmen": "Sedan Premium",
+    "catatan": "Sedan Premium — -"
+  },
+  {
+    "merek": "LEXUS",
+    "model": "LS 500",
+    "segmen": "Sedan Mewah",
+    "catatan": "Sedan Mewah — Flagship sedan Lexus"
+  },
+  {
+    "merek": "LEXUS",
+    "model": "LM 350",
+    "segmen": "MPV Mewah",
+    "catatan": "MPV Mewah — Luxury MPV"
+  },
+  {
+    "merek": "LEXUS",
+    "model": "LX 570",
+    "segmen": "Full-size SUV Mewah",
+    "catatan": "Full-size SUV Mewah — -"
+  },
+  {
+    "merek": "LEXUS",
+    "model": "NX 250 Luxury",
+    "segmen": "SUV Kompak Premium",
+    "catatan": "SUV Kompak Premium — -"
+  },
+  {
+    "merek": "LEXUS",
+    "model": "RX 350 Luxury",
+    "segmen": "SUV Medium Premium",
+    "catatan": "SUV Medium Premium — -"
+  },
+  {
+    "merek": "LEXUS",
+    "model": "UX 250 Luxury",
+    "segmen": "SUV Kompak Premium",
+    "catatan": "SUV Kompak Premium — -"
+  },
+  {
+    "merek": "LEXUS",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "LEXUS",
+    "model": "TOTAL",
+    "segmen": "7 model",
+    "catatan": "7 model"
+  },
+  {
+    "merek": "JEEP",
+    "model": "Wrangler Rubicon",
+    "segmen": "Off-Road SUV",
+    "catatan": "Off-Road SUV — Varian tertinggi Wrangler"
+  },
+  {
+    "merek": "JEEP",
+    "model": "Wrangler Unlimited Mountain",
+    "segmen": "Off-Road SUV 4-Door",
+    "catatan": "Off-Road SUV 4-Door — -"
+  },
+  {
+    "merek": "JEEP",
+    "model": "Rubicon Sahara",
+    "segmen": "Off-Road SUV",
+    "catatan": "Off-Road SUV — -"
+  },
+  {
+    "merek": "JEEP",
+    "model": "Willys Edition",
+    "segmen": "Off-Road SUV",
+    "catatan": "Off-Road SUV — Varian edisi khusus"
+  },
+  {
+    "merek": "JEEP",
+    "model": "Golden Eagle Edition",
+    "segmen": "Off-Road SUV",
+    "catatan": "Off-Road SUV — Varian edisi khusus"
+  },
+  {
+    "merek": "JEEP",
+    "model": "Wrangler JL (Sahara / Sport / Unlimited Rubicon 4xe)",
+    "segmen": "Off-Road SUV",
+    "catatan": "Off-Road SUV — 2-Door / 4-Door, Bensin & Plug-in Hybrid"
+  },
+  {
+    "merek": "JEEP",
+    "model": "Wrangler JK (Sport / Sahara / Call of Duty / Rubicon 392)",
+    "segmen": "Off-Road SUV Heavy Duty",
+    "catatan": "Off-Road SUV Heavy Duty — Performance V8"
+  },
+  {
+    "merek": "JEEP",
+    "model": "Wrangler TJ / YJ",
+    "segmen": "Off-Road SUV Klasik",
+    "catatan": "Off-Road SUV Klasik — 2-Pintu"
+  },
+  {
+    "merek": "JEEP",
+    "model": "CJ-7 / CJ-5",
+    "segmen": "Off-Road SUV Klasik",
+    "catatan": "Off-Road SUV Klasik — Legendary"
+  },
+  {
+    "merek": "JEEP",
+    "model": "Grand Cherokee Laredo",
+    "segmen": "SUV Premium",
+    "catatan": "SUV Premium — -"
+  },
+  {
+    "merek": "JEEP",
+    "model": "Grand Cherokee Limited",
+    "segmen": "SUV Premium",
+    "catatan": "SUV Premium — -"
+  },
+  {
+    "merek": "JEEP",
+    "model": "Grand Cherokee Overland",
+    "segmen": "SUV Premium",
+    "catatan": "SUV Premium — -"
+  },
+  {
+    "merek": "JEEP",
+    "model": "Grand Cherokee Sport",
+    "segmen": "SUV Premium",
+    "catatan": "SUV Premium — -"
+  },
+  {
+    "merek": "JEEP",
+    "model": "Grand Cherokee WK2",
+    "segmen": "SUV Premium",
+    "catatan": "SUV Premium — Generasi WK2"
+  },
+  {
+    "merek": "JEEP",
+    "model": "Grand Cherokee SRT-8 / Trackhawk",
+    "segmen": "High-Performance Luxury SUV",
+    "catatan": "High-Performance Luxury SUV — Mesin Hemi V8 / Supercharged"
+  },
+  {
+    "merek": "JEEP",
+    "model": "Grand Cherokee L (WL)",
+    "segmen": "3-Row Premium Luxury SUV",
+    "catatan": "3-Row Premium Luxury SUV — -"
+  },
+  {
+    "merek": "JEEP",
+    "model": "Commander",
+    "segmen": "3-Row Mid-Size / Full-Size SUV",
+    "catatan": "3-Row Mid-Size / Full-Size SUV — -"
+  },
+  {
+    "merek": "JEEP",
+    "model": "Compass (Longitude / Limited)",
+    "segmen": "Compact Crossover SUV",
+    "catatan": "Compact Crossover SUV — -"
+  },
+  {
+    "merek": "JEEP",
+    "model": "Renegade (Longitude / Limited)",
+    "segmen": "Subcompact Crossover SUV",
+    "catatan": "Subcompact Crossover SUV — -"
+  },
+  {
+    "merek": "JEEP",
+    "model": "Liberty Renegade",
+    "segmen": "Compact / Mid-Size SUV",
+    "catatan": "Compact / Mid-Size SUV — -"
+  },
+  {
+    "merek": "JEEP",
+    "model": "Liberty Sport",
+    "segmen": "Compact / Mid-Size SUV",
+    "catatan": "Compact / Mid-Size SUV — -"
+  },
+  {
+    "merek": "JEEP",
+    "model": "Cherokee (XJ / KL / Sport / Limited)",
+    "segmen": "Mid-Size SUV",
+    "catatan": "Mid-Size SUV — -"
+  },
+  {
+    "merek": "JEEP",
+    "model": "Wagoneer / Grand Wagoneer",
+    "segmen": "Full-Size Luxury SUV",
+    "catatan": "Full-Size Luxury SUV — -"
+  },
+  {
+    "merek": "JEEP",
+    "model": "Gladiator (Rubicon / Overland)",
+    "segmen": "Double Cabin Pickup Truck",
+    "catatan": "Double Cabin Pickup Truck — 4x4"
+  },
+  {
+    "merek": "JEEP",
+    "model": "Scrambler (CJ-8)",
+    "segmen": "Pick-up Off-Road Klasik",
+    "catatan": "Pick-up Off-Road Klasik — -"
+  },
+  {
+    "merek": "JEEP",
+    "model": "Comanche (MJ)",
+    "segmen": "Pick-up Truck",
+    "catatan": "Pick-up Truck — -"
+  },
+  {
+    "merek": "JEEP",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "JEEP",
+    "model": "TOTAL",
+    "segmen": "28 model",
+    "catatan": "28 model"
+  },
+  {
+    "merek": "MG",
+    "model": "MG 4 EV (Magnify / Max)",
+    "segmen": "Electric Hatchback / Crossover",
+    "catatan": "Electric Hatchback / Crossover — -"
+  },
+  {
+    "merek": "MG",
+    "model": "MG ZS EV",
+    "segmen": "Compact Crossover / SUV Listrik",
+    "catatan": "Compact Crossover / SUV Listrik — -"
+  },
+  {
+    "merek": "MG",
+    "model": "MG S5 EV",
+    "segmen": "Compact SUV Listrik",
+    "catatan": "Compact SUV Listrik — -"
+  },
+  {
+    "merek": "MG",
+    "model": "MG Cyberster",
+    "segmen": "Roadster / Convertible Sports Car Listrik",
+    "catatan": "Roadster / Convertible Sports Car Listrik — -"
+  },
+  {
+    "merek": "MG",
+    "model": "MG Maxus 9 / MG Maxus EV",
+    "segmen": "Luxury MPV Listrik",
+    "catatan": "Luxury MPV Listrik — -"
+  },
+  {
+    "merek": "MG",
+    "model": "MG VS HEV",
+    "segmen": "Compact SUV Hybrid",
+    "catatan": "Compact SUV Hybrid — -"
+  },
+  {
+    "merek": "MG",
+    "model": "MG ZS Hybrid+",
+    "segmen": "Compact SUV Hybrid",
+    "catatan": "Compact SUV Hybrid — -"
+  },
+  {
+    "merek": "MG",
+    "model": "MG HS PHEV",
+    "segmen": "Medium SUV Plug-in Hybrid",
+    "catatan": "Medium SUV Plug-in Hybrid — -"
+  },
+  {
+    "merek": "MG",
+    "model": "MG 3 Hybrid+",
+    "segmen": "Subcompact Hatchback Hybrid",
+    "catatan": "Subcompact Hatchback Hybrid — -"
+  },
+  {
+    "merek": "MG",
+    "model": "MG ZS (Activate / Ignite / Magnify)",
+    "segmen": "Compact Crossover SUV",
+    "catatan": "Compact Crossover SUV — -"
+  },
+  {
+    "merek": "MG",
+    "model": "MG ZS Excite",
+    "segmen": "Compact Crossover SUV",
+    "catatan": "Compact Crossover SUV — -"
+  },
+  {
+    "merek": "MG",
+    "model": "MG HS (Activate / Ignite / Magnify i-Smart)",
+    "segmen": "Medium SUV",
+    "catatan": "Medium SUV — -"
+  },
+  {
+    "merek": "MG",
+    "model": "MG HS Turbo",
+    "segmen": "Medium SUV",
+    "catatan": "Medium SUV — Mesin turbo"
+  },
+  {
+    "merek": "MG",
+    "model": "MG 5",
+    "segmen": "Sedan",
+    "catatan": "Sedan — -"
+  },
+  {
+    "merek": "MG",
+    "model": "MG 5 GT (Activate / Ignite / Magnify)",
+    "segmen": "4-Door Coupe Sedan",
+    "catatan": "4-Door Coupe Sedan — -"
+  },
+  {
+    "merek": "MG",
+    "model": "MG G90",
+    "segmen": "Premium 7-Seater MPV / Minivan",
+    "catatan": "Premium 7-Seater MPV / Minivan — -"
+  },
+  {
+    "merek": "MG",
+    "model": "MG Extender Double Cab / Grand X",
+    "segmen": "Double Cabin Pick-up Truck",
+    "catatan": "Double Cabin Pick-up Truck — 4x2 / 4x4"
+  },
+  {
+    "merek": "MG",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "MG",
+    "model": "TOTAL",
+    "segmen": "17 model",
+    "catatan": "17 model"
+  },
+  {
+    "merek": "OPEL",
+    "model": "Blazer DOHC / LT",
+    "segmen": "Mid-Size SUV",
+    "catatan": "Mid-Size SUV — Mesin 2.2L DOHC"
+  },
+  {
+    "merek": "OPEL",
+    "model": "Blazer SLi / SOHC",
+    "segmen": "Mid-Size SUV",
+    "catatan": "Mid-Size SUV — Mesin 2.2L SOHC"
+  },
+  {
+    "merek": "OPEL",
+    "model": "Blazer Montera (LS / LV / Sport)",
+    "segmen": "Mid-Size SUV 7-Seater",
+    "catatan": "Mid-Size SUV 7-Seater — Entry Level"
+  },
+  {
+    "merek": "OPEL",
+    "model": "Optima (GLS / CDX / Sport)",
+    "segmen": "Compact Executive Sedan",
+    "catatan": "Compact Executive Sedan — Berbasis Opel Astra F"
+  },
+  {
+    "merek": "OPEL",
+    "model": "Vectra",
+    "segmen": "Mid-Size Executive Sedan",
+    "catatan": "Mid-Size Executive Sedan — -"
+  },
+  {
+    "merek": "OPEL",
+    "model": "Astra",
+    "segmen": "Compact Hatchback / Sedan",
+    "catatan": "Compact Hatchback / Sedan — -"
+  },
+  {
+    "merek": "OPEL",
+    "model": "Kadett (Kadett C / D / E)",
+    "segmen": "Compact Sedan / Hatchback Klasik",
+    "catatan": "Compact Sedan / Hatchback Klasik — -"
+  },
+  {
+    "merek": "OPEL",
+    "model": "Ascona",
+    "segmen": "Mid-Size Sedan Klasik",
+    "catatan": "Mid-Size Sedan Klasik — -"
+  },
+  {
+    "merek": "OPEL",
+    "model": "Rekord",
+    "segmen": "Executive Sedan Klasik",
+    "catatan": "Executive Sedan Klasik — -"
+  },
+  {
+    "merek": "OPEL",
+    "model": "Kapitan",
+    "segmen": "Full-Size Luxury Sedan Klasik",
+    "catatan": "Full-Size Luxury Sedan Klasik — -"
+  },
+  {
+    "merek": "OPEL",
+    "model": "Commodore",
+    "segmen": "Executive Sedan / Coupé Klasik",
+    "catatan": "Executive Sedan / Coupé Klasik — -"
+  },
+  {
+    "merek": "OPEL",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "OPEL",
+    "model": "TOTAL",
+    "segmen": "11 model",
+    "catatan": "11 model"
+  },
+  {
+    "merek": "PEUGEOT",
+    "model": "3008 (Allure / GT Line)",
+    "segmen": "Medium Crossover SUV",
+    "catatan": "Medium Crossover SUV — -"
+  },
+  {
+    "merek": "PEUGEOT",
+    "model": "5008 (Allure / GT Line)",
+    "segmen": "7-Seater Medium Crossover SUV",
+    "catatan": "7-Seater Medium Crossover SUV — -"
+  },
+  {
+    "merek": "PEUGEOT",
+    "model": "206",
+    "segmen": "Compact Hatchback",
+    "catatan": "Compact Hatchback — -"
+  },
+  {
+    "merek": "PEUGEOT",
+    "model": "207",
+    "segmen": "Compact Hatchback / Sedan",
+    "catatan": "Compact Hatchback / Sedan — -"
+  },
+  {
+    "merek": "PEUGEOT",
+    "model": "208",
+    "segmen": "Compact Hatchback",
+    "catatan": "Compact Hatchback — -"
+  },
+  {
+    "merek": "PEUGEOT",
+    "model": "306",
+    "segmen": "Compact Sedan / Hatchback",
+    "catatan": "Compact Sedan / Hatchback — -"
+  },
+  {
+    "merek": "PEUGEOT",
+    "model": "307 (Hatchback / SW)",
+    "segmen": "Compact Hatchback / Station Wagon",
+    "catatan": "Compact Hatchback / Station Wagon — -"
+  },
+  {
+    "merek": "PEUGEOT",
+    "model": "308",
+    "segmen": "Compact Hatchback",
+    "catatan": "Compact Hatchback — -"
+  },
+  {
+    "merek": "PEUGEOT",
+    "model": "406",
+    "segmen": "Mid-Size Executive Sedan",
+    "catatan": "Mid-Size Executive Sedan — -"
+  },
+  {
+    "merek": "PEUGEOT",
+    "model": "407",
+    "segmen": "Mid-Size Executive Sedan",
+    "catatan": "Mid-Size Executive Sedan — -"
+  },
+  {
+    "merek": "PEUGEOT",
+    "model": "408",
+    "segmen": "Mid-Size Sedan",
+    "catatan": "Mid-Size Sedan — -"
+  },
+  {
+    "merek": "PEUGEOT",
+    "model": "806",
+    "segmen": "Large MPV / Minivan",
+    "catatan": "Large MPV / Minivan — -"
+  },
+  {
+    "merek": "PEUGEOT",
+    "model": "807",
+    "segmen": "Large MPV / Minivan",
+    "catatan": "Large MPV / Minivan — -"
+  },
+  {
+    "merek": "PEUGEOT",
+    "model": "RCZ",
+    "segmen": "Sports Coupe / Sports Car",
+    "catatan": "Sports Coupe / Sports Car — 2-Door"
+  },
+  {
+    "merek": "PEUGEOT",
+    "model": "504",
+    "segmen": "Executive Sedan Klasik / Station Wagon",
+    "catatan": "Executive Sedan Klasik / Station Wagon — -"
+  },
+  {
+    "merek": "PEUGEOT",
+    "model": "505 (GR / GTI)",
+    "segmen": "Executive Sedan Klasik",
+    "catatan": "Executive Sedan Klasik — -"
+  },
+  {
+    "merek": "PEUGEOT",
+    "model": "405 (SRi / STi)",
+    "segmen": "Mid-Size Executive Sedan",
+    "catatan": "Mid-Size Executive Sedan — -"
+  },
+  {
+    "merek": "PEUGEOT",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "PEUGEOT",
+    "model": "TOTAL",
+    "segmen": "19 model",
+    "catatan": "19 model"
+  },
+  {
+    "merek": "PROTON",
+    "model": "Exora",
+    "segmen": "MPV",
+    "catatan": "MPV — -"
+  },
+  {
+    "merek": "PROTON",
+    "model": "Persona",
+    "segmen": "Sedan",
+    "catatan": "Sedan — -"
+  },
+  {
+    "merek": "PROTON",
+    "model": "Prevé",
+    "segmen": "Compact Sedan Turbo",
+    "catatan": "Compact Sedan Turbo — -"
+  },
+  {
+    "merek": "PROTON",
+    "model": "Saga",
+    "segmen": "Sedan",
+    "catatan": "Sedan — -"
+  },
+  {
+    "merek": "PROTON",
+    "model": "Waja",
+    "segmen": "Executive Mid-Size Sedan",
+    "catatan": "Executive Mid-Size Sedan — -"
+  },
+  {
+    "merek": "PROTON",
+    "model": "Wira",
+    "segmen": "Compact Sedan Klasik",
+    "catatan": "Compact Sedan Klasik — Dipergunakan juga untuk Armada Taksi"
+  },
+  {
+    "merek": "PROTON",
+    "model": "Perdana",
+    "segmen": "Mid-Size Executive Sedan Klasik",
+    "catatan": "Mid-Size Executive Sedan Klasik — -"
+  },
+  {
+    "merek": "PROTON",
+    "model": "Savvy",
+    "segmen": "City Car / Subcompact Hatchback",
+    "catatan": "City Car / Subcompact Hatchback — -"
+  },
+  {
+    "merek": "PROTON",
+    "model": "Iriz",
+    "segmen": "Subcompact Hatchback",
+    "catatan": "Subcompact Hatchback — -"
+  },
+  {
+    "merek": "PROTON",
+    "model": "Gen-2",
+    "segmen": "Compact Hatchback",
+    "catatan": "Compact Hatchback — -"
+  },
+  {
+    "merek": "PROTON",
+    "model": "Satria Neo",
+    "segmen": "Sporty 3-Door Hatchback",
+    "catatan": "Sporty 3-Door Hatchback — -"
+  },
+  {
+    "merek": "PROTON",
+    "model": "Suprima S",
+    "segmen": "Compact Hatchback Turbo",
+    "catatan": "Compact Hatchback Turbo — -"
+  },
+  {
+    "merek": "PROTON",
+    "model": "Arena (Jumbuck)",
+    "segmen": "Mini Pickup Truck / Coupé Utility",
+    "catatan": "Mini Pickup Truck / Coupé Utility — 2-Door"
+  },
+  {
+    "merek": "PROTON",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "PROTON",
+    "model": "TOTAL",
+    "segmen": "13 model",
+    "catatan": "13 model"
+  },
+  {
+    "merek": "RENAULT",
+    "model": "Megane E-Tech",
+    "segmen": "Compact Crossover SUV Listrik",
+    "catatan": "Compact Crossover SUV Listrik — BEV"
+  },
+  {
+    "merek": "RENAULT",
+    "model": "Twizy",
+    "segmen": "Micro EV / Urban Quadricycle Listrik",
+    "catatan": "Micro EV / Urban Quadricycle Listrik — 2-Seater"
+  },
+  {
+    "merek": "RENAULT",
+    "model": "Zoe",
+    "segmen": "Subcompact Hatchback Listrik",
+    "catatan": "Subcompact Hatchback Listrik — BEV"
+  },
+  {
+    "merek": "RENAULT",
+    "model": "Duster 4x4 / 4x2 dCi",
+    "segmen": "Subcompact SUV",
+    "catatan": "Subcompact SUV — Off-Road Diesel"
+  },
+  {
+    "merek": "RENAULT",
+    "model": "Kiger RXL",
+    "segmen": "Compact Crossover SUV",
+    "catatan": "Compact Crossover SUV — -"
+  },
+  {
+    "merek": "RENAULT",
+    "model": "Kiger RXZ / Kiger Turbo",
+    "segmen": "Compact Crossover SUV",
+    "catatan": "Compact Crossover SUV — Varian Tertinggi"
+  },
+  {
+    "merek": "RENAULT",
+    "model": "Koleos Luxury",
+    "segmen": "Medium SUV",
+    "catatan": "Medium SUV — -"
+  },
+  {
+    "merek": "RENAULT",
+    "model": "Koleos Signature",
+    "segmen": "Medium SUV",
+    "catatan": "Medium SUV — -"
+  },
+  {
+    "merek": "RENAULT",
+    "model": "Koleos BOSE Edition / CVT",
+    "segmen": "Medium SUV",
+    "catatan": "Medium SUV — -"
+  },
+  {
+    "merek": "RENAULT",
+    "model": "Triber (RXL / RXT / RXZ / AMT)",
+    "segmen": "Subcompact 7-Seater MPV",
+    "catatan": "Subcompact 7-Seater MPV — -"
+  },
+  {
+    "merek": "RENAULT",
+    "model": "Triber RXE",
+    "segmen": "Subcompact 7-Seater MPV",
+    "catatan": "Subcompact 7-Seater MPV — -"
+  },
+  {
+    "merek": "RENAULT",
+    "model": "Scenic",
+    "segmen": "Compact MPV Klasik / Modern",
+    "catatan": "Compact MPV Klasik / Modern — -"
+  },
+  {
+    "merek": "RENAULT",
+    "model": "Megane RS (Renault Sport)",
+    "segmen": "High-Performance Hot Hatch",
+    "catatan": "High-Performance Hot Hatch — -"
+  },
+  {
+    "merek": "RENAULT",
+    "model": "Megane (Sedan / Hatchback)",
+    "segmen": "Compact Family Car",
+    "catatan": "Compact Family Car — -"
+  },
+  {
+    "merek": "RENAULT",
+    "model": "Clio / Clio RS",
+    "segmen": "Subcompact Hatchback / Hot Hatch",
+    "catatan": "Subcompact Hatchback / Hot Hatch — -"
+  },
+  {
+    "merek": "RENAULT",
+    "model": "Kwid (Standard / RXT)",
+    "segmen": "Compact City Car / Subcompact Hatchback",
+    "catatan": "Compact City Car / Subcompact Hatchback — -"
+  },
+  {
+    "merek": "RENAULT",
+    "model": "Kwid Climber",
+    "segmen": "Compact City Car / Subcompact Hatchback",
+    "catatan": "Compact City Car / Subcompact Hatchback — -"
+  },
+  {
+    "merek": "RENAULT",
+    "model": "Kwid Icon",
+    "segmen": "Compact City Car / Subcompact Hatchback",
+    "catatan": "Compact City Car / Subcompact Hatchback — -"
+  },
+  {
+    "merek": "RENAULT",
+    "model": "Renault 5",
+    "segmen": "Supermini / Hatchback Klasik",
+    "catatan": "Supermini / Hatchback Klasik — -"
+  },
+  {
+    "merek": "RENAULT",
+    "model": "Renault 12",
+    "segmen": "Mid-Size Family Sedan Klasik",
+    "catatan": "Mid-Size Family Sedan Klasik — -"
+  },
+  {
+    "merek": "RENAULT",
+    "model": "Renault 18",
+    "segmen": "Executive Sedan Klasik",
+    "catatan": "Executive Sedan Klasik — -"
+  },
+  {
+    "merek": "RENAULT",
+    "model": "Renault 21",
+    "segmen": "Mid-Size Executive Sedan Klasik",
+    "catatan": "Mid-Size Executive Sedan Klasik — -"
+  },
+  {
+    "merek": "RENAULT",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "RENAULT",
+    "model": "TOTAL",
+    "segmen": "24 model",
+    "catatan": "24 model"
+  },
+  {
+    "merek": "SUBARU",
+    "model": "BRZ",
+    "segmen": "Sports Coupe",
+    "catatan": "Sports Coupe — -"
+  },
+  {
+    "merek": "SUBARU",
+    "model": "BRZ tS / STI Performance",
+    "segmen": "Sports Coupe",
+    "catatan": "Sports Coupe — Performance Edition"
+  },
+  {
+    "merek": "SUBARU",
+    "model": "Impreza",
+    "segmen": "Sedan / Hatchback",
+    "catatan": "Sedan / Hatchback — -"
+  },
+  {
+    "merek": "SUBARU",
+    "model": "Impreza WRX (Sedan / Hatchback)",
+    "segmen": "Performance Sports Car / Hatchback",
+    "catatan": "Performance Sports Car / Hatchback — -"
+  },
+  {
+    "merek": "SUBARU",
+    "model": "WRX",
+    "segmen": "Sports Sedan",
+    "catatan": "Sports Sedan — -"
+  },
+  {
+    "merek": "SUBARU",
+    "model": "WRX STI (Sedan / Hatchback)",
+    "segmen": "High-Performance Sports Sedan / Hot Hatch",
+    "catatan": "High-Performance Sports Sedan / Hot Hatch — -"
+  },
+  {
+    "merek": "SUBARU",
+    "model": "Legacy (2.0i / 2.5i / 2.5GT / 3.6R)",
+    "segmen": "Mid-Size Executive Sedan / Station Wagon",
+    "catatan": "Mid-Size Executive Sedan / Station Wagon — -"
+  },
+  {
+    "merek": "SUBARU",
+    "model": "Crosstrek",
+    "segmen": "Compact Crossover SUV",
+    "catatan": "Compact Crossover SUV — -"
+  },
+  {
+    "merek": "SUBARU",
+    "model": "Crosstrek 2.0i-S EyeSight",
+    "segmen": "Compact Crossover SUV",
+    "catatan": "Compact Crossover SUV — -"
+  },
+  {
+    "merek": "SUBARU",
+    "model": "Forester",
+    "segmen": "Compact / Medium SUV",
+    "catatan": "Compact / Medium SUV — -"
+  },
+  {
+    "merek": "SUBARU",
+    "model": "Forester 2.0i-L / 2.5S EyeSight / 2.0 XT Turbo",
+    "segmen": "Compact / Medium SUV",
+    "catatan": "Compact / Medium SUV — -"
+  },
+  {
+    "merek": "SUBARU",
+    "model": "Outback (2.5i / 3.6R / EyeSight)",
+    "segmen": "Mid-Size Crossover Station Wagon / Crossover SUV",
+    "catatan": "Mid-Size Crossover Station Wagon / Crossover SUV — -"
+  },
+  {
+    "merek": "SUBARU",
+    "model": "XV (2.0i-L / 2.0i-S)",
+    "segmen": "Compact Crossover SUV",
+    "catatan": "Compact Crossover SUV — Pendahulu Crosstrek di Indonesia"
+  },
+  {
+    "merek": "SUBARU",
+    "model": "Solterra",
+    "segmen": "All-Electric SUV / Crossover Listrik",
+    "catatan": "All-Electric SUV / Crossover Listrik — BEV"
+  },
+  {
+    "merek": "SUBARU",
+    "model": "Exiga (2.0i / 2.0 GT Turbo)",
+    "segmen": "7-Seater Crossover MPV / Station Wagon",
+    "catatan": "7-Seater Crossover MPV / Station Wagon — -"
+  },
+  {
+    "merek": "SUBARU",
+    "model": "Levorg",
+    "segmen": "Sports Station Wagon",
+    "catatan": "Sports Station Wagon — Pendahulu WRX Wagon"
+  },
+  {
+    "merek": "SUBARU",
+    "model": "WRX Wagon",
+    "segmen": "Sports Station Wagon",
+    "catatan": "Sports Station Wagon — -"
+  },
+  {
+    "merek": "SUBARU",
+    "model": "Tribeca (B9 Tribeca)",
+    "segmen": "Mid-Size / Full-Size 7-Seater SUV",
+    "catatan": "Mid-Size / Full-Size 7-Seater SUV — -"
+  },
+  {
+    "merek": "SUBARU",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "SUBARU",
+    "model": "TOTAL",
+    "segmen": "18 model",
+    "catatan": "18 model"
+  },
+  {
+    "merek": "VOLVO",
+    "model": "EX30 (Plus / Ultra)",
+    "segmen": "Compact SUV Listrik",
+    "catatan": "Compact SUV Listrik — BEV"
+  },
+  {
+    "merek": "VOLVO",
+    "model": "EX40 (dahulu XC40 Recharge)",
+    "segmen": "Compact SUV Listrik",
+    "catatan": "Compact SUV Listrik — BEV"
+  },
+  {
+    "merek": "VOLVO",
+    "model": "EC40 (dahulu C40 Recharge)",
+    "segmen": "Crossover Coupe Listrik",
+    "catatan": "Crossover Coupe Listrik — BEV"
+  },
+  {
+    "merek": "VOLVO",
+    "model": "EX90",
+    "segmen": "Flagship 7-Seater Luxury SUV Listrik",
+    "catatan": "Flagship 7-Seater Luxury SUV Listrik — BEV"
+  },
+  {
+    "merek": "VOLVO",
+    "model": "XC40 (B4 / B5 / PHEV)",
+    "segmen": "Compact Luxury SUV",
+    "catatan": "Compact Luxury SUV — Plug-in Hybrid"
+  },
+  {
+    "merek": "VOLVO",
+    "model": "XC60 (B5 MHEV / T8 Recharge PHEV)",
+    "segmen": "Mid-Size Luxury SUV",
+    "catatan": "Mid-Size Luxury SUV — Mild Hybrid & Plug-in Hybrid"
+  },
+  {
+    "merek": "VOLVO",
+    "model": "XC90 (B6 MHEV / T8 Recharge PHEV)",
+    "segmen": "7-Seater Flagship Luxury SUV",
+    "catatan": "7-Seater Flagship Luxury SUV — Mild Hybrid & Plug-in Hybrid"
+  },
+  {
+    "merek": "VOLVO",
+    "model": "ES90",
+    "segmen": "Flagship Executive Sedan Listrik",
+    "catatan": "Flagship Executive Sedan Listrik — BEV"
+  },
+  {
+    "merek": "VOLVO",
+    "model": "S60 (T4 / T5 / 2.0)",
+    "segmen": "Compact Executive Sedan",
+    "catatan": "Compact Executive Sedan — -"
+  },
+  {
+    "merek": "VOLVO",
+    "model": "S80 (2.0T / 2.3 T5 / 2.4 / 3.2 V6)",
+    "segmen": "Executive Mid-Size Luxury Sedan",
+    "catatan": "Executive Mid-Size Luxury Sedan — -"
+  },
+  {
+    "merek": "VOLVO",
+    "model": "S90 (T8 Recharge / D4 / B5)",
+    "segmen": "Full-Size Executive Luxury Sedan",
+    "catatan": "Full-Size Executive Luxury Sedan — -"
+  },
+  {
+    "merek": "VOLVO",
+    "model": "S40",
+    "segmen": "Compact Executive Sedan",
+    "catatan": "Compact Executive Sedan — -"
+  },
+  {
+    "merek": "VOLVO",
+    "model": "V40 / V40 Cross Country",
+    "segmen": "Compact Hatchback / Crossover Hatchback",
+    "catatan": "Compact Hatchback / Crossover Hatchback — -"
+  },
+  {
+    "merek": "VOLVO",
+    "model": "S70",
+    "segmen": "Mid-Size Executive Sedan",
+    "catatan": "Mid-Size Executive Sedan — -"
+  },
+  {
+    "merek": "VOLVO",
+    "model": "V70 / V70XC (XC70)",
+    "segmen": "Executive Station Wagon / Cross Country Wagon",
+    "catatan": "Executive Station Wagon / Cross Country Wagon — -"
+  },
+  {
+    "merek": "VOLVO",
+    "model": "850 (GLT / Turbo / T-5R)",
+    "segmen": "Executive Sedan & Station Wagon Legendaris",
+    "catatan": "Executive Sedan & Station Wagon Legendaris — -"
+  },
+  {
+    "merek": "VOLVO",
+    "model": "960 (2.3 / 2.8 / Royal)",
+    "segmen": "Executive Luxury Sedan & Wagon",
+    "catatan": "Executive Luxury Sedan & Wagon — Mobil Dinas Pejabat 90-an"
+  },
+  {
+    "merek": "VOLVO",
+    "model": "C30 / C70",
+    "segmen": "Compact Hatchback / Sports Coupe & Convertible",
+    "catatan": "Compact Hatchback / Sports Coupe & Convertible — -"
+  },
+  {
+    "merek": "VOLVO",
+    "model": "240 (240 GL / DL)",
+    "segmen": "Mid-Size Executive Sedan / Station Wagon Klasik",
+    "catatan": "Mid-Size Executive Sedan / Station Wagon Klasik — -"
+  },
+  {
+    "merek": "VOLVO",
+    "model": "740 (GLE / Intercooler Turbo)",
+    "segmen": "Executive Sedan & Station Wagon Klasik",
+    "catatan": "Executive Sedan & Station Wagon Klasik — -"
+  },
+  {
+    "merek": "VOLVO",
+    "model": "760 (GLE / Turbo)",
+    "segmen": "Full-Size Luxury Sedan Klasik",
+    "catatan": "Full-Size Luxury Sedan Klasik — -"
+  },
+  {
+    "merek": "VOLVO",
+    "model": "940 (GL / Executive)",
+    "segmen": "Executive Sedan & Station Wagon Klasik",
+    "catatan": "Executive Sedan & Station Wagon Klasik — -"
+  },
+  {
+    "merek": "VOLVO",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "VOLVO",
+    "model": "TOTAL",
+    "segmen": "22 model",
+    "catatan": "22 model"
+  },
+  {
+    "merek": "VW",
+    "model": "ID. Buzz",
+    "segmen": "Electric MPV / Minibus Listrik",
+    "catatan": "Electric MPV / Minibus Listrik — Modern Reincarnation dari VW Combi"
+  },
+  {
+    "merek": "VW",
+    "model": "T-Cross Dynamic Line",
+    "segmen": "Compact Crossover SUV",
+    "catatan": "Compact Crossover SUV — -"
+  },
+  {
+    "merek": "VW",
+    "model": "T-Cross Highline",
+    "segmen": "Compact Crossover SUV",
+    "catatan": "Compact Crossover SUV — -"
+  },
+  {
+    "merek": "VW",
+    "model": "Tiguan 1.4 TSI (5-Seater Mk1 / Mk2)",
+    "segmen": "Compact / Medium SUV",
+    "catatan": "Compact / Medium SUV — -"
+  },
+  {
+    "merek": "VW",
+    "model": "Tiguan VRS",
+    "segmen": "Compact / Medium SUV",
+    "catatan": "Compact / Medium SUV — -"
+  },
+  {
+    "merek": "VW",
+    "model": "Tiguan Allspace (TSI / Sport Edition)",
+    "segmen": "7-Seater Medium SUV",
+    "catatan": "7-Seater Medium SUV — -"
+  },
+  {
+    "merek": "VW",
+    "model": "Touareg (3.0 TSI / 3.6 V6 / 4.2 V8)",
+    "segmen": "Flagship Mid-Size Luxury SUV",
+    "catatan": "Flagship Mid-Size Luxury SUV — -"
+  },
+  {
+    "merek": "VW",
+    "model": "Beetle / Kodok",
+    "segmen": "Classic Hatchback",
+    "catatan": "Classic Hatchback — Mobil ikonik VW"
+  },
+  {
+    "merek": "VW",
+    "model": "Caravelle",
+    "segmen": "Commercial Van / Minibus",
+    "catatan": "Commercial Van / Minibus — -"
+  },
+  {
+    "merek": "VW",
+    "model": "Combi",
+    "segmen": "Commercial Van / Minibus",
+    "catatan": "Commercial Van / Minibus — -"
+  },
+  {
+    "merek": "VW",
+    "model": "Crafter TDI",
+    "segmen": "Large Commercial Van",
+    "catatan": "Large Commercial Van — -"
+  },
+  {
+    "merek": "VW",
+    "model": "Touran (1.4 TSI)",
+    "segmen": "Compact 7-Seater MPV",
+    "catatan": "Compact 7-Seater MPV — -"
+  },
+  {
+    "merek": "VW",
+    "model": "Transporter (T4 / T5 / T6)",
+    "segmen": "Commercial Van / Minibus",
+    "catatan": "Commercial Van / Minibus — -"
+  },
+  {
+    "merek": "VW",
+    "model": "Multivan",
+    "segmen": "Luxury Passenger Van",
+    "catatan": "Luxury Passenger Van — -"
+  },
+  {
+    "merek": "VW",
+    "model": "Golf Mk3 / Mk4 / Mk5 / Mk6 (1.2 TSI / 1.4 TSI / 2.0)",
+    "segmen": "Compact Hatchback",
+    "catatan": "Compact Hatchback — -"
+  },
+  {
+    "merek": "VW",
+    "model": "Golf Mk7",
+    "segmen": "Compact Hatchback",
+    "catatan": "Compact Hatchback — -"
+  },
+  {
+    "merek": "VW",
+    "model": "Golf TSI",
+    "segmen": "Compact Hatchback",
+    "catatan": "Compact Hatchback — -"
+  },
+  {
+    "merek": "VW",
+    "model": "Golf GTI (Mk5 / Mk6 / Mk7 / Mk8)",
+    "segmen": "High-Performance Hot Hatch",
+    "catatan": "High-Performance Hot Hatch — -"
+  },
+  {
+    "merek": "VW",
+    "model": "Polo 1.2 TSI / Polo Classic / Polo Vivo",
+    "segmen": "Subcompact Hatchback & Sedan",
+    "catatan": "Subcompact Hatchback & Sedan — -"
+  },
+  {
+    "merek": "VW",
+    "model": "Polo R Line",
+    "segmen": "Subcompact Hatchback",
+    "catatan": "Subcompact Hatchback — -"
+  },
+  {
+    "merek": "VW",
+    "model": "Polo TSI",
+    "segmen": "Subcompact Hatchback",
+    "catatan": "Subcompact Hatchback — -"
+  },
+  {
+    "merek": "VW",
+    "model": "Scirocco",
+    "segmen": "Sports Coupe",
+    "catatan": "Sports Coupe — -"
+  },
+  {
+    "merek": "VW",
+    "model": "Scirocco R",
+    "segmen": "High-Performance Sports Coupe",
+    "catatan": "High-Performance Sports Coupe — -"
+  },
+  {
+    "merek": "VW",
+    "model": "Passat (B5 / B6 / B7 / B8)",
+    "segmen": "Executive Mid-Size Sedan",
+    "catatan": "Executive Mid-Size Sedan — -"
+  },
+  {
+    "merek": "VW",
+    "model": "Jetta (1.4 TSI)",
+    "segmen": "Compact Sedan",
+    "catatan": "Compact Sedan — -"
+  },
+  {
+    "merek": "VW",
+    "model": "Vento",
+    "segmen": "Subcompact Sedan / Small Family Sedan",
+    "catatan": "Subcompact Sedan / Small Family Sedan — -"
+  },
+  {
+    "merek": "VW",
+    "model": "New Beetle 2.0 / Cabriolet",
+    "segmen": "Modern Retro Hatchback & Convertible",
+    "catatan": "Modern Retro Hatchback & Convertible — -"
+  },
+  {
+    "merek": "VW",
+    "model": "Safari / Type 181 (VW Camat)",
+    "segmen": "Classic Military / Off-Road Utility Vehicle",
+    "catatan": "Classic Military / Off-Road Utility Vehicle — -"
+  },
+  {
+    "merek": "VW",
+    "model": "Variant / Type 3 (Notchback / Fastback / Squareback)",
+    "segmen": "Classic Compact Sedan & Station Wagon",
+    "catatan": "Classic Compact Sedan & Station Wagon — -"
+  },
+  {
+    "merek": "VW",
+    "model": "Brasilia",
+    "segmen": "Classic Hatchback / Station Wagon",
+    "catatan": "Classic Hatchback / Station Wagon — -"
+  },
+  {
+    "merek": "VW",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "VW",
+    "model": "TOTAL",
+    "segmen": "30 model",
+    "catatan": "30 model"
+  },
+  {
+    "merek": "WULING",
+    "model": "Air ev (Standard Range / Long Range / Lite)",
+    "segmen": "Micro / Compact City Car Listrik",
+    "catatan": "Micro / Compact City Car Listrik — BEV"
+  },
+  {
+    "merek": "WULING",
+    "model": "BinguoEV (Long Range / Premium Range)",
+    "segmen": "Subcompact Hatchback Listrik",
+    "catatan": "Subcompact Hatchback Listrik — BEV"
+  },
+  {
+    "merek": "WULING",
+    "model": "Alvez (SE / CE / EX)",
+    "segmen": "Compact Crossover SUV",
+    "catatan": "Compact Crossover SUV — -"
+  },
+  {
+    "merek": "WULING",
+    "model": "Almaz RS / Almaz Hybrid",
+    "segmen": "Medium SUV",
+    "catatan": "Medium SUV — Performance / Hybrid SUV"
+  },
+  {
+    "merek": "WULING",
+    "model": "Confero S / Confero S DB",
+    "segmen": "Low MPV",
+    "catatan": "Low MPV — 7-Seater / 8-Seater"
+  },
+  {
+    "merek": "WULING",
+    "model": "Cortez S / New Cortez / Cortez CT",
+    "segmen": "Medium MPV",
+    "catatan": "Medium MPV — 7-Seater"
+  },
+  {
+    "merek": "WULING",
+    "model": "Formo S",
+    "segmen": "Passenger MPV Entry Level",
+    "catatan": "Passenger MPV Entry Level — MPV Keluarga Ekonomis"
+  },
+  {
+    "merek": "WULING",
+    "model": "Formo Blind Van",
+    "segmen": "Blind Van",
+    "catatan": "Blind Van — Kendaraan Niaga Kargo"
+  },
+  {
+    "merek": "WULING",
+    "model": "Formo Max (Standard / AC)",
+    "segmen": "Light Pick-up Truck",
+    "catatan": "Light Pick-up Truck — -"
+  },
+  {
+    "merek": "WULING",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "WULING",
+    "model": "TOTAL",
+    "segmen": "13 model",
+    "catatan": "13 model"
+  },
+  {
+    "merek": "GEELY",
+    "model": "Geely EX5",
+    "segmen": "SUV Premium",
+    "catatan": "SUV Premium — BEV. Jarak tempuh hingga 495 km, fitur ADAS lengkap"
+  },
+  {
+    "merek": "GEELY",
+    "model": "Geely EX2",
+    "segmen": "City Car / Hatchback",
+    "catatan": "City Car / Hatchback — BEV. Jarak tempuh hingga 395 km, model termurah Geely"
+  },
+  {
+    "merek": "GEELY",
+    "model": "Zeekr 7X",
+    "segmen": "SUV Premium",
+    "catatan": "SUV Premium — BEV. Sub-merek premium Geely"
+  },
+  {
+    "merek": "GEELY",
+    "model": "Zeekr 009",
+    "segmen": "MPV Mewah",
+    "catatan": "MPV Mewah — BEV. Sub-merek premium Geely"
+  },
+  {
+    "merek": "GEELY",
+    "model": "Geely Starray EM-i",
+    "segmen": "SUV",
+    "catatan": "SUV — PHEV. Klaim efisiensi tinggi dengan jangkauan lebih dari 1.000 km"
+  },
+  {
+    "merek": "GEELY",
+    "model": "Geely Coolray",
+    "segmen": "SUV Kompak",
+    "catatan": "SUV Kompak — Bensin. Mesin 1.500 cc turbo, 171 dk, 290 Nm"
+  },
+  {
+    "merek": "GEELY",
+    "model": "Geely Okavango",
+    "segmen": "SUV Keluarga 7-penumpang",
+    "catatan": "SUV Keluarga 7-penumpang — Bensin. Model ICE andalan segmen keluarga"
+  },
+  {
+    "merek": "GEELY",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "GEELY",
+    "model": "TOTAL",
+    "segmen": "7 model",
+    "catatan": "7 model"
+  },
+  {
+    "merek": "VINFAST",
+    "model": "VF 3",
+    "segmen": "City Car / SUV Kompak",
+    "catatan": "City Car / SUV Kompak — Model termurah VinFast. Tersedia opsi sewa baterai"
+  },
+  {
+    "merek": "VINFAST",
+    "model": "VF 5",
+    "segmen": "SUV Hatchback",
+    "catatan": "SUV Hatchback — Model entry-level untuk penggunaan perkotaan"
+  },
+  {
+    "merek": "VINFAST",
+    "model": "VF e34",
+    "segmen": "SUV",
+    "catatan": "SUV — Model pertama yang diperkenalkan di Indonesia"
+  },
+  {
+    "merek": "VINFAST",
+    "model": "VF 6",
+    "segmen": "SUV Kompak (C-Segment)",
+    "catatan": "SUV Kompak (C-Segment) — Tersedia varian Eco dan Plus"
+  },
+  {
+    "merek": "VINFAST",
+    "model": "VF 7",
+    "segmen": "SUV Premium",
+    "catatan": "SUV Premium — SUV listrik dengan spesifikasi tinggi"
+  },
+  {
+    "merek": "VINFAST",
+    "model": "VF MPV 7",
+    "segmen": "MPV Keluarga 7-penumpang",
+    "catatan": "MPV Keluarga 7-penumpang — Model terbaru untuk keluarga besar"
+  },
+  {
+    "merek": "VINFAST",
+    "model": "Limo Green",
+    "segmen": "MPV / Taksi Listrik",
+    "catatan": "MPV / Taksi Listrik — Dirancang khusus untuk kebutuhan taksi"
+  },
+  {
+    "merek": "VINFAST",
+    "model": "Wild",
+    "segmen": "Double Cabin / Pick-up",
+    "catatan": "Double Cabin / Pick-up — Model pikap listrik untuk segmen niaga"
+  },
+  {
+    "merek": "VINFAST",
+    "model": "Evo",
+    "segmen": "Skutik Listrik",
+    "catatan": "Skutik Listrik — Jarak tempuh hingga 150 km (dengan 2 baterai)"
+  },
+  {
+    "merek": "VINFAST",
+    "model": "Feliz II",
+    "segmen": "Skutik Listrik",
+    "catatan": "Skutik Listrik — Desain klasik, jarak tempuh sekitar 145 km"
+  },
+  {
+    "merek": "VINFAST",
+    "model": "Viper",
+    "segmen": "Skutik Listrik",
+    "catatan": "Skutik Listrik — Performa lebih tinggi di segmen upper-middle"
+  },
+  {
+    "merek": "VINFAST",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "VINFAST",
+    "model": "TOTAL",
+    "segmen": "11 model",
+    "catatan": "11 model"
+  },
+  {
+    "merek": "AION",
+    "model": "AION UT",
+    "segmen": "Hatchback",
+    "catatan": "Hatchback — Model terlaris di Indonesia. Tersedia varian Standard & Premium, baterai 44,12 kWh / 60 kWh, jarak tempuh 400-500 km"
+  },
+  {
+    "merek": "AION",
+    "model": "AION Y Plus",
+    "segmen": "SUV Kompak / MPV",
+    "catatan": "SUV Kompak / MPV — Model pertama yang diperkenalkan di Indonesia. Kabin luas dengan kursi depan bisa direbahkan rata. Tersedia varian Exclusive & Premium, baterai 50,6 kWh / 63,2 kWh, jarak tempuh 410-490 km"
+  },
+  {
+    "merek": "AION",
+    "model": "AION V",
+    "segmen": "SUV",
+    "catatan": "SUV — Kabin luas dengan jarak tempuh kompetitif. Tersedia varian Exclusive & Luxury, baterai 64,5 kWh / 75,3 kWh, jarak tempuh 505-602 km"
+  },
+  {
+    "merek": "AION",
+    "model": "AION Hyptec HT",
+    "segmen": "SUV Premium / SUV Coupe",
+    "catatan": "SUV Premium / SUV Coupe — Model premium dengan performa tinggi (335 hp, 430 Nm). Varian Ultra dilengkapi pintu belakang model gullwing. Dilengkapi sistem audio Dolby Atmos 22 speaker"
+  },
+  {
+    "merek": "AION",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "AION",
+    "model": "TOTAL",
+    "segmen": "4 model",
+    "catatan": "4 model"
+  },
+  {
+    "merek": "GWM",
+    "model": "GWM Ora 03",
+    "segmen": "Hatchback Listrik",
+    "catatan": "Hatchback Listrik — BEV. Dirakit lokal (CKD) dengan TKDN >40%, mendapat insentif PPN. Jarak tempuh hingga 400 km"
+  },
+  {
+    "merek": "GWM",
+    "model": "GWM Ora 5",
+    "segmen": "SUV / Touring Listrik",
+    "catatan": "SUV / Touring Listrik — BEV. Model terbaru yang dipamerkan di GIIAS 2026. Baterai lebih besar dari Ora 03"
+  },
+  {
+    "merek": "GWM",
+    "model": "GWM Haval Jolion",
+    "segmen": "SUV Kompak Hybrid",
+    "catatan": "SUV Kompak Hybrid — HEV. Dirakit lokal (CKD). Teknologi DHT untuk efisiensi bahan bakar"
+  },
+  {
+    "merek": "GWM",
+    "model": "GWM Haval H6",
+    "segmen": "SUV Keluarga Hybrid",
+    "catatan": "SUV Keluarga Hybrid — HEV. Ukuran lebih besar dari Jolion"
+  },
+  {
+    "merek": "GWM",
+    "model": "GWM Tank 300",
+    "segmen": "SUV Tangguh Off-road",
+    "catatan": "SUV Tangguh Off-road — Tersedia Diesel 4x2 / Diesel 4x4 / HEV 4x4"
+  },
+  {
+    "merek": "GWM",
+    "model": "GWM Tank 500",
+    "segmen": "SUV Premium Tangguh",
+    "catatan": "SUV Premium Tangguh — Tersedia Diesel 4x2 / Diesel 4x4 / HEV 4x4 / Black Warrior Edition"
+  },
+  {
+    "merek": "GWM",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "GWM",
+    "model": "TOTAL",
+    "segmen": "6 model",
+    "catatan": "6 model"
+  },
+  {
+    "merek": "NETA",
+    "model": "NETA V-II",
+    "segmen": "SUV Kompak / Hatchback",
+    "catatan": "SUV Kompak / Hatchback — BEV. Baterai 36,1 kWh, jarak tempuh hingga 401 km, dilengkapi 9 fitur ADAS. Pernah dijual, produksi lokal (CKD) telah dimulai"
+  },
+  {
+    "merek": "NETA",
+    "model": "NETA X",
+    "segmen": "SUV Medium",
+    "catatan": "SUV Medium — BEV. Tersedia varian 500 Elite & 500 Supreme. Baterai LFP, jarak tempuh hingga 480 km. Varian Supreme dilengkapi ADAS Level 2"
+  },
+  {
+    "merek": "NETA",
+    "model": "NETA S",
+    "segmen": "Sedan Sport",
+    "catatan": "Sedan Sport — BEV. Masih dalam tahap perkenalan (GIIAS 2023). Baterai hingga 95 kWh, klaim jarak tempuh 1.100 km. Desain futuristik dengan butterfly door"
+  },
+  {
+    "merek": "NETA",
+    "model": "NETA GT",
+    "segmen": "Sport Coupe",
+    "catatan": "Sport Coupe — BEV. Masih dalam tahap perkenalan. Mobil sport coupe 2+2, akselerasi 0-100 km/jam dalam 3,7 detik, jarak tempuh hingga 560 km"
+  },
+  {
+    "merek": "NETA",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "NETA",
+    "model": "TOTAL",
+    "segmen": "4 model",
+    "catatan": "4 model"
+  },
+  {
+    "merek": "MAXUS",
+    "model": "Maxus MIFA 7",
+    "segmen": "MPV Listrik Premium",
+    "catatan": "MPV Listrik Premium — BEV. Baterai 90 kWh, jarak tempuh hingga 570 km (NEDC). Kabin lapang dengan desain lantai rata. Dirakit secara lokal (CKD) di Indonesia"
+  },
+  {
+    "merek": "MAXUS",
+    "model": "Maxus MIFA 9",
+    "segmen": "MPV Listrik Premium",
+    "catatan": "MPV Listrik Premium — BEV. Model flagship dengan konsep quiet luxury. Baterai 90 kWh, jarak tempuh hingga 520 km (NEDC). Kabin mewah dengan kursi kapten berpijat & ventilasi. Dirakit secara lokal (CKD)"
+  },
+  {
+    "merek": "MAXUS",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "MAXUS",
+    "model": "TOTAL",
+    "segmen": "2 model",
+    "catatan": "2 model"
+  },
+  {
+    "merek": "BAIC",
+    "model": "BAIC T1",
+    "segmen": "Crossover / Hatchback EV",
+    "catatan": "Crossover / Hatchback EV — BEV. Tersedia dua spesifikasi baterai:"
+  },
+  {
+    "merek": "BAIC",
+    "model": "BAIC BJ30 HEV",
+    "segmen": "SUV Hybrid Kompak",
+    "catatan": "SUV Hybrid Kompak — HEV. Model terlaris BAIC (201 unit di GIIAS 2026). Pilihan efisien untuk kendaraan keluarga"
+  },
+  {
+    "merek": "BAIC",
+    "model": "BAIC BJ40 Plus",
+    "segmen": "SUV Tangguh (Off-road)",
+    "catatan": "SUV Tangguh (Off-road) — Bensin. SUV bergaya kotak dengan atap dapat dilepas (removable hardtop). Mesin 2.0L Turbo (221 hp, 380 Nm), transmisi otomatis 8-percepatan ZF, penggerak 4x4 dengan transfer case"
+  },
+  {
+    "merek": "BAIC",
+    "model": "BAIC X55 II",
+    "segmen": "SUV Kompak (Crossover)",
+    "catatan": "SUV Kompak (Crossover) — Bensin. Desain futuristik ala mobil listrik (gagang pintu pop-out). Mesin 1.5L Turbo \"Magic Core\" (185 hp, 305 Nm), transmisi DCT 7-percepatan, FWD. Tersedia varian Lite dan Prime"
+  },
+  {
+    "merek": "BAIC",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "BAIC",
+    "model": "TOTAL",
+    "segmen": "4 model",
+    "catatan": "4 model"
+  },
+  {
+    "merek": "Lepas",
+    "model": "Lepas E4 EV",
+    "segmen": "SUV Kompak Listrik",
+    "catatan": "SUV Kompak Listrik — BEV. SUV coupe listrik dengan desain \"Leopard Aesthetics\". Baterai 65,05 kWh / 67 kWh, jarak tempuh 500 km (NEDC) hingga 600+ km (CLTC). Motor 160 kW (215 hp), torsi 275 Nm, akselerasi 0-100 km/jam 7,2 detik. DC fast charging 30-80% dalam 20-22 menit. Dilengkapi 18 fitur ADAS, V2L (3,3 kW), dan kamera 540°. Diluncurkan di GIIAS 2026"
+  },
+  {
+    "merek": "Lepas",
+    "model": "Lepas E6 EV",
+    "segmen": "SUV Listrik",
+    "catatan": "SUV Listrik — BEV. Model yang dirancang untuk penggunaan perkotaan dengan desain rendah dan lebar. Dilengkapi teknologi VPD, H-NOA, Bosch IPB 2.0, dan AI Agent. Diperkenalkan di GIIAS 2026, rencana meluncur pada kuartal IV 2026"
+  },
+  {
+    "merek": "Lepas",
+    "model": "Lepas L8",
+    "segmen": "SUV Premium",
+    "catatan": "SUV Premium — PHEV. Berbasis LEX Platform. Total tenaga 274 hp dan torsi 365 Nm. Baterai LFP 18,4 kWh, mode listrik murni hingga 100 km, total jangkauan hingga 1.300 km. Fitur unggulan: Automated Parking Assist (APA) dan Remote Parking Assist (RPA). Pemesanan telah dibuka. Produksi lokal (CKD) oleh Handal Indonesia Motor mulai Februari 2026"
+  },
+  {
+    "merek": "Lepas",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "Lepas",
+    "model": "TOTAL",
+    "segmen": "3 model",
+    "catatan": "3 model"
+  },
+  {
+    "merek": "CHANGAN",
+    "model": "Changan Nevo Q05",
+    "segmen": "SUV Listrik Kompak (Sub-merek Nevo)",
+    "catatan": "SUV Listrik Kompak (Sub-merek Nevo) — BEV. Tersedia varian Pro & Max. Baterai LFP 51,9 kWh, jarak tempuh hingga 462 km (NEDC). Dilengkapi 12 fitur ADAS Level 2 dan V2L 3,3 kW. Pengisian cepat 30-80% dalam 15-30 menit"
+  },
+  {
+    "merek": "CHANGAN",
+    "model": "Changan Deepal S05",
+    "segmen": "SUV Modern (Sub-merek Deepal)",
+    "catatan": "SUV Modern (Sub-merek Deepal) — BEV / REEV. Tersedia dua varian:"
+  },
+  {
+    "merek": "CHANGAN",
+    "model": "Changan Deepal S07",
+    "segmen": "SUV Premium (Sub-merek Deepal)",
+    "catatan": "SUV Premium (Sub-merek Deepal) — BEV. Model flagship Deepal di Indonesia dengan spesifikasi premium. Dipamerkan di GIIAS 2026"
+  },
+  {
+    "merek": "CHANGAN",
+    "model": "Changan Lumin",
+    "segmen": "Hatchback Listrik (City Car)",
+    "catatan": "Hatchback Listrik (City Car) — BEV. Model paling terjangkau dari Changan. Model dengan distribusi tertinggi di awal kehadiran Changan di Indonesia (119 unit)"
+  },
+  {
+    "merek": "CHANGAN",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "CHANGAN",
+    "model": "TOTAL",
+    "segmen": "4 model",
+    "catatan": "4 model"
+  },
+  {
+    "merek": "ICAR",
+    "model": "iCAR V23 X RWD",
+    "segmen": "SUV Listrik Boxy",
+    "catatan": "SUV Listrik Boxy — BEV. Varian entry-level. Baterai 59,93 kWh, jarak tempuh 360 km (NEDC), pelek 19 inci, ground clearance 205 mm, fitur keselamatan standar"
+  },
+  {
+    "merek": "ICAR",
+    "model": "iCAR V23 Y RWD",
+    "segmen": "SUV Listrik Boxy",
+    "catatan": "SUV Listrik Boxy — BEV. Varian menengah. Baterai 59,93 kWh, jarak tempuh 360 km (NEDC). Dilengkapi Full ADAS dan kamera 540 derajat"
+  },
+  {
+    "merek": "ICAR",
+    "model": "iCAR V23 Z iWD",
+    "segmen": "SUV Listrik Boxy",
+    "catatan": "SUV Listrik Boxy — BEV. Varian tertinggi. Baterai 81,76 kWh, jarak tempuh 430 km (NEDC), dual motor, pelek 21 inci, ground clearance 210 mm"
+  },
+  {
+    "merek": "XPENG",
+    "model": "Xpeng G6",
+    "segmen": "SUV Coupe Listrik (5-seater)",
+    "catatan": "SUV Coupe Listrik (5-seater) — BEV. Platform 800V, pengisian 10 menit setara 230 km. Dilengkapi fitur ADAS, parkir otomatis, dan panoramic roof. Model yang diluncurkan pada Juni 2025"
+  },
+  {
+    "merek": "XPENG",
+    "model": "Xpeng G6 AWD",
+    "segmen": "SUV Coupe Listrik Performa (5-seater)",
+    "catatan": "SUV Coupe Listrik Performa (5-seater) — BEV. Varian terbaru G6 dengan penggerak semua roda (AWD). Akselerasi 0-100 km/jam dalam 4,13 detik. Baterai 80,8 kWh, jarak tempuh hingga 575 km (NEDC). Diluncurkan Juni 2026"
+  },
+  {
+    "merek": "XPENG",
+    "model": "Xpeng X9",
+    "segmen": "MPV Listrik Premium (7-seater)",
+    "catatan": "MPV Listrik Premium (7-seater) — BEV. Desain \"Starship\". Dilengkapi rear-wheel steering (radius putar 5,4 m), air suspension, dan kabin mewah. Kapasitas bagasi fleksibel hingga 1.800 liter. Tersedia varian Standard Range Pro, Long Range Pro, & Long Range Pro+"
+  },
+  {
+    "merek": "XPENG",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "XPENG",
+    "model": "TOTAL",
+    "segmen": "3 model",
+    "catatan": "3 model"
+  },
+  {
+    "merek": "HONGQI",
+    "model": "Hongqi E-HS9",
+    "segmen": "SUV Listrik Mewah (Full-size)",
+    "catatan": "SUV Listrik Mewah (Full-size) — BEV. Model pertama yang dikonfirmasi untuk Indonesia. Tersedia konfigurasi 6 atau 7 tempat duduk. Ditenagai AWD dengan dual motor listrik. Tersedia pilihan baterai 99 kWh atau 120 kWh, jarak tempuh sekitar 400-515 km. Rencana CKD di Indonesia"
+  },
+  {
+    "merek": "HONGQI",
+    "model": "Hongqi E-QM5",
+    "segmen": "Sedan Listrik",
+    "catatan": "Sedan Listrik — BEV. Model sedan listrik Hongqi. Belum ada konfirmasi resmi untuk Indonesia"
+  },
+  {
+    "merek": "HONGQI",
+    "model": "Hongqi EH7",
+    "segmen": "Sedan Listrik",
+    "catatan": "Sedan Listrik — BEV. Model sedan listrik Hongqi. Belum ada konfirmasi resmi untuk Indonesia"
+  },
+  {
+    "merek": "HONGQI",
+    "model": "Hongqi EHS7",
+    "segmen": "SUV Listrik",
+    "catatan": "SUV Listrik — BEV. Model SUV listrik Hongqi. Belum ada konfirmasi resmi untuk Indonesia"
+  },
+  {
+    "merek": "HONGQI",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "HONGQI",
+    "model": "TOTAL",
+    "segmen": "4 model",
+    "catatan": "4 model"
+  },
+  {
+    "merek": "LEAPMOTOR",
+    "model": "Leapmotor B10",
+    "segmen": "SUV Listrik Ringkas (Compact SUV)",
+    "catatan": "SUV Listrik Ringkas (Compact SUV) — BEV. SUV perkotaan yang lincah dan modern. Hanya tersedia varian spesifikasi tinggi (Design). Mengusung standar keselamatan 5-Star Euro NCAP dan ADAS Level 2. Karakter pengendalian telah disempurnakan oleh tim engineering Stellantis di Italia. Meluncur di GIIAS 2026"
+  },
+  {
+    "merek": "LEAPMOTOR",
+    "model": "Leapmotor C10",
+    "segmen": "SUV Keluarga (Mid-size SUV)",
+    "catatan": "SUV Keluarga (Mid-size SUV) — BEV. SUV premium berorientasi keluarga (Global Family SUV). Baterai LFP 69,9 kWh, jarak tempuh 478 km (NEDC), motor RWD 221 hp. Kabin luas dengan material kulit silikon bersertifikasi OEKO-TEX, 2 layar digital, dan audio 12 speaker 840W. Fitur ADAS Level 2 dengan 16 fungsi dan 7 airbag. Meluncur di GIIAS 2026"
+  },
+  {
+    "merek": "LEAPMOTOR",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "LEAPMOTOR",
+    "model": "TOTAL",
+    "segmen": "2 model",
+    "catatan": "2 model"
+  },
+  {
+    "merek": "SMART",
+    "model": "Smart #2",
+    "segmen": "City Car Listrik (2-penumpang)",
+    "catatan": "City Car Listrik (2-penumpang) — BEV. Reinkarnasi dari Smart ForTwo. Baterai 35,7 kWh, jarak tempuh sekitar 300 km (WLTP). Debut global direncanakan Oktober 2026. Belum diperkenalkan di Indonesia"
+  },
+  {
+    "merek": "SMART",
+    "model": "Smart #3",
+    "segmen": "SUV Crossover Kompak",
+    "catatan": "SUV Crossover Kompak — BEV. Dipamerkan di GIIAS 2024 dalam dua varian: Premium dan Brabus. Varian Brabus: akselerasi 0-100 km/jam dalam 3,6 detik, baterai 66 kWh, jarak tempuh 415 km. Penjualan belum dimulai"
+  },
+  {
+    "merek": "SMART",
+    "model": "Smart #5",
+    "segmen": "SUV Keluarga Premium",
+    "catatan": "SUV Keluarga Premium — BEV. Teknologi 800V. Tersedia varian performa tinggi Brabus dengan daya hingga 637 hp. Dimensi panjang 4,7 meter. Belum diperkenalkan secara resmi di Indonesia"
+  },
+  {
+    "merek": "SMART",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "SMART",
+    "model": "TOTAL",
+    "segmen": "3 model",
+    "catatan": "3 model"
+  },
+  {
+    "merek": "ALETRA",
+    "model": "Aletra L8 EV (Short Range)",
+    "segmen": "MPV Listrik Medium (7-penumpang)",
+    "catatan": "MPV Listrik Medium (7-penumpang) — BEV. Baterai LFP 50,4 kWh, jarak tempuh 431 km (CLTC), motor 161 hp, torsi 240 Nm"
+  },
+  {
+    "merek": "ALETRA",
+    "model": "Aletra L8 EV (Long Range / L8S)",
+    "segmen": "MPV Listrik Medium (7-penumpang)",
+    "catatan": "MPV Listrik Medium (7-penumpang) — BEV. Baterai Short Blade Bulletproof 64,74 kWh, jarak tempuh 540 km (CLTC), garansi baterai 8 tahun/500.000 km"
+  },
+  {
+    "merek": "ALETRA",
+    "model": "Aletra L8 EV (8-Seater)",
+    "segmen": "MPV Listrik Medium (8-penumpang)",
+    "catatan": "MPV Listrik Medium (8-penumpang) — BEV. Konfigurasi tempat duduk 8-penumpang. Diluncurkan di GIIAS 2025"
+  },
+  {
+    "merek": "ALETRA",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "ALETRA",
+    "model": "TOTAL",
+    "segmen": "3 model",
+    "catatan": "3 model"
+  },
+  {
+    "merek": "POLYTRON",
+    "model": "Polytron G3",
+    "segmen": "SUV Listrik (5-penumpang)",
+    "catatan": "SUV Listrik (5-penumpang) — Rp299 juta — Rp419 juta — Baterai LFP 51,9 kWh, jarak tempuh 402 km (CLTC). Motor 150 kW (201 hp) & torsi 320 Nm. Velg 19 inci. Dilengkapi ADAS Level 2 dengan 14-21 fungsi, layar 12,8 inci, dan sistem audio XBR. Meluncur Mei 2025"
+  },
+  {
+    "merek": "POLYTRON",
+    "model": "Polytron G3+",
+    "segmen": "SUV Listrik (5-penumpang)",
+    "catatan": "SUV Listrik (5-penumpang) — Rp339 juta — Rp459 juta — Spesifikasi serupa dengan G3, dengan tambahan panoramic sunroof, electronic tailgate, velg 20 inci, dan pengisian AC lebih cepat (11 kW vs 6,6 kW). Meluncur Mei 2025"
+  },
+  {
+    "merek": "POLYTRON",
+    "model": "Kategori",
+    "segmen": "Jumlah Model",
+    "catatan": "Jumlah Model"
+  },
+  {
+    "merek": "POLYTRON",
+    "model": "TOTAL",
+    "segmen": "2 model",
+    "catatan": "2 model"
+  }
+]
