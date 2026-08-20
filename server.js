@@ -25,6 +25,11 @@ function requireAdmin(req, res, next) {
 }
 
 // ── Helper: build WHERE clause dari query params ──────────────────────────────
+const DESC_BENSIN   = 'Bensin (MPI / VVT-i / Dual VVT / Skyactiv-G / i-VTEC / VVT / DVVT)';
+const DESC_DIESEL   = 'Diesel (CRDi / Common Rail / DDiS / dCi / CDTi / Turbo Diesel / Direct Injection)';
+const DESC_HYBRID   = 'Bensin + Listrik (Hybrid HEV / PHEV)';
+const DESC_LISTRIK  = 'Listrik (BEV)';
+
 function buildFilter(query) {
   const conditions = [];
   const values     = [];
@@ -40,20 +45,17 @@ function buildFilter(query) {
   if (query.fuel && query.fuel !== 'all') {
     const f = query.fuel.toLowerCase();
     if (f === 'bensin') {
-      conditions.push(`(bahan_bakar ILIKE $${idx} AND bahan_bakar NOT ILIKE $${idx + 1} AND bahan_bakar NOT ILIKE $${idx + 2})`);
-      values.push('%bensin%'); values.push('%hybrid%'); values.push('%listrik%');
-      idx += 3;
+      conditions.push(`bahan_bakar = $${idx++}`);
+      values.push(DESC_BENSIN);
     } else if (f === 'diesel') {
-      conditions.push(`bahan_bakar ILIKE $${idx++}`);
-      values.push('%diesel%');
+      conditions.push(`bahan_bakar = $${idx++}`);
+      values.push(DESC_DIESEL);
     } else if (f === 'hybrid') {
-      conditions.push(`(bahan_bakar ILIKE $${idx} OR bahan_bakar ILIKE $${idx + 1} OR bahan_bakar ILIKE $${idx + 2})`);
-      values.push('%hybrid%'); values.push('%hev%'); values.push('%phev%');
-      idx += 3;
+      conditions.push(`bahan_bakar = $${idx++}`);
+      values.push(DESC_HYBRID);
     } else if (f === 'listrik') {
-      conditions.push(`(bahan_bakar ILIKE $${idx} OR bahan_bakar ILIKE $${idx + 1})`);
-      values.push('%listrik%'); values.push('%bev%');
-      idx += 2;
+      conditions.push(`bahan_bakar = $${idx++}`);
+      values.push(DESC_LISTRIK);
     } else {
       conditions.push(`bahan_bakar = $${idx++}`);
       values.push(query.fuel);
@@ -135,12 +137,12 @@ app.get('/api/stats', async (_req, res) => {
         COUNT(*)                                                                                AS total,
         COUNT(DISTINCT merek)                                                                   AS brands,
         COUNT(DISTINCT merek || '|' || model)                                                   AS models,
-        COUNT(*) FILTER (WHERE bahan_bakar ILIKE '%bensin%' AND bahan_bakar NOT ILIKE '%hybrid%' AND bahan_bakar NOT ILIKE '%listrik%') AS bensin,
-        COUNT(*) FILTER (WHERE bahan_bakar ILIKE '%diesel%')                                    AS diesel,
-        COUNT(*) FILTER (WHERE bahan_bakar ILIKE '%hybrid%' OR bahan_bakar ILIKE '%hev%' OR bahan_bakar ILIKE '%phev%') AS hybrid,
-        COUNT(*) FILTER (WHERE bahan_bakar ILIKE '%listrik%' OR bahan_bakar ILIKE '%bev%')      AS listrik
+        COUNT(*) FILTER (WHERE bahan_bakar = $1)                                                AS bensin,
+        COUNT(*) FILTER (WHERE bahan_bakar = $2)                                                AS diesel,
+        COUNT(*) FILTER (WHERE bahan_bakar = $3)                                                AS hybrid,
+        COUNT(*) FILTER (WHERE bahan_bakar = $4)                                                AS listrik
       FROM kendaraan
-    `);
+    `, [DESC_BENSIN, DESC_DIESEL, DESC_HYBRID, DESC_LISTRIK]);
     res.json(rows[0]);
   } catch (e) {
     console.error(e);
