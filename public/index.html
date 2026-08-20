@@ -3,8 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Pelat Data — Spesifikasi Oli & Transmisi Mobil Indonesia</title>
-<meta name="description" content="Basis data spesifikasi oli mesin, oli transmisi, kode mesin, dan jenis transmisi untuk mobil bensin, diesel, hybrid & listrik yang beredar di Indonesia — mencakup merek Jepang, Korea, Eropa & Amerika.">
+<title>PSD — Pelat Spesifikasi Database (Base of Advancement)</title>
+<meta name="description" content="Basis data spesifikasi oli mesin, oli transmisi, kode mesin, dan jenis transmisi untuk mobil bensin, diesel, hybrid & listrik yang beredar di Indonesia — mencakup merek Jepang, Korea, Eropa & Amerika. Powered by BOA (Base Of Advancement).">
+<link rel="icon" type="image/png" href="https://coresg-normal.trae.ai/api/ide/v1/text_to_image?image_size=square&prompt=flat%20minimal%20square%20emblem%20logo%20acronym%20PSD%2C%20navy%20blue%20letters%20P%20and%20D%2C%20letter%20S%20in%20bright%20lime%20green%2C%20chemistry%20glass%20beaker%20tiny%20accent%20gear%2C%20dark%20navy%20background%2C%20square%20app%20icon%2C%20no%20shadow%2C%20clean%20edges%2C%20centered">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
@@ -74,8 +75,20 @@
   }
   h1 span{color:var(--amber);}
   .lede{
-    max-width:660px;color:var(--muted);font-size:15px;
+    max-width:820px;color:var(--muted);font-size:15px;
     line-height:1.65;font-weight:300;
+  }
+  .brand-row{
+    display:flex;align-items:flex-start;justify-content:space-between;gap:24px;margin-bottom:8px;
+  }
+  .brand-col{display:flex;flex-direction:column;gap:6px;min-width:0;}
+  .brand-col.left{align-items:flex-start;flex:1 1 auto;}
+  .brand-col.right{align-items:flex-end;flex:0 0 auto;}
+  .logo-psd{display:block;width:100%;max-width:260px;height:auto;filter:drop-shadow(0 2px 6px rgba(0,0,0,.4));}
+  .logo-boa{display:block;width:100%;max-width:220px;height:auto;filter:drop-shadow(0 2px 6px rgba(0,0,0,.4));}
+  .brand-tagline{
+    font-family:'Oswald',sans-serif;font-size:11px;letter-spacing:.32em;color:var(--amber);
+    text-transform:uppercase;line-height:1;
   }
   .header-stats{
     display:flex;gap:40px;margin-top:36px;flex-wrap:wrap;
@@ -282,6 +295,13 @@
     font-family:'IBM Plex Mono',monospace;font-size:11px;
     color:var(--muted2);padding:0 6px;
   }
+  .site-footer{
+    display:flex;justify-content:space-between;align-items:center;gap:14px;flex-wrap:wrap;
+    margin:56px 0 36px;padding-top:28px;border-top:1px solid var(--line2);
+    color:var(--muted2);font-family:'IBM Plex Mono',monospace;font-size:11px;line-height:1.7;
+  }
+  .site-footer .foot-brand{color:var(--muted);font-family:'Oswald',sans-serif;letter-spacing:.2em;text-transform:uppercase;}
+  .site-footer .foot-right{text-align:right;}
 
   /* ── MODAL ─────────────────────────────────────────────────────────── */
   .modal-backdrop{
@@ -458,6 +478,9 @@
     header{padding:44px 4.5vw 32px;}
     .controls{padding:14px 4.5vw;}
     main{padding:22px 4.5vw 60px;}
+    .brand-row{gap:18px;margin-bottom:6px;}
+    .logo-psd{max-width:200px;}
+    .logo-boa{max-width:170px;}
     .header-stats{gap:22px 28px;}
     .grid{
       grid-template-columns:repeat(auto-fill,minmax(280px,1fr));
@@ -476,11 +499,16 @@
   }
 
   @media(max-width:520px){
-    header{padding:32px 5vw 24px;}
-    .eyebrow{font-size:10px;letter-spacing:.15em;margin-bottom:14px;}
-    h1{font-size:clamp(28px,9.5vw,44px);line-height:1.05;}
-    .lede{font-size:13.5px;line-height:1.6;max-width:100%;}
-    .header-stats{gap:16px 22px;margin-top:24px;padding-top:20px;}
+    header{padding:28px 5vw 22px;}
+    .brand-row{flex-direction:column;align-items:flex-start;gap:14px;margin-bottom:4px;}
+    .brand-col.right{align-items:flex-start;}
+    .logo-psd{max-width:220px;}
+    .logo-boa{max-width:150px;}
+    .brand-tagline{font-size:9.5px;letter-spacing:.26em;}
+    .eyebrow{font-size:10px;letter-spacing:.15em;margin-bottom:12px;}
+    h1{font-size:clamp(26px,9vw,42px);line-height:1.05;}
+    .lede{font-size:13px;line-height:1.6;max-width:100%;}
+    .header-stats{gap:14px 20px;margin-top:22px;padding-top:18px;}
     .stat-item{flex:1 1 calc(50% - 11px);min-width:0;}
     .stat-num{font-size:22px;}
     .stat-lbl{font-size:9.5px;letter-spacing:.1em;}
@@ -612,9 +640,19 @@
 
 <!-- ══ HEADER ══════════════════════════════════════════════════════════════ -->
 <header>
-  <div class="eyebrow">Referensi Teknis</div>
+  <div class="brand-row">
+    <div class="brand-col left">
+      <img class="logo-psd" alt="PSD — Pelat Spesifikasi Database"
+           src="https://coresg-normal.trae.ai/api/ide/v1/text_to_image?image_size=square_hd&prompt=PSD%20logo%20Pelat%20Spesifikasi%20Database%2C%20capital%20bold%20navy%20blue%20letters%20P%20S%20D%2C%20lime%20green%20letter%20S%2C%20chemistry%20glass%20erlenmeyer%20beaker%20green%20liquid%20on%20left%2C%20car%20sport%20silhouette%20outline%20inside%20navy%20circle%20ring%20on%20top%2C%20mechanical%20cog%20gear%20wheel%20green%20accent%20right%2C%20below%20four%20thin%20line%20icons%20magnifier%20with%20heartbeat%20line%2C%20engine%20block%2C%20beaker%20flask%2C%20bar%20chart%20with%20arrow%2C%20flat%20modern%20vector%20logo%2C%20transparent%20background%2C%20clean%20edges%2C%20no%20shadow%2C%20high%20resolution">
+      <div class="brand-tagline">Pelat · Spesifikasi · Database</div>
+    </div>
+    <div class="brand-col right">
+      <img class="logo-boa" alt="BOA — Base Of Advancement"
+           src="https://coresg-normal.trae.ai/api/ide/v1/text_to_image?image_size=landscape_4_3&prompt=BOA%20logo%20Base%20Of%20Advancement%2C%20bold%20navy%20capital%20letters%20B%20O%20A%2C%20letter%20O%20replaced%20by%20circular%20rotating%20dual%20ring%20arrow%20blue%20navy%20grey%20rotation%20recycling%20icon%2C%20horizontal%20navy%20line%20under%20the%20letters%2C%20tagline%20text%20Base%20Of%20Advancement%20spaced%20sans%20serif%20navy%20below%20line%2C%20flat%20corporate%20vector%20logo%2C%20white%20transparent%20background%2C%20no%20shadow%2C%20centered%20high%20resolution">
+    </div>
+  </div>
   <h1>CAR DATABASE</h1>
-  <p class="lede">Basis data spesifikasi oli mesin, oli transmisi, kode mesin, dan jenis transmisi untuk mobil bensin, diesel, hybrid <span class="amp">&amp;</span> listrik di Indonesia — mencakup merek Jepang, Korea, Eropa, Tiongkok &amp; Amerika.</p>
+  <p class="lede">Basis data spesifikasi oli mesin, oli transmisi, kode mesin, dan jenis transmisi untuk mobil bensin, diesel, hybrid <span class="amp">&amp;</span> listrik di Indonesia — mencakup merek Jepang, Korea, Eropa, Tiongkok &amp; Amerika.<br>Powered by <strong style="color:var(--text);font-weight:600;">BOA — Base Of Advancement</strong>.</p>
   <div class="header-stats">
     <div class="stat-item"><div class="stat-num" id="stat-total">—</div><div class="stat-lbl">Konfigurasi Mesin</div></div>
     <div class="stat-item"><div class="stat-num" id="stat-brands">—</div><div class="stat-lbl">Merek</div></div>
@@ -672,6 +710,11 @@
 <main>
   <div class="grid" id="grid"></div>
   <div class="pagination" id="pagination"></div>
+  <div class="site-footer">
+    <div class="foot-brand">PSD x BOA</div>
+    <div>© 2026 PSD — Pelat Spesifikasi Database</div>
+    <div class="foot-right">Powered by <strong>Base Of Advancement</strong></div>
+  </div>
 </main>
 
 <!-- ══ FOOTER ═══════════════════════════════════════════════════════════════ -->
