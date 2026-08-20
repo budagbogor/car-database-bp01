@@ -60,7 +60,7 @@ function buildFilter(query) {
     }
   }
   if (query.brand) {
-    conditions.push(`merek = $${idx++}`);
+    conditions.push(`merek ILIKE $${idx++}`);
     values.push(query.brand);
   }
   if (query.trans) {
@@ -68,7 +68,7 @@ function buildFilter(query) {
     values.push(query.trans);
   }
   if (query.category) {
-    conditions.push(`kategori = $${idx++}`);
+    conditions.push(`kategori ILIKE $${idx++}`);
     values.push(query.category);
   }
   if (query.ps === 'eps') {

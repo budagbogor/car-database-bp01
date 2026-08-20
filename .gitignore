@@ -6,3 +6,5 @@ Thumbs.db
 dist/
 .nyc_output/
 coverage/
+backup_*.csv
+backup_*.sql
