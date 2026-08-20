@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Pelat Data — Spesifikasi Oli & Transmisi Mobil Indonesia</title>
-<meta name="description" content="Basis data spesifikasi oli mesin, oli transmisi, kode mesin, dan jenis transmisi untuk mobil bensin & diesel yang beredar di Indonesia.">
+<meta name="description" content="Basis data spesifikasi oli mesin, oli transmisi, kode mesin, dan jenis transmisi untuk mobil bensin, diesel, hybrid & listrik yang beredar di Indonesia — mencakup merek Jepang, Korea, Eropa & Amerika.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
@@ -13,6 +13,8 @@
     --line:#3a3e41; --line2:#2d3033;
     --amber:#f2a900; --amber-dim:#7a5c12; --amber-glow:rgba(242,169,0,.12);
     --teal:#3fa796; --teal-dim:#1f4f47; --teal-glow:rgba(63,167,150,.1);
+    --purple:#b88ae0; --purple-dim:#4a3878; --purple-glow:rgba(184,138,224,.1);
+    --cyan:#7cc1ff; --cyan-dim:#1f3f5a; --cyan-glow:rgba(124,193,255,.1);
     --text:#eae7e1; --muted:#93999d; --muted2:#5f6568;
     --red:#c1543f; --red-dim:#5a2419; --green:#4caf7d; --green-dim:#1e4a34;
     --radius:4px;
@@ -133,6 +135,8 @@
   .fuel-toggle button.active[data-fuel="all"]{background:var(--surface2);color:var(--text);}
   .fuel-toggle button.active[data-fuel="bensin"]{background:var(--amber-dim);color:var(--amber);}
   .fuel-toggle button.active[data-fuel="diesel"]{background:var(--teal-dim);color:var(--teal);}
+  .fuel-toggle button.active[data-fuel="hybrid"]{background:var(--purple-dim);color:var(--purple);}
+  .fuel-toggle button.active[data-fuel="listrik"]{background:var(--cyan-dim);color:var(--cyan);}
 
   .btn{
     background:var(--surface);border:1px solid var(--line);color:var(--muted);
@@ -176,6 +180,8 @@
   .card:hover{border-color:var(--muted2);transform:translateY(-2px);box-shadow:0 8px 24px rgba(0,0,0,.3);}
   .card[data-fuel="diesel"]:hover{border-color:var(--teal);}
   .card[data-fuel="bensin"]:hover{border-color:var(--amber);}
+  .card[data-fuel="hybrid"]:hover{border-color:var(--purple);}
+  .card[data-fuel="listrik"]:hover{border-color:var(--cyan);}
 
   .card::before,.card::after{
     content:'';position:absolute;width:5px;height:5px;border-radius:50%;
@@ -210,6 +216,8 @@
   }
   .badge.bensin{background:var(--amber-dim);color:var(--amber);}
   .badge.diesel{background:var(--teal-dim);color:var(--teal);}
+  .badge.hybrid{background:var(--purple-dim);color:var(--purple);}
+  .badge.listrik{background:var(--cyan-dim);color:var(--cyan);}
   .badge.trans{background:var(--surface2);color:var(--muted);border:1px solid var(--line);}
   .badge.kategori{background:transparent;color:var(--muted2);border:1px solid var(--line2);font-size:9px;white-space:normal;text-align:right;}
   .badge.diff{background:#2a1f45;color:#a78fe0;border:1px solid #4a3878;font-size:9px;}
@@ -228,6 +236,8 @@
   }
   .spec-value.engine-code{color:var(--amber);font-weight:600;}
   .card[data-fuel="diesel"] .spec-value.engine-code{color:var(--teal);}
+  .card[data-fuel="hybrid"] .spec-value.engine-code{color:var(--purple);}
+  .card[data-fuel="listrik"] .spec-value.engine-code{color:var(--cyan);}
   .spec-value.ps-eps{color:#7fc9a8;font-weight:600;}
   .spec-value.ps-hydraulic{color:#d99a4e;font-weight:600;}
   .spec-value.ps-mixed{color:#c9a86a;font-size:11px;}
@@ -604,13 +614,15 @@
 <header>
   <div class="eyebrow">Referensi Teknis</div>
   <h1>CAR DATABASE</h1>
-  <p class="lede">Basis data spesifikasi oli mesin, oli transmisi, kode mesin, dan jenis transmisi untuk mobil bensin &amp; diesel di Indonesia — mencakup merek Jepang, Korea, Eropa &amp; Amerika.</p>
+  <p class="lede">Basis data spesifikasi oli mesin, oli transmisi, kode mesin, dan jenis transmisi untuk mobil bensin, diesel, hybrid <span class="amp">&amp;</span> listrik di Indonesia — mencakup merek Jepang, Korea, Eropa, Tiongkok &amp; Amerika.</p>
   <div class="header-stats">
     <div class="stat-item"><div class="stat-num" id="stat-total">—</div><div class="stat-lbl">Konfigurasi Mesin</div></div>
     <div class="stat-item"><div class="stat-num" id="stat-brands">—</div><div class="stat-lbl">Merek</div></div>
     <div class="stat-item"><div class="stat-num" id="stat-models">—</div><div class="stat-lbl">Model</div></div>
     <div class="stat-item"><div class="stat-num" id="stat-bensin">—</div><div class="stat-lbl">Bensin</div></div>
     <div class="stat-item"><div class="stat-num" id="stat-diesel">—</div><div class="stat-lbl">Diesel</div></div>
+    <div class="stat-item"><div class="stat-num" id="stat-hybrid">—</div><div class="stat-lbl">Hybrid</div></div>
+    <div class="stat-item"><div class="stat-num" id="stat-listrik">—</div><div class="stat-lbl">Listrik</div></div>
   </div>
 </header>
 
@@ -625,6 +637,8 @@
       <button data-fuel="all" class="active">Semua</button>
       <button data-fuel="bensin">Bensin</button>
       <button data-fuel="diesel">Diesel</button>
+      <button data-fuel="hybrid">Hybrid</button>
+      <button data-fuel="listrik">Listrik</button>
     </div>
     <select id="filterBrand"><option value="">Semua Merek</option></select>
     <select id="filterTrans">
@@ -722,7 +736,7 @@
         </select>
       </div>
       <div class="form-group"><label>Bahan Bakar</label>
-        <select id="fBahanBakar"><option value="">— Pilih —</option><option value="bensin">Bensin</option><option value="diesel">Diesel</option></select>
+        <select id="fBahanBakar"><option value="">— Pilih —</option><option value="bensin">Bensin</option><option value="diesel">Diesel</option><option value="hybrid">Hybrid (HEV / PHEV)</option><option value="listrik">Listrik (BEV)</option></select>
       </div>
       <div class="form-group"><label>Kode Mesin</label><input id="fKodeMesin" placeholder="1NR-VE, K3-VE, dsb."></div>
       <div class="form-group"><label>Kapasitas CC</label><input id="fKapasitasCc" placeholder="1496 cc"></div>
@@ -814,6 +828,8 @@ async function init() {
     animNum('stat-models',  parseInt(s.models));
     animNum('stat-bensin',  parseInt(s.bensin));
     animNum('stat-diesel',  parseInt(s.diesel));
+    animNum('stat-hybrid',  parseInt(s.hybrid || 0));
+    animNum('stat-listrik', parseInt(s.listrik || 0));
   } catch(e) { console.warn('stats:', e.message); }
 
   // Brands dropdown
@@ -905,8 +921,18 @@ function renderGrid(rows) {
     if (ps === 'Hidrolik' || ps.startsWith('Hidrolik (')) return 'ps-hydraulic';
     return 'ps-mixed';
   };
-  grid.innerHTML = rows.map((r, i) => `
-    <div class="card" data-fuel="${r.bahan_bakar}" data-id="${r.id}"
+  const fuelClass = (b) => {
+    if (!b) return 'bensin';
+    const s = String(b).toLowerCase();
+    if (s.includes('hybrid') || s.includes('hev') || s.includes('phev')) return 'hybrid';
+    if (s.includes('listrik') || s.includes('bev')) return 'listrik';
+    if (s.includes('diesel')) return 'diesel';
+    return 'bensin';
+  };
+  grid.innerHTML = rows.map((r, i) => {
+    const fc = fuelClass(r.bahan_bakar);
+    return `
+    <div class="card" data-fuel="${fc}" data-id="${r.id}"
          style="animation-delay:${Math.min(i*0.03, 0.3)}s"
          onclick="openDetail(${r.id})">
       <div class="plate-top">
@@ -917,7 +943,7 @@ function renderGrid(rows) {
         </div>
         <div class="badge-col">
           ${r.has_differential ? '<span class="badge diff">GARDAN/4WD</span>' : ''}
-          <span class="badge ${r.bahan_bakar}">${r.bahan_bakar}</span>
+          <span class="badge ${fc}">${r.bahan_bakar}</span>
           <span class="badge trans">${r.tipe_transmisi}</span>
         </div>
       </div>
@@ -928,7 +954,8 @@ function renderGrid(rows) {
         <div class="spec-row"><span class="spec-label">Viskositas Oli</span><span class="spec-value">${r.viskositas_oli||'—'}</span></div>
         <div class="spec-row"><span class="spec-label">Power Steering</span><span class="spec-value ${psClass(r.tipe_power_steering)}">${r.tipe_power_steering||'—'}</span></div>
       </div>
-    </div>`).join('');
+    </div>`;
+  }).join('');
 }
 
 // ═══════════════════════════════════════════════════════════════════════
@@ -1206,7 +1233,13 @@ document.getElementById('adminSave').onclick = async () => {
     fetchAndLoad();
     // Refresh stats
     apiFetch('/api/stats').then(s => {
-      document.getElementById('stat-total').textContent = parseInt(s.total).toLocaleString('id-ID');
+      document.getElementById('stat-total').textContent   = parseInt(s.total).toLocaleString('id-ID');
+      document.getElementById('stat-brands').textContent  = parseInt(s.brands).toLocaleString('id-ID');
+      document.getElementById('stat-models').textContent  = parseInt(s.models).toLocaleString('id-ID');
+      document.getElementById('stat-bensin').textContent  = parseInt(s.bensin).toLocaleString('id-ID');
+      document.getElementById('stat-diesel').textContent  = parseInt(s.diesel).toLocaleString('id-ID');
+      document.getElementById('stat-hybrid').textContent  = parseInt(s.hybrid || 0).toLocaleString('id-ID');
+      document.getElementById('stat-listrik').textContent = parseInt(s.listrik || 0).toLocaleString('id-ID');
     });
   } catch(e) { toast(e.message, 'error'); }
 };
